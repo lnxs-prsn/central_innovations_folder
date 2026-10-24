@@ -21,6 +21,7 @@ New projects get a copy of whichever project I worked on last, so useful knowled
 The same idea is often written differently in different projects; similar names can mean different things.
 Projects can sit unopened for weeks.
 The capability is what’s valuable. The knowledge can be regenerated or taken from industry standards; the capability to manage ever-growing know-how is not small to build, so it must survive anything.
+Every project is in /home/mr/Desktop/python. (Added 2026-10-24 on the CEO's go, with the two lines under Boundaries.)
 
 Boundaries:
 
@@ -29,5 +30,7 @@ If you find a better way to achieve the intent than these measures imply, take i
 GitHub holds only the generic project: the capabilities, usable by anyone, containing none of my innovations.
 Agents must not query GitHub periodically (IP blacklisting risk).
 Nothing may depend on any one agent, model, or provider.
+Freedom: search any folder under /home/mr/Desktop/python.
+Constraint: nothing outside it: the knowledge is not there.
 
 Back-brief: Before building, state my intent in your own words, and describe how you plan to achieve it and why. If anything you discover later changes what I’d want, stop and tell me before continuing.
