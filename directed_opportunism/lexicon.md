@@ -26,6 +26,11 @@ The CEO, same day: "all the terms we had to use so far need to be defined clearl
 - Book: "General von Schlichting, coined the phrase selbstständig denkender Gehorsam – 'independent thinking obedience.'" (p.70). "A German officer's prime duty was to reason why" (p.71).
 - Not: obedience (do as told), nor independence (do as you like); not "agreeing with the user".
 
+**Information-processing capacity; the available level of information**
+- Book: van Creveld: "Confronted with a task, and having less information available than is needed to perform that task, an organisation may react in either of two ways. One is to increase its information-processing capacity, the other to design the organisation, and indeed the task itself, in such a way as to enable it to operate on the basis of less information" (p.144). Structure the tasks "in such a way that the units can perform the tasks with the available level of information" (p.146).
+- Here: an LLM agent's information-processing capacity is its context window and the attention its model gives within it; as a task fills it, each part may get less [hyp: trial 11 did not show lost depth]. Judge it by the parts that each need their own reading and judgment, not by whether the whole fits the context. Dividing the task among subordinates, each with a brief, is van Creveld's second way [interp; the CEO: "division of attention to many steps dilutes the attention quality instead of focusing attention on one task only doing it well and passing result up", directed_opportunism `state/ceo_words_session_63dfc8e4.md`].
+- Not: a larger context window or a stronger model as the answer (the first way); "it fits in my context, so it is one task".
+
 ## 3. Direction
 **Intent**
 - Book: "An intent is the decision to do something now (a task) in order to achieve an outcome (a purpose). The decision will be a function of the situation and the aim" (p.110). "Intent is expressed in terms of what to achieve and why" (p.65). "Alignment needs to be achieved around intent, and autonomy should be granted around actions" (p.65).
