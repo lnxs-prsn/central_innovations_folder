@@ -2,7 +2,7 @@
 
 Why this exists (the CEO, 2026-10-20, directed_opportunism `state/ceo_words_2026-10-20.md`): "we cannot just use plain intent we need to define exactly what words mean in context of the book … intent in general is not exactly what the book means … it can create far different outcome considering if its looked through the llm defaults specially when we wont pass whole book to the projects that use the tool".
 Each entry: **Book**: the book's own defining words, quoted, with the book's page · **Not**: the everyday or AI-world meaning an agent will reach for by default [interp].
-The CEO, same day: "all the terms we had to use so far need to be defined clearly for example high level intent is not same as intent". So the lexicon covers the terms in use: the book's terms (parts 1–5), the book's near-terms that must not be merged (part 6), and words to avoid (part 7). A 'Here' line says how a folder that uses the method applies the term; where a file's path differs between folders, AGENTS.md names it. The lexicon's history: directed_opportunism `evidence/lexicon_history.md`.
+The CEO, same day: "all the terms we had to use so far need to be defined clearly for example high level intent is not same as intent". So the lexicon covers the terms in use: the book's terms (parts 1–5), the book's near-terms that must not be merged (part 6), and words to avoid (part 7). A 'Here' line says how a folder that uses the method applies the term; where a file's path differs between folders, AGENTS.md names it. The lexicon's history: directed_opportunism `evidence/lexicon_history.md`. Read part 7 first: those are the everyday words an agent reaches for, in a reply as much as in a file.
 
 ## 1. The problem
 **Friction**
