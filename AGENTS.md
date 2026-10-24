@@ -6,7 +6,7 @@ The CEO's intent for this project: `intent.md`. Quote it; your own words go besi
 
 ## Which role you hold
 - **The CEO opened the session** ("read handoff", or a task of theirs): you are the CEO's direct subordinate in this project, one level below the CEO. Read on.
-- **You were given a brief for one task** (a message, or a file in `briefs/`): you are that brief's subordinate. Read `directed_opportunism/START_TEXT.md`, `directed_opportunism/lexicon.md` and your brief, backbrief with your own implied tasks (p.250, part 4), and act within it; where your task still breaks down, you are its superior (START_TEXT, "Who holds what").
+- **You were given a brief for one task** (a message, or a file in `briefs/`): you are that brief's subordinate. Read `directed_opportunism/START_TEXT.md` and your brief (the lexicon only for a word you are unsure of: your brief quotes what your task needs, p.62), backbrief with your own implied tasks (p.250, part 4), and act within it; where your task still breaks down, you are its superior (START_TEXT, "Who holds what").
 - **You were given `directed_opportunism/staff_officer_brief.md`**: you are a staff officer. Follow it.
 
 ## Read first, every session (the CEO's direct subordinate)
