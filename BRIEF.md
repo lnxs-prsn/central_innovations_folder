@@ -30,8 +30,8 @@ Measures: the CEO's measures remain in intent.md; none has yet been assessed aga
 
 | Main Tasks | Responsibility | Timing |
 |---|---|---|
-| **Establish how context survives contribution, recognition of equivalent ideas, and selective use, using actual innovations as evidence. Main effort.** | CEO's direct subordinate holds cohesion; a subordinate will receive a written investigation brief. | Next substantive work, before choosing implementation. |
-| Establish how projects are opened and new ones begin, so knowledge can reach them at that point. | A separately briefed subordinate; CEO's direct subordinate compares findings with the context investigation. | Before choosing distribution and integration mechanisms. |
+| **Establish how context survives contribution, recognition of equivalent ideas, and selective use, using actual innovations as evidence. Main effort.** | Context subordinate, briefs/2026-10-25_context.md; CEO's direct subordinate holds cohesion. | Next substantive work, before choosing implementation. |
+| Establish how projects are opened and new ones begin, so knowledge can reach them at that point. | Entry subordinate, briefs/2026-10-25_entry.md; CEO's direct subordinate compares both backbriefs and findings. | Before choosing distribution and integration mechanisms. |
 | Build the generic capability, keeping personal knowledge outside its public repository and making empty recovery possible. | CEO's direct subordinate divides implementation tasks after investigation. | Deferred until evidence supports a concrete design and the backbrief has been presented before building. |
 
 ## 5 BOUNDARIES: Freedoms / Constraints
@@ -57,3 +57,10 @@ CEO's backbrief direction, intent.md:
 2026-10-25 — [interp] No evidence requires changing what we are trying to achieve. There is no preceding strategy brief to compare; this is the initial brief. The missing handoff changes the immediate task to establishing the common map and brief, as AGENTS.md directs. The latest doctrine places adjustment within the work flow; this brief schedules no separate method checks.
 
 [interp] Next action: investigate real examples and project entry points before deciding the design. Main effort and task division are in part 4. Resources used for this orientation: one agent and local file and Git reads, because establishing the initial handoff is one coherent task; no separate agent has yet been assigned.
+
+CEO direction, 2026-10-25 session [evidence: conversation]:
+
+> Committed for you (the sandbox keeps .git read-only for you; I commit your work until that is adjusted).
+> When a step is complete, say so in your report and I commit it.
+
+Earlier direction retained: named paths for commits, never push. The CEO authorized both investigations and checking both backbriefs before action.

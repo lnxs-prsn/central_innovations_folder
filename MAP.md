@@ -18,7 +18,7 @@ For the intent: this gives the work a common direction without assuming that dis
 
 The inherited snapshots, differing standards, long intervals between project openings, and ambiguous names are known from the CEO's account. Actual examples and entry mechanisms remain unexamined. No claim of effective knowledge sharing or recovery has yet been established. [evidence: intent.md; initial orientation, 2026-10-25]
 
-The CEO's direct subordinate holds this map and the cohesion of the work. Investigation tasks and their timing are in BRIEF.md part 4; no subordinate has yet been briefed. [evidence: initial orientation, 2026-10-25]
+The CEO's direct subordinate holds this map and the cohesion of the work. Investigation tasks and their timing are in BRIEF.md part 4; two subordinates have been assigned written briefs and must return backbriefs before investigation. Their terminal references are in briefs/sessions.md. [evidence: initial orientation, 2026-10-25]
 
 ## Roads opened, roads closed
 
@@ -28,4 +28,4 @@ The CEO's direct subordinate holds this map and the cohesion of the work. Invest
 
 ## In progress
 
-None. Initial orientation is recorded; substantive investigation is next as described in BRIEF.md.
+[~] IN PROGRESS: two investigations, to establish context-preserving sharing and feasible project entry before design; done when both evidence-based reports have been reconciled into the next direction. CEO holds commits during the read-only .git restriction (2026-10-25 direction). Written briefs: briefs/2026-10-25_context.md and briefs/2026-10-25_entry.md; backbriefs must be checked before investigation.
