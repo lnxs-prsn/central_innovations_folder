@@ -7,7 +7,7 @@ The CEO's intent for this project: `intent.md`. Quote it; your own words go besi
 ## Which role you hold
 - **The CEO opened the session** ("read handoff", or a task of theirs): you are the CEO's direct subordinate in this project, one level below the CEO. Read on.
 - **You were given a brief for one task** (a message, or a file in `briefs/`): you are that brief's subordinate. Read `directed_opportunism/START_TEXT.md` and your brief (the lexicon only for a word you are unsure of: your brief quotes what your task needs, p.62), backbrief with your own implied tasks (p.250, part 4), and act within it; where your task still breaks down, you are its superior (START_TEXT, "Who holds what").
-- **You were given `directed_opportunism/staff_officer_brief.md`**: you are a staff officer. Follow it.
+- **You were given `directed_opportunism/staff_officer_brief.md`** (on the CEO's word): you are a staff officer. Follow it.
 
 ## Read first, every session (the CEO's direct subordinate)
 1. `directed_opportunism/START_TEXT.md`, whole: the doctrine every level shares.
@@ -34,8 +34,8 @@ An agent that cannot brief a separate agent writes the brief to `briefs/<date>_<
 - **Questions about applying the method** go to directed_opportunism, not the CEO ("questions about applying the method are answered by this project", the CEO's boundary, directed_opportunism; "this project" there is directed_opportunism): record them in `method_gaps.md`.
 
 ## Structure
-The files are an agent's only memory [evidence, directed_opportunism `knowledge/applications.md`: #10], so state lives in them, each fact in one place. Before a step that takes more than one commit, put `[~] IN PROGRESS: <step>, why, done when` under the map's "In progress" and commit it, so a sudden stop leaves the next session the step. The commit that finishes the step brings the map up to date and clears the line. A deferred item goes into `BRIEF.md` part 4 with who holds it and its condition as its Timing (p.250), so it is not lost. When a step is reported, a staff officer also judges the reports the CEO was given in it against the lexicon and START_TEXT principle 1.
+The files are an agent's only memory [evidence, directed_opportunism `knowledge/applications.md`: #10], so state lives in them, each fact in one place. Before a step that takes more than one commit, put `[~] IN PROGRESS: <step>, why, done when` under the map's "In progress" and commit it, so a sudden stop leaves the next session the step. The commit that finishes the step brings the map up to date and clears the line. A deferred item goes into `BRIEF.md` part 4 with who holds it and its condition as its Timing (p.250), so it is not lost.
 
-**When `intent.md` or any file under `directed_opportunism/` changes** (the intent from "none yet" to the CEO's words, or any later change; the shared files when directed_opportunism updates them): before work acts on it, a staff officer judges the files every session reads (`AGENTS.md`, `BRIEF.md`, `MAP.md`) against the new text, and the CEO's direct subordinate adjusts what it finds. Each level "is guided by the intention of the one above" (p.62); a file still written to a replaced intent guides by it [evidence, directed_opportunism `evidence/session_63dfc8e4.md`]. What it finds in the files under `directed_opportunism/` goes to `method_gaps.md`.
+**When `intent.md` or the files under `directed_opportunism/` change,** the CEO's direct subordinate answers "Has the situation changed?" (p.202) against them at its next session. Friction is adjusted in the work flow (START_TEXT, "Who holds what"); this project's gaps file is `method_gaps.md`. No separate checks; a staff officer only on the CEO's word.
 
 <!-- Project-specific content (how to run, test, build) may follow below this line. -->
