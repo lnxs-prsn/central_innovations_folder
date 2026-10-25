@@ -179,7 +179,7 @@ The CEO, same day: "all the terms we had to use so far need to be defined clearl
 
 **Our own working words** (the book has no terms for these; defined here, as the CEO asks: "if need to invent words they need to be clearly defined")
 - Entry: the file an agent reads first: `AGENTS.md`, for any agent; Claude Code reaches it through `CLAUDE.md`.
-- Trial: a test of the files on fresh agents, what was expected written down before it runs, judged by a staff officer [directed_opportunism `evidence/trials/`]. Nearest in the book: the staff ride, where candidates were asked "to assess the ground, the situation, and the options" (p.178) [interp]. From 2026-10-25 none: the evidence comes from the work flow (the CEO: "there should not be anymore tests or checks as everything happens in the work flow").
+- Trial: a test of the files on fresh agents, what was expected written down before it runs, judged by a staff officer [directed_opportunism `evidence/trials/`]. Nearest in the book: the staff ride, where candidates were asked "to assess the ground, the situation, and the options" (p.178) [interp]. From 2026-10-25 none: the method is applied, and adjusted, in real work in the projects (the CEO: "there should not be anymore tests or checks as everything happens in the work flow"; "if we have to run the project anyways after the trial then trials serve nothing").
 - Not: a clinical trial; a tournament round.
 
 **Staff and doctrine**
