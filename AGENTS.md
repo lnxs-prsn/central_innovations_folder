@@ -1,41 +1,29 @@
-# AGENTS.md
+# Project entry
 
-The entry for any agent working in this project. (Claude Code reaches it through `CLAUDE.md`.) This project is directed by the method of Bungay's *The Art of Action*, directed opportunism; the method came from `directed_opportunism`, the project where the CEO has it worked out for agents.
+This project applies directed opportunism. The CEO's intent for this project is `intent.md`; quote its words beside your interpretation (source START_TEXT, principle 1). Preserve project-specific direction below.
 
-The CEO's intent for this project: `intent.md`. Quote it; your own words go beside the quote, never in its place (START_TEXT, principle 1).
+## Reach the shared method first
+Read `directed_opportunism/source` as plain text: one relative directory path, resolved from that file's containing directory. The resolved directory is the designated authoritative method root. Read its `START_TEXT.md` whole. This reference gives every role the current principles and reasons without keeping a second method that can drift [interp of source `project_intent.md`, M1, M2, M5].
 
-## Which role you hold
-- **The CEO opened the session** ("read handoff", or a task of theirs): you are the CEO's direct subordinate in this project, one level below the CEO. Read on.
-- **You were given a brief for one task** (a message, or a file in `briefs/`): you are that brief's subordinate. Read `directed_opportunism/START_TEXT.md` and your brief (the lexicon only for a word you are unsure of: your brief quotes what your task needs, p.62), backbrief with your own implied tasks (p.250, part 4), and act within it; where your task still breaks down, you are its superior (START_TEXT, "Who holds what").
-- **You were given `directed_opportunism/staff_officer_brief.md`** (on the CEO's word): you are a staff officer. Follow it.
+Shared paths below are relative to that source root: `START_TEXT.md`, `knowledge/lexicon.md`, `knowledge/briefing.md`, `knowledge/applications.md`, `knowledge/staff_officer_brief.md`, and source evidence/book paths. Project intent, briefs, map and `friction.md` are relative to this project's root. The source project's intent explains its method work; it is not this project's intent.
 
-## Read first, every session (the CEO's direct subordinate)
-1. `directed_opportunism/START_TEXT.md`, whole: the doctrine every level shares.
-2. `directed_opportunism/lexicon.md`, whole: the book's words, so your replies use them too.
-3. `intent.md`, whole. If it says "none yet", ask the CEO for the intent, and write no "My intent" of your own until it is there. Ask too where a reading would change what the CEO is trying to achieve (p.250) [interp of the CEO's boundary, directed_opportunism: "If a project’s intent is unclear, its agent asks me"]. Otherwise show the reading you took and one you rejected, and decide (START_TEXT, principle 2).
-4. `MAP.md` and `BRIEF.md`: the common map (p.238) and your strategy brief (pp.249–250); together, what the CEO calls the handoff. If they don't exist yet, write them as `directed_opportunism/briefing.md` says, once `intent.md` holds the CEO's words. Answer the brief's part 6, "Has the situation changed?", against what you read; backbrief the CEO; act.
+Preserve relative layout when moving the tree. If this project moves alone or layout changes, its responsible role establishes access to the designated authority within permitted access and updates the reference. An absent, ambiguous or denied source leaves method-dependent work pending: report the missing access to your superior and continue independent work. Do not substitute a cached copy or an arbitrary checkout [interp; source `adoption/NOTE.md`].
 
-## Where things are
-- The doctrine: `directed_opportunism/START_TEXT.md`. Your strategy brief and the common map are `BRIEF.md` and `MAP.md` at this project's root; how to write them: `directed_opportunism/briefing.md`.
-- The book's terms as the book defines them: `directed_opportunism/lexicon.md`. Use them. Where it or the doctrine says "AGENTS.md names the file": the CEO's intent for this project is `intent.md`; the staff officer brief is `directed_opportunism/staff_officer_brief.md`. A source tagged directed_opportunism is in that folder, where the CEO and directed_opportunism can check it.
-- The book itself is not in this project. The doctrine and the lexicon quote it with pages; where a case needs a page they don't quote, record it in `method_gaps.md`. Carry on if you can still fulfil your part and it still makes sense; otherwise refer back. If that is impossible, act in keeping with the intent (p.174; START_TEXT principle 2).
-- Gaps in applying the method: `method_gaps.md`, this project's file, kept when directed_opportunism updates its files.
-- The files under `directed_opportunism/` come from directed_opportunism (`directed_opportunism/VERSION`) and are replaced whole when it updates them, so every project holds the same text [interp: the CEO's measure, "Every project gets the same method, regardless of when it adopted it"]. Don't edit them; what you would change in them goes into `method_gaps.md`.
+## Enter at your role
+- Given a task brief: read it, its recorded go and relevant work/report. Backbrief with your own implied tasks; use the source lexicon for uncertain terms. Continue the existing go within its boundaries (source START_TEXT, “Who holds what”).
+- The CEO opened the session: you are the CEO's direct subordinate here. Read the source `knowledge/lexicon.md`, this project's `intent.md`, `MAP.md` and `BRIEF.md`. If the latter two are absent, create them using source `knowledge/briefing.md` once intent is known. Answer the situation question, backbrief and act within the direction.
+- A staff officer, only on the CEO's word: use source `knowledge/staff_officer_brief.md` with the assigned scope.
 
-## What an agent here needs
-The method asks for capabilities, not a product [interp: the CEO's boundary, "Adoption must not depend on any one agent, model, or provider"]:
-- read and write files in this folder, and run commands;
-- brief a separate agent with a written brief and take its report (subordinates and staff officers, START_TEXT "Who holds what").
+If intent is “none yet” or unclear, ask the CEO; do not invent it. A change to what the CEO is trying to achieve belongs to the CEO; other decisions follow the brief (source START_TEXT principle 2 and briefing guidance). Method questions go through your superior to directed_opportunism, whose CEO says, “Questions about applying the method are answered by this project” (source `project_intent.md`).
 
-An agent that cannot brief a separate agent writes the brief to `briefs/<date>_<task>.md`, tells its superior in its report (at the top, the CEO) that a separate session is needed for it, and carries on with what does not depend on it [interp of p.174's "I carry on"]. Starting that session is a resource only the CEO has (p.173). That session writes its backbrief to `briefs/<date>_<task>_backbrief.md` and stops; whoever wrote the brief checks it at its next session and writes the go into the brief file (p.148) [interp].
+## Experience and continuity
+Before deciding, consult relevant `friction.md` experience and the records your brief names. Record experience and return method findings through your superior as source START_TEXT, “Learning from friction in the work”, explains (M4, M6).
 
-## The CEO's direction
-- **What we are trying to achieve would have to change** (the book's test, p.250: "Yes – and we have to change what we are trying to achieve"): give the CEO the full backbrief and wait for their go (pp.168, 203). The CEO's intent and boundaries change only by the CEO's word. When it changes only tasks (p.250's second answer), carry on [interp]. A new session is not a new brief: orient, show the backbrief, carry on.
-- **Questions about applying the method** go to directed_opportunism, not the CEO ("questions about applying the method are answered by this project", the CEO's boundary, directed_opportunism; "this project" there is directed_opportunism): record them in `method_gaps.md`.
+Use source `knowledge/briefing.md` for the common map, implied tasks and continuity. Local records remain this project's own when the shared method changes. If resources for reading, writing or briefing another agent are missing, report them and continue what does not depend on them (source START_TEXT principle 2).
 
-## Structure
-The files are an agent's only memory [evidence, directed_opportunism `knowledge/applications.md`: #10], so state lives in them, each fact in one place. Before a step that takes more than one commit, put `[~] IN PROGRESS: <step>, why, done when` under the map's "In progress" and commit it, so a sudden stop leaves the next session the step. The commit that finishes the step brings the map up to date and clears the line. A deferred item goes into `BRIEF.md` part 4 with who holds it and its condition as its Timing (p.250), so it is not lost.
+Commit completed local steps with named paths so reasoning changes can be reversed [evidence: source `evidence/friction.md`, 2026-10-25, central_innovations_folder left BRIEF.md and MAP.md uncommitted]. An explicit task no-commit boundary takes precedence; if commit access is unavailable, report the changed paths to your superior for committing (same evidence).
 
-**When `intent.md` or the files under `directed_opportunism/` change,** the CEO's direct subordinate answers "Has the situation changed?" (p.202) against them at its next session. Friction is adjusted in the work flow (START_TEXT, "Who holds what"); this project's gaps file is `method_gaps.md`. No separate checks; a staff officer only on the CEO's word.
+<!-- Project-specific content (intent location if different, how to run, test, build, local boundaries) follows. -->
 
-<!-- Project-specific content (how to run, test, build) may follow below this line. -->
+## Current work boundary
+The CEO stopped this project's work on 2026-10-25 (project commit `39eb514`; source `project_intent.md`, Context). The method migration does not resume it. The context investigation has a backbrief but no GO; the entry investigation awaits its backbrief. Read `BRIEF.md` and `MAP.md` for responsibility and continuation.

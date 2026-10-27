@@ -28,4 +28,10 @@ The CEO's direct subordinate holds this map and the cohesion of the work. Invest
 
 ## In progress
 
-[~] IN PROGRESS: two investigations, to establish context-preserving sharing and feasible project entry before design; done when both evidence-based reports have been reconciled into the next direction. CEO holds commits during the read-only .git restriction (2026-10-25 direction). Written briefs: briefs/2026-10-25_context.md and briefs/2026-10-25_entry.md; backbriefs must be checked before investigation.
+[~] PAUSED by the CEO (project commit `39eb514`; source `project_intent.md`, Context): two investigations, to establish context-preserving sharing and feasible project entry before design; done when both evidence-based reports have been reconciled into the next direction. CEO holds commits during the read-only .git restriction (2026-10-25 direction). Written briefs: briefs/2026-10-25_context.md and briefs/2026-10-25_entry.md; backbriefs must be checked before investigation.
+
+## Method migration, 2026-10-27
+
+The project now reaches the current doctrine and its reasons through `directed_opportunism/source`, with its own experience in `friction.md`. Shared copies have been retired after confirming they contain no local additions. Intent, briefs and backbriefs remain local. [evidence: adoption change; source `adoption/NOTE.md`]
+
+This migration grants no resumption: the context backbrief is received and individually checked, the entry backbrief is absent, and no investigation GO has been issued. The responsible superior continues only after the CEO resumes this project's work. Historical session identifiers in `briefs/sessions.md` do not establish live sessions. Correct application from the new form remains to be shown in real work.

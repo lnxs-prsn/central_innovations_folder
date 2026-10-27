@@ -64,3 +64,9 @@ CEO direction, 2026-10-25 session [evidence: conversation]:
 > When a step is complete, say so in your report and I commit it.
 
 Earlier direction retained: named paths for commits, never push. The CEO authorized both investigations and checking both backbriefs before action.
+
+## Continuation after method migration, 2026-10-27
+
+[evidence: project commit `39eb514`; source `project_intent.md`, Context] The CEO stopped this project's work. The earlier investigation authorization above is historical; neither investigation has a recorded GO to investigate. This migration does not resume work. The context backbrief remains received and individually reviewed; the entry backbrief is still absent. The project's responsible superior holds their joint comparison and subsequent direction after the CEO resumes work.
+
+[interp of source M2, M5, M6] Read the current method through `directed_opportunism/source` and local experience in `friction.md`. The intent, task division, backbriefs and recorded decisions above are preserved. Source access alone does not show application in real work. Historical terminal identifiers in `briefs/sessions.md` do not establish live sessions.

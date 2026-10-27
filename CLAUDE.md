@@ -1,6 +1,3 @@
-# Claude Code entry
+# Agent entry
 
-Claude Code loads this file by itself; every other agent starts at `AGENTS.md`. The imports below load the same text any agent reads.
-
-@AGENTS.md
-@directed_opportunism/START_TEXT.md
+Read `AGENTS.md` and follow its source and role instructions. This is the same entry used by every provider; no provider-specific import is required.
