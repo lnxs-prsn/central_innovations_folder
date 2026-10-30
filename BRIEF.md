@@ -1,3 +1,7 @@
+Method-provider update, 2026-10-30: the CEO’s stop remains in force until the CEO lifts it. The waiting backbrief predates current briefs. The method-provider migration/access notes below are historical, superseded by [the delivery notice](directed_opportunism/DELIVERY.md); they supply no task direction or go. The project’s original brief, evidence and recorded CEO words are preserved below.
+
+---
+
 # Strategy brief
 
 ## 1 CONTEXT: What is the situation?
@@ -65,7 +69,7 @@ CEO direction, 2026-10-25 session [evidence: conversation]:
 
 Earlier direction retained: named paths for commits, never push. The CEO authorized both investigations and checking both backbriefs before action.
 
-## Continuation after method migration, 2026-10-27
+## Continuation after method migration, 2026-10-27 — historical provider note
 
 [evidence: project commit `39eb514`; source `project_intent.md`, Context] The CEO stopped this project's work. The earlier investigation authorization above is historical; neither investigation has a recorded GO to investigate. This migration does not resume work. The context backbrief remains received and individually reviewed; the entry backbrief is still absent. The project's responsible superior holds their joint comparison and subsequent direction after the CEO resumes work.
 

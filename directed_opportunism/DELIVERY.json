@@ -1,0 +1,9 @@
+{
+  "authority": "directed_opportunism",
+  "authorization": "CEO called update 2026-10-30; proceeded after backbrief",
+  "edition": "2026-10-30",
+  "edition_manifest_sha256": "053b52dc572af7950a65698c29d7c304e39a520d650833788e4060e21e97ff04",
+  "rollback_checkpoint": "b9ceca9a661b12675e8108200296fc8a3dc2dd1c",
+  "schema": 1,
+  "source_reference": "source"
+}

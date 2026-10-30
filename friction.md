@@ -1,3 +1,9 @@
+# Current method delivery context — 2026-10-30
+
+`directed_opportunism/source` now identifies a fixed delivered edition. Its `ENTRY.md` and START_TEXT carry the method guidance; local record locations are in `directed_opportunism/LOCAL.md`. [The delivery notice](directed_opportunism/DELIVERY.md) identifies what supersedes the method provider's earlier instructions. Earlier entries below retain their wording and dates as evidence, including older claims about shared current source or completed adoption. Installation is not adoption. This update supplies no next-work assignment or resumption.
+
+---
+
 # Experience from this project's work
 
 Keep this project's experience here across method updates; consult it before relevant decisions (source `project_intent.md`, M6). Source START_TEXT, “Learning from friction in the work”, explains what to record and why (pp.45, 97, 168, 250), what stays in briefs, and what returns through superior reports (M4).

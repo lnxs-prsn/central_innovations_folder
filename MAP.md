@@ -1,3 +1,7 @@
+Method-provider update, 2026-10-30: the CEO’s stop remains in force until the CEO lifts it. The waiting backbrief predates current briefs. The method-provider migration/access notes below are historical, superseded by [the delivery notice](directed_opportunism/DELIVERY.md); they supply no task direction or go. The project’s original brief, evidence and recorded CEO words are preserved below.
+
+---
+
 # Common map — Story 1
 
 ## Point 0
@@ -30,7 +34,7 @@ The CEO's direct subordinate holds this map and the cohesion of the work. Invest
 
 [~] PAUSED by the CEO (project commit `39eb514`; source `project_intent.md`, Context): two investigations, to establish context-preserving sharing and feasible project entry before design; done when both evidence-based reports have been reconciled into the next direction. CEO holds commits during the read-only .git restriction (2026-10-25 direction). Written briefs: briefs/2026-10-25_context.md and briefs/2026-10-25_entry.md; backbriefs must be checked before investigation.
 
-## Method migration, 2026-10-27
+## Method migration, 2026-10-27 — historical provider note
 
 The project now reaches the current doctrine and its reasons through `directed_opportunism/source`, with its own experience in `friction.md`. Shared copies have been retired after confirming they contain no local additions. Intent, briefs and backbriefs remain local. [evidence: adoption change; source `adoption/NOTE.md`]
 

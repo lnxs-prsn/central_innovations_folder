@@ -1,3 +1,3 @@
 # Agent entry
 
-Read `AGENTS.md` and follow its source and role instructions. This is the same entry used by every provider; no provider-specific import is required.
+Read `AGENTS.md`. It leads to the same delivered method entry for every provider.
