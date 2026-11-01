@@ -1,9 +1,12 @@
 {
   "authority": "directed_opportunism",
-  "authorization": "CEO called Central update 2026-11-01; state/ceo_words_2026-11-01_update_call.md",
-  "edition": "2026-11-01",
-  "edition_manifest_sha256": "684049e7ca4f4e8d6e5dd41820b457c8ed248625cda988caf16ffd0266039612",
-  "rollback_checkpoint": "21c991f131052ca52ada51de1a3ae05ddd5838c9",
+  "authorization": "CEO-called edition-boundary correction within Central method review; executive go, 2026-11-01",
+  "edition": "2026-11-01b",
+  "edition_manifest_sha256": "33500700de88e4124f0ea94dd35a9845296c09b0a519502736b6cdad13bd58df",
+  "observed_target_dirty": true,
+  "observed_target_head": "58f0d50b12c04b899982a15e0d0c35d3608ee9c6",
+  "rollback_checkpoint": "58f0d50b12c04b899982a15e0d0c35d3608ee9c6",
+  "rollback_checkpoint_status": "Only the three delivery paths were committed; Central's uncommitted work from its live executive session was left untouched, uncommitted, for its executive",
   "schema": 1,
   "source_reference": "source"
 }
