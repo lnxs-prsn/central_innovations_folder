@@ -11,3 +11,10 @@
 - 4a780227: project entry; brief 2026-10-25_entry.md; replacement assignment accepted by CAO, initialization pending; awaiting backbrief. No investigation GO issued.
 
 Only these terminals were created for this work. Preserve until reports have been received and reconciled, then clean up through CAO.
+
+## 2026-11-01 — after the stop was lifted
+
+Codex `exec` runs started by the executive as tracked background processes (BRIEF.md, Executive position); a run's ending is the arrival of its backbrief or report. Resume with `codex exec resume <thread_id>`.
+
+- 01a19709-f094-74a2-bb61-64b2286d68ae: context survival; brief 2026-10-25_context.md as adjusted 2026-11-01; backbrief and report received 2026-11-01; task complete, run ended.
+- 01a19709-f0e3-7d30-bfc9-1fdb63289ca0: project entry; brief 2026-10-25_entry.md as adjusted 2026-11-01; backbrief and report received 2026-11-01; task complete, run ended.

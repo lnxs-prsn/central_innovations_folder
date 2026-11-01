@@ -32,3 +32,26 @@ Each entry is a heading `## <date>: <one line>` (`tools/do.py status` in directe
 - Who caught it: an agent at which level, a staff officer, or the CEO.
 - What was adjusted here, if anything, and what is left for directed_opportunism.
 ```
+
+## 2026-11-01: subordinate instances that never accepted input
+
+[evidence: `briefs/sessions.md`, 2026-10-25] Of seven CAO-assigned instances, five were deleted because they never accepted input; the entry backbrief never arrived. The work then stopped, so the gap was never adjusted. Gap: effects (assigning did not lead to a running subordinate). Likely cause [hyp]: the means, not the briefs; unknown beyond that. Adjustment: subordinates now run as tracked Codex `exec` runs with closed input, the receipt arrangement in the delivered START_TEXT, “Control loop and receipt” (re-grounded under edition 2026-11-01b; the earlier citation pointed into directed_opportunism's own experience record). Whether it holds here is shown when both backbriefs arrive; responsibility: executive, this session.
+
+Outcome, 2026-11-01: the tracked Codex runs held. Both backbriefs and both reports were received when each run ended, with no lost arrival (`briefs/sessions.md`). Closed.
+
+## 2026-11-01: a source project's resource allocation applied as Central's
+
+[evidence: BRIEF.md part 6, 2026-11-01, “Resources:”] Under edition 2026-11-01 the executive cited directed_opportunism's CEO allocation (Codex for subordinate work, to preserve the Claude quota) as the reason for Central's subordinate runs. It flagged the allocation as local to that project, then applied it anyway. Who caught it: the CEO and the method source, which delivered edition 2026-11-01b without those records; its `DELIVERY.md` (commit `6209b84`) identified the allocation as not Central's direction. Gap: alignment (plans and actions, p.45): the executive's own recorded boundary said the allocation was local to directed_opportunism, and its action applied it to Central. [Corrected under edition 2026-11-01c; first recorded as “Gap: direction”, which is not one of the three gaps.] Separately, the edition exposing foreign records was a likely cause, not a gap. Likely cause [hyp]: the record was reachable through the edition's citations, and a stated reason felt better than none. Adjustment here: the reason has been corrected to the executive's own choice of available means (BRIEF.md, 2026-11-01b section), and the position no longer fixes a provider. Left for directed_opportunism: none beyond what edition 2026-11-01b already does.
+
+
+## 2026-11-01: synthesis claims wider than the reports' evidence
+
+[evidence: `directed_opportunism/DELIVERY.md`, edition 2026-11-01c, “Central review”, findings 1–2] The backbrief before building said “no opening event exists to hook”, while the entry report had left the CEO's opening path and host-level hooks unestablished; the 2026-11-01b section credited the edition NOTE with a specific identification it does not make. Who caught it: the method source's CEO-called review. Gap: knowledge (plans and outcomes): the plan rested on a stated absence the ground did not show; the CEO's account (VS Code opened in the folder) is an opening event. Likely cause [hyp]: compressing each report into a one-line “Why:” dropped its sampling limits. Adjustment: both claims corrected in place in BRIEF.md; in the 2026-11-01c backbrief each design reason cites the report section that carries its limit. Unknown: whether this holds in later syntheses; shown in the next backbrief's check.
+
+## 2026-11-01: “trial” used in its everyday sense
+
+[evidence: BRIEF.md part 6, 2026-11-01c and re-brief sections: “Tried on this project and one other”, “once the trial on this project works”] I called applying the capability first in Central a trial. The lexicon defines Trial as a test of the method's files on fresh agents, judged by a staff officer, and says trials do not show adoption in real work. The CEO caught it: “applying something first in your own project is real work done in steps, not a trial in the lexicon’s sense.” Gap: none acted on yet, because no work followed the word. Likely cause [hyp]: START_TEXT, “Everyday words pull you toward everyday meanings”; I did not check a planning word against the lexicon. Adjustment: the second re-brief describes the first application as real work done in steps in Central. Before using a lexicon word in a backbrief, check its entry.
+
+## 2026-11-01: a CEO quote left stale after the CEO changed the words
+
+[evidence: BRIEF.md part 2 quoted the higher intent as “it reaches other projects with the context it was developed in”; `intent.md` reads “it is available to other projects with the context it was developed in”] Caught by the executive while preparing the third re-brief. The records do not show whether the words changed in the second or the third re-brief. Gap: knowledge (plans and outcomes, p.45): the brief's quoted direction no longer matched the direction. Likely cause [hyp]: each re-brief compared the CEO's listed changes, not the whole of `intent.md`, against the brief's quotes. Adjustment: part 2 corrected; at each re-brief, check every quote in the brief against `intent.md`.
