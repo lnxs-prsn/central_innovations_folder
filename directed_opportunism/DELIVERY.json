@@ -1,9 +1,9 @@
 {
   "authority": "directed_opportunism",
-  "authorization": "CEO called update 2026-10-30; proceeded after backbrief",
-  "edition": "2026-10-30",
-  "edition_manifest_sha256": "053b52dc572af7950a65698c29d7c304e39a520d650833788e4060e21e97ff04",
-  "rollback_checkpoint": "b9ceca9a661b12675e8108200296fc8a3dc2dd1c",
+  "authorization": "CEO called Central update 2026-11-01; state/ceo_words_2026-11-01_update_call.md",
+  "edition": "2026-11-01",
+  "edition_manifest_sha256": "684049e7ca4f4e8d6e5dd41820b457c8ed248625cda988caf16ffd0266039612",
+  "rollback_checkpoint": "21c991f131052ca52ada51de1a3ae05ddd5838c9",
   "schema": 1,
   "source_reference": "source"
 }
