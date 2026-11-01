@@ -1,12 +1,17 @@
 {
   "authority": "directed_opportunism",
-  "authorization": "CEO-called edition-boundary correction within Central method review; executive go, 2026-11-01",
-  "edition": "2026-11-01b",
-  "edition_manifest_sha256": "33500700de88e4124f0ea94dd35a9845296c09b0a519502736b6cdad13bd58df",
+  "authorization": "CEO-called Central method update with review note; executive go, 2026-11-01",
+  "edition": "2026-11-01c",
+  "edition_manifest_sha256": "25739e53337f8e1eb8c49056967e81c72d428d7ab8da6d88b815bce98e1086b7",
   "observed_target_dirty": true,
-  "observed_target_head": "58f0d50b12c04b899982a15e0d0c35d3608ee9c6",
-  "rollback_checkpoint": "58f0d50b12c04b899982a15e0d0c35d3608ee9c6",
-  "rollback_checkpoint_status": "Only the three delivery paths were committed; Central's uncommitted work from its live executive session was left untouched, uncommitted, for its executive",
+  "observed_target_head": "6209b84f9f08504bd93fed2b7d594db0865a65ff",
+  "rollback_checkpoint": "6209b84f9f08504bd93fed2b7d594db0865a65ff",
+  "rollback_checkpoint_status": "Existing committed baseline covers only the three named delivery paths; live uncommitted work is outside delivery scope",
+  "rollback_paths": [
+    "directed_opportunism/source",
+    "directed_opportunism/DELIVERY.md",
+    "directed_opportunism/DELIVERY.json"
+  ],
   "schema": 1,
   "source_reference": "source"
 }
