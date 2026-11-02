@@ -1,6 +1,6 @@
 # Current method delivery context — 2026-10-30
 
-`directed_opportunism/source` now identifies a fixed delivered edition. Its `ENTRY.md` and START_TEXT carry the method guidance; local record locations are in `directed_opportunism/LOCAL.md`. [The delivery notice](directed_opportunism/DELIVERY.md) identifies what supersedes the method provider's earlier instructions. Earlier entries below retain their wording and dates as evidence, including older claims about shared current source or completed adoption. Installation is not adoption. This update supplies no next-work assignment or resumption.
+[2026-11-02: `directed_opportunism/DELIVERY.md`/`.json` were removed on taking edition 2026-11-02b; they remain at commit `969aeb6`.] `directed_opportunism/source` now identifies a fixed delivered edition. Its `ENTRY.md` and START_TEXT carry the method guidance; local record locations are in `directed_opportunism/LOCAL.md`. [The delivery notice](directed_opportunism/DELIVERY.md) identifies what supersedes the method provider's earlier instructions. Earlier entries below retain their wording and dates as evidence, including older claims about shared current source or completed adoption. Installation is not adoption. This update supplies no next-work assignment or resumption.
 
 ---
 
@@ -55,3 +55,11 @@ Outcome, 2026-11-01: the tracked Codex runs held. Both backbriefs and both repor
 ## 2026-11-01: a CEO quote left stale after the CEO changed the words
 
 [evidence: BRIEF.md part 2 quoted the higher intent as “it reaches other projects with the context it was developed in”; `intent.md` reads “it is available to other projects with the context it was developed in”] Caught by the executive while preparing the third re-brief. The records do not show whether the words changed in the second or the third re-brief. Gap: knowledge (plans and outcomes, p.45): the brief's quoted direction no longer matched the direction. Likely cause [hyp]: each re-brief compared the CEO's listed changes, not the whole of `intent.md`, against the brief's quotes. Adjustment: part 2 corrected; at each re-brief, check every quote in the brief against `intent.md`.
+
+## 2026-11-02: finding a publisher's published part with no list of projects
+
+[evidence: this session] To read directed_opportunism's published edition I listed directory names above the projects and in directed_opportunism's root, then read only `published/`. The re-brief said the method was published but not where; the location convention is in the edition itself (`published/INDEX.md`), and the command-held list of projects is not yet provided. Who caught it: the executive. Gap: knowledge (plans and outcomes, p.45): the plan to use only published material had no way to locate it without a glance at the rest of the folder. Likely cause [hyp]: discovery means not yet supplied by toolusage. Adjustment: names only, nothing read outside `published/`; reported to the CEO. Until the list exists, locate a publisher's part only at its `published/INDEX.md` path. Also observed: the re-brief described 2026-11-02b as not yet published; it was (index read 2026-11-02). Act on the index, not on the description.
+
+## 2026-11-02: the applied edition left in a part no longer published
+
+[evidence: `directed_opportunism/source` → `deliveries/2026-11-01c`; publisher's `published/INDEX.md`: “`deliveries/` is historical and is not this published part”] Applying 2026-11-01c now means reading the rest of another project's folder. Gap: alignment (plans and actions): the brief's publication constraint and the locator in force point in different directions until a published edition is taken. Adjustment: not read this session; take 2026-11-02b first after telling the CEO. Responsibility: executive, next step.

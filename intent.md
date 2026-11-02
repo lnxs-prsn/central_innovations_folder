@@ -7,8 +7,9 @@ Today I copy innovations/ from an existing project into a new one; I don’t wan
 The same idea is often written differently in different projects; similar names can mean different things.
 Projects can sit unopened for weeks.
 The capability is what’s valuable. The knowledge can be regenerated or taken from industry standards; the capability to manage ever-growing know-how is not small to build, so it must survive anything.
-My projects are developed on my Linux Raspberry Pi, where every project is in /home/mr/Desktop/python. (Added 2026-10-24 on the CEO’s go, with the two lines under Boundaries.) When I am away from the Pi, I clone my projects and this capability from GitHub and continue elsewhere. Anyone can clone this capability and have it working, on Linux or Windows, given an agent and Python, which my projects use anyway. The know-how itself I bring from my projects and other places; the capability does not need to carry it between machines.
+My projects are developed on my Linux Raspberry Pi, where every project is in /home/mr/Desktop/python. When I am away from the Pi, I clone my projects and this capability from GitHub and continue elsewhere. Anyone can clone this capability and have it working, on Linux or Windows, given an agent and Python, which my projects use anyway. The know-how itself I bring from my projects and other places; the capability does not need to carry it between machines.
 How a project’s agents learn what is available to them on the computer, this capability included, is my arrangement: for example, a file I add to every project listing it. This capability provides what such an arrangement needs in order to point agents to it.
+Projects take this capability by their own choice; how to use it, including how they offer what they learn, is published with it.
 
 Higher intent
 
@@ -34,7 +35,7 @@ M3. A new project can draw on the best current know-how of all projects, not onl
 
 M4. A project takes only what fits its own work; nothing any project contributes is lost, and what a project does not take stays available to the others.
 
-M5. The same knowledge, developed slightly differently in different projects, is recognised as the same and doesn’t spread as duplicates.
+M5. The same knowledge, developed slightly differently in different projects, is recognized as the same and doesn’t spread as duplicates.
 
 M6. Every project holds the same standard for what can be added, including the context it was developed in, and what it adds meets that standard.
 
@@ -54,15 +55,17 @@ You decide what is admitted, merged, or retired, on evidence, logging each decis
 
 If you find a better way to achieve the intent than these measures imply, take it, and tell me why.
 
-Search any folder under the folder that holds my projects: /home/mr/Desktop/python on the Pi, and elsewhere the folder I clone them into.
-
 Constraints:
-
-Do not search outside the folder that holds my projects: the knowledge is not there. If you do not know where that folder is on a machine, ask me rather than search for it.
 
 Do not write into my other projects; how their agents learn of this capability is my arrangement.
 
-GitHub holds only the generic project: the capabilities, usable by anyone, containing none of my innovations.
+Each project writes only in its own folder. What a project offers to others it publishes, complete and fixed; other projects use only what is published, by their own choice, and never read or write the rest of each other’s folders, except in a review by reading that I call.
+
+An organization is everything under one command; a project is a unit within it. The organization’s shared operational state, such as capacity across projects, and the means to pause or stop any project or the whole organization, belong to the level that holds command over the organization: me now, or an AI executive I assign. toolusage provides them outside every project folder; no project writes that state.
+
+You take the editions of the method directed_opportunism publishes: one when it does not interfere with your current work; before taking one whose update message says it changes something significant, tell me. Publish which edition of the method you apply, and what a review of your application needs.
+
+GitHub holds only the generic project: the capabilities, usable by anyone, containing none of my innovations; I push what goes there.
 
 Agents must not query GitHub periodically (IP blacklisting risk).
 

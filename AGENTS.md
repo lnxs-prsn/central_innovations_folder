@@ -1,5 +1,3 @@
-# Agent method entry
+# Agent entry
 
-Read `directed_opportunism/source` as plain text: one relative directory path, resolved from that file's containing directory. It identifies this project's fixed delivered edition. Read that edition's `ENTRY.md` and this project's `directed_opportunism/LOCAL.md`; follow their distinction between method guidance and this project's own direction.
-
-The edition changes only through a CEO-called delivery or update. Developing source is not a fallback. If access is missing, report the missing resource and continue work independent of it (delivered START_TEXT, principle 2).
+Read `directed_opportunism/source` as plain text: resolve its relative directory path from that file's containing directory. The edition identifier and manifest SHA-256 are recorded beside this locator in `directed_opportunism/LOCAL.md`; when re-establishing access after movement, verify that same identity as the edition's `adoption/NOTE.md` explains. If access or identity cannot be established, report the limit and continue independent work. Read that taken edition's `ENTRY.md` and this project's `directed_opportunism/LOCAL.md`, then follow the entry using the named local records. Method paths resolve within that edition; project-record paths resolve from this project's root. Preserve project-owned instructions below.

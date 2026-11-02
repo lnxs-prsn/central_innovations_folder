@@ -1,23 +1,22 @@
 # Executive position
 
-Established 2026-11-01 from the CEO's brief, `intent.md`, under method edition 2026-11-01, rechecked under editions 2026-11-01b and 2026-11-01c the same day (START_TEXT, “Establishing the executive position”). Each later instance enters through this position with `intent.md`, this brief, `MAP.md` and `friction.md`.
+Established 2026-11-01 from the CEO's brief, `intent.md`, under method edition 2026-11-01, rechecked under editions 2026-11-01b and 2026-11-01c the same day and under 2026-11-02b on 2026-11-02 (START_TEXT, “Establishing the executive position”). Each later instance enters through this position with `intent.md`, this brief, `MAP.md` and `friction.md`.
 
-**Area of responsibility** [interp of `intent.md`, Intent and Measures]: the capability by which the CEO's projects, in the folder that holds them on each machine, learn from each other — contribution, recognition, selective use, availability to every project (including unused and new ones), exclusion and decline, and empty recovery, working from a clone for anyone, on Linux or Windows, given an agent and Python [updated 2026-11-01 to the CEO's third re-brief; earlier: “on the Pi and the Windows laptop”, before that “reach at opening and creation”] — with this folder holding the generic capability. Projects reach it through the CEO's arrangement; it writes nothing into them. Not the projects' own work or their innovations' substance.
+**Area of responsibility** [interp of `intent.md`, Intent and Measures]: the capability by which the CEO's projects, in the folder that holds them on each machine, learn from each other — contribution, recognition, selective use, availability to every project (including unused and new ones), exclusion and decline, and empty recovery, working from a clone for anyone, on Linux or Windows, given an agent and Python [updated 2026-11-01 to the CEO's third re-brief; earlier: “on the Pi and the Windows laptop”, before that “reach at opening and creation”] — with this folder holding the generic capability. Projects reach it through the CEO's arrangement and take it by their own choice; it writes nothing into them and does not look into them: it uses only what they publish [updated 2026-11-02 to the CEO's publication re-brief]. Central publishes what it offers, complete and fixed, and which method edition it applies. Not the projects' own work or their innovations' substance.
 
-**Decision rights**, quoted from `intent.md`, Boundaries, Freedoms (restructured by the CEO 2026-11-01; earlier wording preserved in git):
+**Decision rights**, quoted from `intent.md`, Boundaries, Freedoms (restructured by the CEO 2026-11-01; the search freedom was removed 2026-11-02; earlier wording preserved in git):
 > You decide what is admitted, merged, or retired, on evidence, logging each decision with its reason, without asking me.
 > If you find a better way to achieve the intent than these measures imply, take it, and tell me why.
-> Search any folder under the folder that holds my projects: /home/mr/Desktop/python on the Pi, and elsewhere the folder I clone them into.
 
 Limits on them, `intent.md`, Backbrief: “Before building, state my intent in your own words, and describe how you plan to achieve it and why. If anything you discover later changes what I’d want, stop and tell me before continuing.” and “I read only your backbriefs. Anything you need me to decide must be stated in the backbrief itself, not only referred to in your files.”; plus the Constraints quoted in part 5, including “how the book applies to agents is directed_opportunism’s to decide”. Commits: the CEO, 2026-10-25, “When a step is complete, say so in your report and I commit it” (part 6); unchanged though .git is now writable [interp].
 
-**Superior**: the CEO (`intent.md`). Unclear intent goes to the CEO; method questions go to directed_opportunism (delivered `ENTRY.md`).
+**Superior**: the CEO, by assignment (`intent.md`; the CEO holds command of the organization now). Unclear intent goes to the CEO. Method questions go through the CEO and are published for directed_opportunism in this project's published part (`published/INDEX.md`; edition 2026-11-02b `ENTRY.md`) [updated 2026-11-02 on taking 2026-11-02b; earlier: sent to directed_opportunism under the delivered `ENTRY.md`]. Method edition applied: 2026-11-02b (`directed_opportunism/LOCAL.md`).
 
 **Subordinates**: none live. The context subordinate (`briefs/2026-10-25_context.md`) and the entry subordinate (`briefs/2026-10-25_entry.md`) completed their investigations; their reports were received at their runs' ends (`briefs/sessions.md`). Build subordinates are briefed after the CEO answers the backbrief (part 6, “Second re-brief”). Each instance is a run with closed input, started by this executive and tracked to its end, on whichever agent is available; no provider is required (`intent.md`: “Nothing may depend on any one agent, model, or provider”). Identifiers in `briefs/sessions.md` are historical.
 
 ---
 
-Method-provider update, 2026-10-30: the CEO’s stop remains in force until the CEO lifts it. The waiting backbrief predates current briefs. The method-provider migration/access notes below are historical, superseded by [the delivery notice](directed_opportunism/DELIVERY.md); they supply no task direction or go. The project’s original brief, evidence and recorded CEO words are preserved below.
+[2026-11-02: `directed_opportunism/DELIVERY.md`/`.json` were removed on taking edition 2026-11-02b; they remain at commit `969aeb6`.] Method-provider update, 2026-10-30: the CEO’s stop remains in force until the CEO lifts it. The waiting backbrief predates current briefs. The method-provider migration/access notes below are historical, superseded by [the delivery notice](directed_opportunism/DELIVERY.md); they supply no task direction or go. The project’s original brief, evidence and recorded CEO words are preserved below.
 
 ---
 
@@ -65,11 +64,13 @@ Measures: the CEO's measures remain in intent.md; none has yet been assessed aga
 
 ## 5 BOUNDARIES: Freedoms / Constraints
 
-Inherited from `intent.md`, Boundaries (restructured 2026-11-01; search boundary reworded in the CEO's re-brief the same day). Freedoms: as quoted in the Executive position. Constraints:
+Inherited from `intent.md`, Boundaries (restructured 2026-11-01; search freedom and search constraint removed, publication constraints added 2026-11-02; organization constraint added in the CEO's replacing re-brief the same day). Freedoms: as quoted in the Executive position. Constraints:
 
-> Do not search outside the folder that holds my projects: the knowledge is not there. If you do not know where that folder is on a machine, ask me rather than search for it.
 > Do not write into my other projects; how their agents learn of this capability is my arrangement.
-> GitHub holds only the generic project: the capabilities, usable by anyone, containing none of my innovations.
+> Each project writes only in its own folder. What a project offers to others it publishes, complete and fixed; other projects use only what is published, by their own choice, and never read or write the rest of each other’s folders, except in a review by reading that I call.
+> An organization is everything under one command; a project is a unit within it. The organization’s shared operational state, such as capacity across projects, and the means to pause or stop any project or the whole organization, belong to the level that holds command over the organization: me now, or an AI executive I assign. toolusage provides them outside every project folder; no project writes that state.
+> You take the editions of the method directed_opportunism publishes: one when it does not interfere with your current work; before taking one whose update message says it changes something significant, tell me. Publish which edition of the method you apply, and what a review of your application needs.
+> GitHub holds only the generic project: the capabilities, usable by anyone, containing none of my innovations; I push what goes there.
 > Agents must not query GitHub periodically (IP blacklisting risk).
 > Nothing may depend on any one agent, model, or provider.
 > The words of my brief mean what the book means by them; where the book does not define a word I use, its meaning is mine; how the book applies to agents is directed_opportunism’s to decide.
@@ -357,3 +358,105 @@ CEO, 2026-11-02 session [evidence: conversation]:
 Resources used: this executive instance; four Codex runs (two backbriefs, two builds with reports); my own checks of both builds and one real ask.
 
 Unless you answer, I hold the admission pass.
+
+
+## 2026-11-02 — Publication re-brief: has the situation changed? (replaced)
+
+[The CEO's second re-brief of 2026-11-02 replaces the re-brief answered here; this section stays as history. Its decisions are answered or withdrawn in the next section.]
+
+CEO, 2026-11-02 session [evidence: conversation], in part:
+> The relationship between projects moves to publication. Each project writes only in its own folder.
+> This capability does not look into other projects. Projects take this capability by their own choice; how to use it, including how they offer what they learn, is published with it.
+> directed_opportunism's first edition under this model is not yet published; until it is, you keep applying the method you have.
+> Where published material lives is open: each project's own public part, or a shared exchange built as toolusage's means.
+> Any work you have done or planned that relies on reading other projects' innovations/ folders, or any other part of their folders, no longer fits the brief. The innovations/ folders that already exist in my projects stay where they are; their know-how reaches this capability only through projects that take it and offer what they learn.
+
+**Has the situation changed? Yes – some tasks must change, but what we are trying to achieve still holds.** [evidence: `git diff intent.md`] Intent, Main effort, Higher intent and M1–M10 are unchanged; every quote in part 2 still matches. Changed: the search freedom and search constraint are removed; added to the Context, “Projects take this capability by their own choice; how to use it, including how they offer what they learn, is published with it.”; added constraints on publication and on method editions; GitHub: “I push what goes there.” Position and part 5 updated.
+
+**Your intent in my words** [interp]: unchanged from the third re-brief, except how know-how arrives. A project offers what it learns by publishing it, complete and fixed, with its context; the capability takes only what is published; a project takes the capability, and what it offers, by its own choice. Nothing crosses between folders except publication.
+
+**What changes in my needs** [interp]:
+1. *Offers must come to the capability as publications.* It can no longer gather; it needs each offer complete (contribution, context record, origin) and fixed (a changed offer is a new publication), at a place it can read without looking into the offering project.
+2. *The capability itself must be published*, complete and fixed, in editions: code, standard, check, and how to use it and how to offer. A project uses an edition; it never runs code from, or writes state into, Central's folder.
+3. *Every record a project makes stays in its own folder.* Today `ask`, `select`, `decline`, `log-use` and even `check` write into the clone's `.local/` [evidence: `capability/USE.md`; `.local/command-uses.jsonl`]. Run by another project's agent from Central's folder, that is that project writing into mine. Declines and use records must live in the taking project's folder; what it learns from use, it offers by publishing.
+4. *What Central offers is a published catalogue*: admitted contributions with their context, my decisions and reasons, your exclusions, in fixed editions.
+5. *Publish my method edition and what a review needs.* Central applies edition 2026-11-01c; a review needs `intent.md`, `BRIEF.md`, `MAP.md`, `friction.md`, `briefs/`, `directed_opportunism/DELIVERY.md`, the capability's repository and its tests.
+6. *The method I have lives in directed_opportunism's folder.* [evidence: `directed_opportunism/source` → `../../project_management/directed_opportunism/deliveries/2026-11-01c`] Only the pointer and the delivery note are in my folder. I read that edition this session (`ENTRY.md`, parts of `START_TEXT.md`). Reading taken: the CEO-delivered fixed edition is what “keep applying the method you have” refers to, so reading it is permitted until the first published edition. Rejected: that it is “the rest of” another project's folder. The CEO's to confirm.
+
+**What changes in my solutions** [hyp unless marked]:
+- *Withdrawn:* gathering by walking the projects folder; configuring a projects folder; the snapshot store of other projects' contributions; the “legacy admission” decision I asked for (the capability can no longer read those 20 contributions; they reach it only if their projects offer them); the arrangement line's path into Central's folder.
+- *Kept, re-pointed:* the standard, template and check (a project checks its own addition in its own folder); content-hash identity, copies counted once, never deleting; two-stage offer then full context (M7); admit, merge, retire, exclude, decline with reasons (M9); use and cost records (M10), now kept by each taker and offered back.
+- *Added:* a publication format for an offer (bundle + context record + manifest hash, fixed); published editions of the capability and of the catalogue; per-project state in the taking project's own folder.
+- *Where publications live:* my recommendation is the shared exchange, if toolusage builds it: one known place, so the capability needs no list of projects and never touches a project folder, and a published offer persists while its project sits unused (M1, M2). Until then, each project's own public part works, but the capability then needs to know which projects publish there and where, which only your arrangement can tell it. I design so the location is supplied, not assumed. I have not read toolusage's folder and will not; I use its exchange only once it is published.
+
+**Measures** [interp]: M3 now reaches only what projects choose to offer; existing know-how in unopened projects may never arrive. That follows your brief and context wins; I note it as a reach cost, not a defect. M6 is met by publishing the one standard with the capability, practised only by projects that take it.
+
+**What changes in my plan.** First, publish Central's method statement (edition, what a review needs) where you decide publications live. Then one subordinate, briefed and backbriefed before go, re-points store and access to published offers, moves project state into the taking project, and publishes the capability as a fixed edition; I hold the offer format and the location as interfaces. Then the first admission, when a project offers. When directed_opportunism publishes its first edition under this model, I take it when it does not interfere with current work, tell you first if its message says it changes something significant, remove the delivered files then, and update `AGENTS.md`.
+
+**What changes in the work already done.** [evidence] Standard and check: stand. Store and access: the gathering and the `.local/` snapshot store (712K, git-ignored, never pushed: snapshots of 20 contributions read from other projects' `innovations/` on 2026-11-02, under the freedom then in force) no longer fit. The context, entry and access reports were made under the old freedom; they stay as history; nothing in them is offered or used further. `USE.md` and `OWNER.md` get rewritten. Nothing was written into another project.
+
+**Decisions I need from you.**
+1. *Where publications live:* the exchange (if toolusage builds it), or each project's public part (and then how the capability learns where they are), or yours to arrange?
+2. *The method edition:* may I keep reading edition 2026-11-01c in directed_opportunism's `deliveries/` until its first published edition?
+3. *The local store:* may I delete `capability/.local/` (snapshots of other projects' contributions, gathered before this re-brief)? I recommend yes; I hold it untouched until you answer.
+
+I hold building until you answer.
+
+Resources used: this executive instance; local reads of my records, the brief's diff, the delivered edition's `ENTRY.md` and parts of `START_TEXT.md`; no subordinate runs.
+
+
+## 2026-11-02 — Publication re-brief (replacing): has the situation changed?
+
+CEO, 2026-11-02 session [evidence: conversation], in part:
+> This is a re-brief. It replaces any earlier re-brief from me today.
+> directed_opportunism has published edition 2026-11-02 under the publication model. Its update message marks it significant. It also sets where and in what form a project publishes the edition it applies. Its next edition, also significant, carries the definitions of organization, command, superior and re-assignment. Until each is published, act on what is published.
+> The method files earlier delivered into your folder stay there until you take an edition published under this model. When you take it, you remove the delivered files yourself.
+> This project is a unit that can be placed under a different superior, an AI executive or me directly, and moved between organizations. Its place in an organization comes from its assignment.
+
+**Has the situation changed? Yes: some tasks must change, but what we are trying to achieve still holds.** [evidence: `git diff intent.md`] Intent, Main effort, Higher intent and M1–M10 are unchanged in meaning (M5 now spells “recognized”). Every quote in parts 2 and 5 was checked against `intent.md`; part 5 now carries the organization constraint. Since the replaced re-brief: the organization and command constraint is new, and where publications live is no longer open; the published method settles it.
+
+**The method: I am telling you before taking a significant edition.** [evidence: directed_opportunism `published/INDEX.md`, read 2026-11-02] Both 2026-11-02 and 2026-11-02b are already published; the index names 2026-11-02b as current. Both update messages say “Significant change: yes”. 2026-11-02b can be taken directly from 2026-11-01c, with 2026-11-02's message still applying. I verified 2026-11-02b's `EDITION.json` against the index's SHA-256 (`01eafeda…87cd0`) and all its listed file hashes: no mismatch. I intend to take 2026-11-02b as my first step after this backbrief. It does not interfere with current work, which is held. Taking it means: my `directed_opportunism/source` points to that fixed edition in directed_opportunism's published part; `LOCAL.md` records the edition and manifest hash; `published/INDEX.md` in this folder declares `Edition applied: directed_opportunism 2026-11-02b` and locates review material and method questions or lessons; I remove `DELIVERY.md`/`.json` (kept in git history); my superior is whoever my assignment names, you now; method questions go through you and are published in my published part, not sent to directed_opportunism; I read shared state and any pause or stop from toolusage's means, and write none.
+[interp] Why not wait: the edition I apply, 2026-11-01c, lies in directed_opportunism's `deliveries/`, which its index now calls “historical and … not this published part”. Reading it further would read the rest of its folder. “Act on what is published” points to 2026-11-02b. I did not read `deliveries/` this session.
+
+**Your intent in my words** [interp]: unchanged. Every project's learning becomes a foundation for the others, carried with its context. Under this brief, know-how moves only by publication: a project that takes the capability offers what it learns in its own published part, complete and fixed, with its context; the capability reads only published parts, offers back a published catalogue, and is itself published, with how to use it and how to offer. Who commands the organization, and its shared state and pause or stop, sit above every project; the capability holds none of it.
+
+**What changes in my needs** [interp]:
+1. *Finding offers.* An offer lives in its project's published part, entered through `published/INDEX.md`. Projects are found through the command level's list of projects, provided by toolusage; discovery must not depend on you passing locations on (2026-11-02b UPDATE.md). That list is not yet available to me: missing means, reported. The generic capability takes a list of published parts as input, so it works with toolusage's list here and with any list elsewhere.
+2. *Publishing the capability* in fixed, hash-identified editions in my own `published/`, with how to use it and how to offer. A taker refers to an edition by identity, as projects do with the method, so moving either project does not break it.
+3. *A taker's records stay in its folder.* Selections, declines and use records are written in the taking project; what it learns from use it offers by publishing. No shared state: capacity across projects is the command level's.
+4. *Publishing the catalogue*: admitted contributions with their context, my decisions with reasons, your exclusions, as fixed editions.
+5. *Publishing my method declaration and review material.* A review reads only what I publish, so review material must itself be a fixed, dated set, not my live records. I plan to publish dated copies of `intent.md`, `BRIEF.md`, `MAP.md` and `friction.md`, with the limits stated. I exclude `briefs/` reports that quote other projects' `innovations/` read under the old freedom: publishing them would offer others' know-how they did not offer.
+6. *Movability.* Folder, records, published part and taken edition stay with this project on re-assignment; nothing in the capability may rely on Central's path or position.
+
+**What changes in my solutions** [hyp unless marked]:
+- *Withdrawn:* walking the projects folder; `configure --projects-folder`; the `.local/` snapshot store of other projects' contributions; the legacy-admission question; any arrangement line pointing into Central's folder.
+- *Kept:* the standard, template and check (a project checks its own addition in its own folder); content-hash identity, copies counted once, never deleting; a compact offer, then full context (M7); admit, merge, retire, exclude, decline with reasons (M9); use and cost records (M10), kept by each taker.
+- *Added:* an offer format: a fixed bundle with its context record and a SHA-256 manifest, located from the offering project's index; capability and catalogue editions in Central's `published/`; discovery from a supplied list of published parts.
+
+**Measures** [interp]:
+- M1, M3: reach is now what projects choose to offer. Existing `innovations/` content reaches others only if its project takes the capability and offers it. That follows your brief; I note it as a cost to reach, not a defect.
+- M6 can only hold for projects that take the capability; it leaves the others unmeasured.
+- M9: your exclusion governs what the capability offers. A project's own published offer stays readable to any project directly, outside the capability. Keeping it from every project would need a means at the command level, such as toolusage's, not mine.
+- M10: Central can count its own costs and takers can publish theirs; the sum across projects is close to “capacity across projects”, which is the command level's state. I measure only the published parts.
+
+**What changes in my plan.** (1) Take 2026-11-02b as above, and publish `published/INDEX.md` with the edition and a fixed review set. (2) Delete `capability/.local/` if you agree. (3) One subordinate, briefed and backbriefed before go, re-points store and access to published offers, moves taker state into the taking project, removes the projects-folder configuration and publishes capability edition 1 with its use and offer guide. (4) The first admission happens when a project offers and its published part is listed. Until toolusage provides the list, nothing can arrive, and I continue the independent work. You commit; I say when each step is complete.
+
+**What changes in the work already done.** [evidence] The standard and check stand. The access code gathers by walking a configured projects folder (`capability/access/cli.py`, `configure`; `USE.md`, “Every ask refreshes all discovered collections”), and its `.local/` store (712K, git-ignored, never pushed) holds snapshots of 20 contributions read from other projects' `innovations/` on 2026-11-02 under the freedom then in force; both no longer fit. That gathering code is in the capability repository's first commit; nothing is pushed by me. The investigation reports stay as history and are not published. Nothing was written into another project.
+
+**Decisions I need from you.**
+1. *Delete `capability/.local/`?* It holds others' contributions gathered before publication. I recommend yes; I hold it untouched until you answer.
+2. Nothing else. For your awareness, not a decision: to find directed_opportunism's published part I listed only the top-level names in its folder, because no list of projects exists yet (friction.md, same date). Unless you say otherwise, I take 2026-11-02b next.
+
+Resources used: this executive instance; local reads of my records, the brief's diff, directed_opportunism's `published/` (INDEX, both update messages and manifests, 2026-11-02b's adoption note, templates and lexicon entries) with hash verification; directory names only above and in directed_opportunism's root; no subordinate runs.
+
+
+## 2026-11-02 — The CEO's answer; edition 2026-11-02b taken
+
+CEO, 2026-11-02 session [evidence: conversation]:
+> Your backbrief is understood. Go ahead with your plan.
+> Yes, delete capability/.local/. Those copies were taken from contributions their projects never offered; the originals stay in their own projects.
+> Commit your own work locally yourself. Pushing to GitHub stays with me.
+
+[evidence] Done the same day: 2026-11-02b taken. `directed_opportunism/source` → `../../project_management/directed_opportunism/published/2026-11-02b`; `LOCAL.md` records the edition and manifest SHA-256 `01eafeda…87cd0`, verified with every listed file hash; `AGENTS.md` and `CLAUDE.md` from the edition's templates; delivered `DELIVERY.md`/`.json` removed (at commit `969aeb6`); the edition's `START_TEXT.md` read whole. `capability/.local/` deleted. `published/INDEX.md` declares the edition and locates the fixed review set `published/review/2026-11-02/`. Commits: the CEO's earlier rule (“I commit it”) is replaced; I commit my own work locally, the CEO pushes [interp: “my own work” covers this folder and the capability's repository; never push].
+
+[interp] Taking supplies no task; the plan's go is the CEO's “Go ahead with your plan.” Next: one subordinate re-points store and access to published offers (`briefs/2026-11-02_publication.md`), backbrief first.

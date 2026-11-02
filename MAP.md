@@ -1,4 +1,4 @@
-Method-provider update, 2026-10-30: the CEO’s stop remains in force until the CEO lifts it. The waiting backbrief predates current briefs. The method-provider migration/access notes below are historical, superseded by [the delivery notice](directed_opportunism/DELIVERY.md); they supply no task direction or go. The project’s original brief, evidence and recorded CEO words are preserved below.
+[2026-11-02: `directed_opportunism/DELIVERY.md`/`.json` were removed on taking edition 2026-11-02b; they remain at commit `969aeb6`.] Method-provider update, 2026-10-30: the CEO’s stop remains in force until the CEO lifts it. The waiting backbrief predates current briefs. The method-provider migration/access notes below are historical, superseded by [the delivery notice](directed_opportunism/DELIVERY.md); they supply no task direction or go. The project’s original brief, evidence and recorded CEO words are preserved below.
 
 ---
 
@@ -128,6 +128,26 @@ Subordinate 2 built the store and access: any agent in any project can ask, sele
 
 For the intent: the capability works, but what projects have already learned does not yet reach others, because its context lacks the required form.
 
-## In progress — admission pass held
+## In progress — admission pass held (superseded below)
 
-[~] HELD by the executive pending the CEO's decision on existing contributions (BRIEF.md part 6, “Built; stopped before the admission pass”): wait for their projects to complete context records, or admit them as legacy on their prose context.
+[superseded] HELD by the executive pending the CEO's decision on existing contributions (BRIEF.md part 6, “Built; stopped before the admission pass”): wait for their projects to complete context records, or admit them as legacy on their prose context.
+
+## Leg 12 — Publication, 2026-11-02
+
+The CEO moved the relationship between projects to publication. Each project writes only in its own folder and offers what it learns by publishing it, complete and fixed; the capability does not look into other projects. The search freedom is gone. The capability gathered from every `innovations/`; that no longer fits. The standard and check stand. Store and access must take only published offers, and the capability itself must be published, with how to use it and how to offer. The legacy-admission question falls away. [evidence: intent.md; BRIEF.md part 6, publication re-brief]
+
+For the intent: know-how reaches other projects only when its project chooses to offer it, and arrives fixed, with its context.
+
+## In progress — publication re-brief (replaced 2026-11-02 by the CEO's replacing re-brief)
+
+[superseded] HELD by the executive until the CEO answers the backbrief (BRIEF.md part 6, publication re-brief): where publications live; reading edition 2026-11-01c in directed_opportunism's deliveries until its first published edition; deleting `capability/.local/`. Then: publish Central's method statement, then one subordinate re-points store and access to published offers.
+
+## In progress — replacing publication re-brief, 2026-11-02
+
+directed_opportunism has published editions 2026-11-02 and 2026-11-02b, both significant; the CEO is told in the backbrief (BRIEF.md part 6, “Publication re-brief (replacing)”). Where publications live is settled: each project's `published/`, found through the command level's list of projects, provided by toolusage (not yet available). The organization's shared state and pause or stop are the command level's.
+
+[~] Next, after the backbrief: take 2026-11-02b and publish `published/INDEX.md` with a fixed review set. HELD on the CEO: deletion of `capability/.local/`. Then one subordinate re-points store and access to published offers and publishes capability edition 1.
+
+2026-11-02, after the CEO's go [evidence: BRIEF.md part 6, “The CEO's answer; edition 2026-11-02b taken”]: 2026-11-02b taken; `capability/.local/` deleted; `published/INDEX.md` and review set 2026-11-02 published.
+
+[~] Subordinate 3 (publication): re-point store and access to published offers; brief `briefs/2026-11-02_publication.md`; backbrief first. Responsibility: subordinate 3; cohesion: executive.
