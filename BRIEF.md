@@ -472,3 +472,8 @@ CEO, 2026-11-02 session [evidence: conversation; `intent.md`, Backbrief]:
 
 [interp] The brief is valid; what we are trying to achieve is unchanged. No backbrief is due now (Leg 13, waiting for the organization's list of projects). From the next backbrief on, each need the next step touches gets 2–3 solutions compared against the measures, including existing techniques and software and at least one that challenges my preferred choice. Briefs to subordinates ask the same of their backbriefs where their step touches a need [interp: the CEO's rule binds my backbriefs; asking it of subordinates is my choice, so I can check the comparison I report].
 
+
+CEO, 2026-11-02 session [evidence: conversation]:
+> Your choice is right. The comparison serves every level where means are chosen, not only your backbrief to me: a superior who offers subordinates only its own design narrows their choice to its first idea. Briefing and backbriefing repeat at each level.
+
+[interp] So in a subordinate's brief I state the need and the measures, not my design. If I name a solution, I name it as one candidate among others. The subordinate's backbrief compares 2–3 solutions, including existing techniques and software and at least one that challenges its own preferred choice (and mine). I check that comparison before go, and I carry it, checked, into my backbrief to the CEO.
