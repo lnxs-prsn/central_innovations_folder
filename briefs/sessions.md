@@ -18,3 +18,10 @@ Codex `exec` runs started by the executive as tracked background processes (BRIE
 
 - 01a19709-f094-74a2-bb61-64b2286d68ae: context survival; brief 2026-10-25_context.md as adjusted 2026-11-01; backbrief and report received 2026-11-01; task complete, run ended.
 - 01a19709-f0e3-7d30-bfc9-1fdb63289ca0: project entry; brief 2026-10-25_entry.md as adjusted 2026-11-01; backbrief and report received 2026-11-01; task complete, run ended.
+
+## 2026-11-02 — build, after the CEO's GO
+
+Codex `exec` runs started by the executive as tracked background processes; a run's ending is the arrival of its backbrief or report. Codex is the available means, not a requirement.
+
+- 01a19944-3fc6-7da1-9523-b6b455d04024: standard (subordinate 1); brief 2026-11-02_standard.md; backbrief received 2026-11-02 at run end; GO with adjustments recorded in the brief; report received 2026-11-02 at run end; task complete, run ended.
+- 01a1994c-d53a-73f1-9100-ba0158b5e8d8: access (subordinate 2); brief 2026-11-02_access.md; backbrief received 2026-11-02 at run end; GO with adjustments recorded in the brief; report received 2026-11-02 at run end; task complete, run ended.

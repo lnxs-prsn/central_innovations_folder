@@ -74,6 +74,6 @@ Backbrief
 
 First, has the situation changed? Say which of the three holds: the brief is valid; some tasks must change but what we’re trying to achieve still holds; or what we’re trying to achieve must change, which is mine to decide (p. 250).
 
-Before building, state my intent in your own words, and describe how you plan to achieve it and why. If anything you discover later changes what I’d want, stop and tell me before continuing.
+Before building, state my intent in your own words, and describe how you plan to achieve it and why. Say also where my intent or measures seem unrealistic, do not serve the intent, or leave part of it unmeasured (p. 173); telling me is not asking me to decide. If anything you discover later changes what I’d want, stop and tell me before continuing.
 
 I read only your backbriefs. Anything you need me to decide must be stated in the backbrief itself, not only referred to in your files.

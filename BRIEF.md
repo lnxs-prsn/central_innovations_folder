@@ -328,3 +328,32 @@ Interfaces I hold: the record shape (1↔2); the entry and its line (2↔your ar
 I remain on hold until you answer.
 
 Resources used for this backbrief: this executive instance and local reads; no subordinate runs.
+
+CEO, 2026-11-02 session [evidence: conversation]:
+> Backbrief received. Your understanding of my intent, your needs, your solutions and your plan stand as you stated them.
+> Decision: yes. The capability becomes its own repository in capability/, which this project’s repository ignores. That repository is what goes to GitHub and what anyone clones; this project’s records stay here, as one of my projects.
+> On “handoff”: in the lexicon, the handoff is MAP.md together with BRIEF.md. You read both, so nothing was missed.
+> Go.
+
+**GO received 2026-11-02; hold lifted.** Executed: `capability/` created as its own git repository and ignored by this one (managing: the write path). Subordinate 1 (standard, context record and check; main effort) briefed in `briefs/2026-11-02_standard.md` and started as a tracked run for its backbrief (`briefs/sessions.md`). Subordinate 2 is briefed once 1's record shape is backbriefed.
+
+
+## 2026-11-02 — Built; stopped before the admission pass
+
+**Has the situation changed? Yes – some tasks must change, but what we are trying to achieve still holds**, unless the CEO answers the decision below otherwise. The finding bears on what the CEO would want (`intent.md`: “If anything you discover later changes what I’d want, stop and tell me before continuing”), so I stop before the admission pass.
+
+**Done.** Both subordinates' tasks are complete; reports received at their runs' ends and checked by me (`briefs/2026-11-02_standard.md`, `briefs/2026-11-02_access.md`). `capability/` holds the standard and check, the store and access, `USE.md` for agents in projects and `OWNER.md` for decisions; 22 tests pass on the Pi (Python 3.13.5). Nothing written into other projects; nothing personal tracked. Not established: Windows and Python 3.9 at runtime.
+
+**What your arrangement needs** (settled, from the report): path on the Pi `/home/mr/Desktop/python/new_projects/central_innovations_folder/capability/USE.md`; the line, also the first line of `USE.md`:
+> Find reusable project know-how with its context; open this file before reusing a technique or adding to your project's innovations.
+
+**The finding.** [evidence: `briefs/2026-11-02_access_report.md`, real-tree evidence; my own run] Your projects hold 20 distinct contributions in 127 locations; 107 are copies. None of the 20 has the context record the standard requires, so none can be admitted, and the capability offers nothing to any other project. [evidence: `briefs/2026-11-01_context_report.md`, Observations] Each has its six prose sections, including “Fits projects like” and “Proven in”, but applicability and limits are scattered and evidence often cannot be resolved from the contribution. Only a contributing project's own agents may complete the record, when you work on that project; some may never be reopened. So, as it stands, M1 and M3 are met only for what is added from now on.
+
+**Decision I need from you.**
+1. *Existing contributions.* Reading taken so far: your main effort, “Where reach and context conflict, context wins”, means nothing is offered until its own project completes its context record. Alternative, within “You decide what is admitted … on evidence”: I review each of the 20 and admit as “legacy” those whose prose carries origin, fit, evidence and limits, offered to other projects marked as such with my reason stating what is known and unknown; thin ones stay unadmitted; everything added from now on must meet the full standard. I recommend the alternative: the prose is context, the record is its form; waiting may mean these 20 never reach anyone. It needs a small change to admission (a legacy state) by a subordinate. Which do you want?
+
+**Step complete for commit** (as directed 2026-10-25): `capability/` (its own repository, untracked files, `.local/` ignored) and this project's records, `.gitignore` and briefs.
+
+Resources used: this executive instance; four Codex runs (two backbriefs, two builds with reports); my own checks of both builds and one real ask.
+
+Unless you answer, I hold the admission pass.

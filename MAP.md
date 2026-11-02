@@ -102,6 +102,32 @@ The CEO answered: the capability writes nothing into other projects; how their a
 
 For the intent: any project pointed to the capability can draw on all projects' know-how with its context, and nothing in the projects themselves has to be kept current.
 
-## In progress — third re-brief
+## In progress — third re-brief (superseded below)
 
-[~] ON HOLD by the CEO until the CEO answers the backbrief (BRIEF.md part 6, third re-brief). One decision is open: the capability as its own repository for GitHub, apart from this project's records. Then two subordinates: standard and check first (main effort), then store and access with the entry; then the first admission pass in Central.
+[superseded] ON HOLD by the CEO until the CEO answers the backbrief (BRIEF.md part 6, third re-brief). One decision is open: the capability as its own repository for GitHub, apart from this project's records. Then two subordinates: standard and check first (main effort), then store and access with the entry; then the first admission pass in Central.
+
+## Leg 9 — Go, 2026-11-02
+
+The CEO accepted the backbrief and decided that the capability is its own repository in `capability/`, ignored by this project's; that repository alone goes to GitHub. Building began with the main effort, the standard and its check. [evidence: BRIEF.md part 6, third re-brief, GO]
+
+For the intent: the part on which context survives is being built first, in a repository anyone can clone.
+
+## Leg 10 — The standard built, 2026-11-02
+
+Subordinate 1 built the one standard: a definition from which the readable standard and the check are both generated, and a context record carried in each contribution's `PATTERN.md` beside its six sections. The check tells a contributing agent what context is missing; it proves presence, not truth or admission. Run on a real contribution, it found the sections present and the context record missing, as every existing contribution will be. [evidence: briefs/2026-11-02_standard_report.md; executive's check in briefs/2026-11-02_standard.md]
+
+For the intent: every project can now reach one standard and check what it adds while it still knows the context.
+
+## In progress — build (superseded below)
+
+[superseded] Subordinate 2, store and access with the entry `USE.md`: backbrief received and checked; GO with five adjustments (smaller, `USE.md` for project agents only, the line covers adding, compact check output, evidence on the real tree); building, report awaited from its tracked run (`briefs/2026-11-02_access.md`). Then the first admission pass in Central. Open for that pass [interp]: existing contributions carry context in prose but no context record; only their own projects can complete them, and context wins over reach, so until then little or nothing may be offered.
+
+## Leg 11 — Built; nothing yet to offer, 2026-11-02
+
+Subordinate 2 built the store and access: any agent in any project can ask, select, check its addition and decline; copies count once; nothing is lost; exclusions and declines are honoured. On the real tree it found 20 distinct contributions in 127 locations, none meeting the standard, so nothing is offered across projects yet. [evidence: briefs/2026-11-02_access_report.md; executive's check in briefs/2026-11-02_access.md]
+
+For the intent: the capability works, but what projects have already learned does not yet reach others, because its context lacks the required form.
+
+## In progress — admission pass held
+
+[~] HELD by the executive pending the CEO's decision on existing contributions (BRIEF.md part 6, “Built; stopped before the admission pass”): wait for their projects to complete context records, or admit them as legacy on their prose context.
