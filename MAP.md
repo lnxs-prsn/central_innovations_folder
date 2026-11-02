@@ -157,3 +157,5 @@ directed_opportunism has published editions 2026-11-02 and 2026-11-02b, both sig
 For the intent: the capability is published and works empty; know-how reaches it when a project takes it and offers, and the curator is given that project's published part.
 
 [~] Waiting: the organization's list of projects (command level, toolusage's means). When it exists, ingest from it, decide admissions with reasons, publish the next catalogue. Responsibility: executive. Open limits: Windows and Python 3.9 unrun.
+
+2026-11-02: the CEO added to `intent.md`, Backbrief, a comparison of 2–3 solutions per need the next step touches, against the measures, from the next backbrief (BRIEF.md part 6, “The CEO adds a comparison to every backbrief”). Intent unchanged; Leg 13 continues.

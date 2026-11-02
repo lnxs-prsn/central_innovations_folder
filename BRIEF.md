@@ -8,7 +8,7 @@ Established 2026-11-01 from the CEO's brief, `intent.md`, under method edition 2
 > You decide what is admitted, merged, or retired, on evidence, logging each decision with its reason, without asking me.
 > If you find a better way to achieve the intent than these measures imply, take it, and tell me why.
 
-Limits on them, `intent.md`, Backbrief: “Before building, state my intent in your own words, and describe how you plan to achieve it and why. If anything you discover later changes what I’d want, stop and tell me before continuing.” and “I read only your backbriefs. Anything you need me to decide must be stated in the backbrief itself, not only referred to in your files.”; plus the Constraints quoted in part 5, including “how the book applies to agents is directed_opportunism’s to decide”. Commits: the CEO, 2026-10-25, “When a step is complete, say so in your report and I commit it” (part 6); unchanged though .git is now writable [interp].
+Limits on them, `intent.md`, Backbrief: “Before building, state my intent in your own words, and describe how you plan to achieve it and why. For each need your next step touches, compare 2–3 different solutions, including existing techniques and software and at least one that challenges your own preferred choice, against the measures. If anything you discover later changes what I’d want, stop and tell me before continuing.” and “I read only your backbriefs. Anything you need me to decide must be stated in the backbrief itself, not only referred to in your files.”; plus the Constraints quoted in part 5, including “how the book applies to agents is directed_opportunism’s to decide”. Commits: the CEO, 2026-10-25, “When a step is complete, say so in your report and I commit it” (part 6); unchanged though .git is now writable [interp].
 
 **Superior**: the CEO, by assignment (`intent.md`; the CEO holds command of the organization now). Unclear intent goes to the CEO. Method questions go through the CEO and are published for directed_opportunism in this project's published part (`published/INDEX.md`; edition 2026-11-02b `ENTRY.md`) [updated 2026-11-02 on taking 2026-11-02b; earlier: sent to directed_opportunism under the delivered `ENTRY.md`]. Method edition applied: 2026-11-02b (`directed_opportunism/LOCAL.md`).
 
@@ -78,8 +78,10 @@ Inherited from `intent.md`, Boundaries (restructured 2026-11-01; search freedom 
 CEO's backbrief direction, `intent.md`, Backbrief:
 
 > First, has the situation changed? Say which of the three holds: the brief is valid; some tasks must change but what we’re trying to achieve still holds; or what we’re trying to achieve must change, which is mine to decide (p. 250).
-> Before building, state my intent in your own words, and describe how you plan to achieve it and why. If anything you discover later changes what I’d want, stop and tell me before continuing.
+> Before building, state my intent in your own words, and describe how you plan to achieve it and why. For each need your next step touches, compare 2–3 different solutions, including existing techniques and software and at least one that challenges your own preferred choice, against the measures. If anything you discover later changes what I’d want, stop and tell me before continuing.
 > I read only your backbriefs. Anything you need me to decide must be stated in the backbrief itself, not only referred to in your files.
+
+[2026-11-02: the CEO added the sentence “For each need your next step touches, compare 2–3 different solutions…”, applying from the next backbrief.]
 
 [interp] Control loop: report the investigation's implications before building; thereafter report outcomes, friction reaching this level, and resources used. Refer back if evidence changes what the CEO would want. Adjust tasks autonomously where the intent remains valid. Separate agents receive written briefs and their backbriefs are checked before action, as START_TEXT requires.
 
@@ -462,3 +464,11 @@ CEO, 2026-11-02 session [evidence: conversation]:
 [interp] Taking supplies no task; the plan's go is the CEO's “Go ahead with your plan.” Next: one subordinate re-points store and access to published offers (`briefs/2026-11-02_publication.md`), backbrief first.
 
 **Report, 2026-11-02** [evidence: `briefs/2026-11-02_publication.md`, check of the report]. Outcome against the plan: done. Subordinate 3 rebuilt store and access on publication; I checked tests, edition identity and a read-only run myself. Published: capability edition `capability-001` (`published/capability/`, manifest `55c3cd1a…37ea3b`) and the empty `catalogue-001`; Central is the curator, its decisions in `.knowhow/` in this folder. Friction: the root `.gitignore` line `capability/` also hid `published/capability/`; anchored to `/capability/`. Outstanding: no offers can arrive until the organization's list of projects exists (toolusage); Windows and Python 3.9 not yet run. Resources: this executive; one subordinate (Codex, two runs: backbrief, build); local checks.
+
+## 2026-11-02 — The CEO adds a comparison to every backbrief
+
+CEO, 2026-11-02 session [evidence: conversation; `intent.md`, Backbrief]:
+> One sentence is added to the Backbrief section: "For each need your next step touches, compare 2–3 different solutions, including existing techniques and software and at least one that challenges your own preferred choice, against the measures." It applies from your next backbrief.
+
+[interp] The brief is valid; what we are trying to achieve is unchanged. No backbrief is due now (Leg 13, waiting for the organization's list of projects). From the next backbrief on, each need the next step touches gets 2–3 solutions compared against the measures, including existing techniques and software and at least one that challenges my preferred choice. Briefs to subordinates ask the same of their backbriefs where their step touches a need [interp: the CEO's rule binds my backbriefs; asking it of subordinates is my choice, so I can check the comparison I report].
+
