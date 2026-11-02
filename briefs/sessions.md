@@ -25,3 +25,9 @@ Codex `exec` runs started by the executive as tracked background processes; a ru
 
 - 01a19944-3fc6-7da1-9523-b6b455d04024: standard (subordinate 1); brief 2026-11-02_standard.md; backbrief received 2026-11-02 at run end; GO with adjustments recorded in the brief; report received 2026-11-02 at run end; task complete, run ended.
 - 01a1994c-d53a-73f1-9100-ba0158b5e8d8: access (subordinate 2); brief 2026-11-02_access.md; backbrief received 2026-11-02 at run end; GO with adjustments recorded in the brief; report received 2026-11-02 at run end; task complete, run ended.
+
+## 2026-11-02 — publication, after the CEO's go on the replacing re-brief
+
+Codex `exec` run started by the executive as a tracked background process with input closed; a run's ending is the arrival of its backbrief or report. Codex is the available means, not a requirement.
+
+- 01a19ced-f400-7eb2-8975-16a7758e4efb: publication (subordinate 3); brief 2026-11-02_publication.md; backbrief received 2026-11-02 at run end; GO with adjustments recorded in the brief; build run resumed 2026-11-02; report received 2026-11-02 at run end; task complete, run ended.

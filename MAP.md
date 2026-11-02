@@ -150,4 +150,10 @@ directed_opportunism has published editions 2026-11-02 and 2026-11-02b, both sig
 
 2026-11-02, after the CEO's go [evidence: BRIEF.md part 6, “The CEO's answer; edition 2026-11-02b taken”]: 2026-11-02b taken; `capability/.local/` deleted; `published/INDEX.md` and review set 2026-11-02 published.
 
-[~] Subordinate 3 (publication): re-point store and access to published offers; brief `briefs/2026-11-02_publication.md`; backbrief first. Responsibility: subordinate 3; cohesion: executive.
+[x] Subordinate 3 (publication), 2026-11-02: store and access re-pointed to published offers; report checked (`briefs/2026-11-02_publication.md`). Published: capability edition `capability-001` and empty `catalogue-001`; Central is the curator (`.knowhow/`).
+
+## Leg 13 — Waiting for offers
+
+For the intent: the capability is published and works empty; know-how reaches it when a project takes it and offers, and the curator is given that project's published part.
+
+[~] Waiting: the organization's list of projects (command level, toolusage's means). When it exists, ingest from it, decide admissions with reasons, publish the next catalogue. Responsibility: executive. Open limits: Windows and Python 3.9 unrun.
