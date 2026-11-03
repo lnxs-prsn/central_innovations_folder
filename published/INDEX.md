@@ -1,10 +1,12 @@
 # Published material — central_innovations_folder
 
-Edition applied: directed_opportunism 2026-11-02b
+Edition applied: directed_opportunism 2026-11-03b
 
 Everything listed here is complete and fixed; later material is added as new dated entries, and earlier entries do not change.
 
 Review of our application: `review/2026-11-02/` holds fixed copies, taken 2026-11-02 after taking edition 2026-11-02b, of the brief received from the CEO (`intent.md`), the executive's strategy brief with every backbrief (`BRIEF.md`), the situation record (`MAP.md`), the experience record (`friction.md`) and the taken edition's identity (`LOCAL.md`). `MANIFEST.json` lists each file's SHA-256; the manifest's own SHA-256 is e7fdd1c44e923c3f01c78017580b0b0b757f9339acecf69ced59a053c74104c1. Limits: subordinate briefs, backbriefs and reports (`briefs/`) are not published, because the investigation reports quote contributions read from other projects before the publication model, which those projects never offered; the strategy brief summarizes what they found and names one project path.
+
+Review set 2026-11-03: `review/2026-11-03/` holds the same five records, taken 2026-11-03 after taking edition 2026-11-03b, with the same limits. Its `MANIFEST.json` SHA-256 is 410a6d504674a326b3215e0ea25451e0ce730a430cb7729b45ba9701a2b4822b.
 
 Questions or lessons published for directed_opportunism: none yet.
 

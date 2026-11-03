@@ -1,3 +1,3 @@
 # Agent entry
 
-Read `AGENTS.md` and follow its taken-method entry and local-record locators. This is the same entry for every provider; no provider-specific import is required.
+Follow `AGENTS.md`: its task-fitted entry and, when needed, taken-edition and local-record locators apply to every provider. No provider-specific import is required.

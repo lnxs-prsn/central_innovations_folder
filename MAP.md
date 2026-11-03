@@ -161,3 +161,5 @@ For the intent: the capability is published and works empty; know-how reaches it
 2026-11-02: the CEO added to `intent.md`, Backbrief, a comparison of 2–3 solutions per need the next step touches, against the measures, from the next backbrief (BRIEF.md part 6, “The CEO adds a comparison to every backbrief”). Intent unchanged; Leg 13 continues.
 
 2026-11-03 (BRIEF.md part 6, “Method edition 2026-11-03b”): brief valid; Leg 13 continues, no list of projects yet. Edition 2026-11-03b (significant) told to the CEO; taken in the next instance unless the CEO says otherwise. Developing capability source passes on Python 3.11 and 3.13; 3.9 and Windows unrun.
+
+2026-11-03: 2026-11-03b taken (BRIEF.md part 6, “Taken, 2026-11-03”). Leg 13 continues.
