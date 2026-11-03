@@ -477,3 +477,29 @@ CEO, 2026-11-02 session [evidence: conversation]:
 > Your choice is right. The comparison serves every level where means are chosen, not only your backbrief to me: a superior who offers subordinates only its own design narrows their choice to its first idea. Briefing and backbriefing repeat at each level.
 
 [interp] So in a subordinate's brief I state the need and the measures, not my design. If I name a solution, I name it as one candidate among others. The subordinate's backbrief compares 2–3 solutions, including existing techniques and software and at least one that challenges its own preferred choice (and mine). I check that comparison before go, and I carry it, checked, into my backbrief to the CEO.
+
+## 2026-11-03 — Has the situation changed? Method edition 2026-11-03b
+
+[evidence: directed_opportunism `published/INDEX.md`, read 2026-11-03] Current edition: 2026-11-03b (manifest SHA-256 `3c18a6ce…7d161`, verified with all 17 listed file hashes). Between it and my applied 2026-11-02b lies 2026-11-03. **Both update messages say: “Significant change: yes.”** I tell you before taking; this is a duty to tell, not a request to decide.
+
+What they change, in their words:
+- 2026-11-03: “Every assigning superior chooses the model within allocated resources, using available evidence of competence in that work.” And: “leave the superior's preferred candidate means out of a brief where the recipient can determine them … In the backbrief, compare feasible alternatives against intent, measures and boundaries, including existing practice and an alternative challenging your own or the superior's evident preference”.
+- 2026-11-03b: “Routine work enters through its brief. A specified routine role reads its assigned brief whole, recorded go and named work, report and experience.” Directing roles still read START_TEXT whole. The local `AGENTS.md` is to be adapted from the edition's template.
+
+[interp] Effect here: the comparison discipline is what you added to `intent.md` on 2026-11-02 and confirmed for every level; the edition now holds it as method. New for me: I choose each subordinate's model for its work and record why, and I brief routine subordinates fully enough that they need not read the whole method. No subordinate is running or planned, so taking interferes with no current work.
+
+**The brief is valid** (p.250): what we are trying to achieve and the tasks are unchanged. Leg 13 continues. No list of projects exists yet: only Central has a `published/INDEX.md` among the project folders' names (names listed only). So no offer can arrive.
+
+**Next step: take 2026-11-03b.** The need it touches is how this project's entry routes agents (M7, M10: load only what the task needs).
+1. *The edition's AGENTS template as is* [preferred]: routine subordinates go straight to their brief, directing roles read the method. Cost: my subordinate briefs must carry the method meanings they need.
+2. *Keep the current entry and re-point the locator only* (existing practice): every instance reads START_TEXT and ENTRY. Simple, but it repeats the method context the edition found costly. And it leaves the entry out of line with the edition I would declare.
+3. *No method route for subordinates* (challenges my choice): subordinates run with closed input from their brief, as my Codex runs already do, so the automatically loaded entry matters only to me. Cheapest, but a subordinate opened in this folder by any other means would get no route. That breaks “Nothing may depend on any one agent, model, or provider”.
+I take 1, because it keeps the route for any provider and fits what each role carries to its work.
+
+Unless you say otherwise, I take 2026-11-03b in the next instance. That means: re-point `directed_opportunism/source`, record the edition and hash in `LOCAL.md`, adapt `AGENTS.md`, declare it in `published/INDEX.md`, and recheck this position under it.
+
+**Independent work done this session** [evidence: scratch copies, nothing changed in the repositories]. The developing capability source passes all 33 tests and the render check on Python 3.11.15 and 3.13.5. Python 3.9 and Windows are still unrun: no 3.9 is installed, and fetching one would download from GitHub. In a copy of the published edition one test fails on 3.11 and 3.13 alike: `pack-capability` refuses to run from an edition, by design. `OWNER.md` says to validate “from the source or a disposable copy”, which a copy of the edition does not satisfy (friction.md, same date).
+
+**Decisions I need from you:** none. For your awareness: a Python 3.9 run needs a 3.9 interpreter on this Pi or the laptop. Windows needs the laptop.
+
+Resources used: this executive instance (Claude); local reads of my records and of directed_opportunism's `published/` (index, three update messages, manifests with hash verification, the AGENTS template); two scratch test runs; no subordinates.
