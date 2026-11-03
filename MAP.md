@@ -48,7 +48,7 @@ For the intent: the investigations that tell us what context must travel and whe
 
 ## Leg 3 — What the ground showed, 2026-11-01
 
-Both investigations reported. Context: what decides reuse lives in a contribution's conditions, evidence and limits, which index rows and kits drop; three identical copies were one origin, not three successes; all ten admission standards are now identical. Entry: nothing runs when a project opens; knowledge can enter only where something executes — entry files followed by agents, session commands, launchers — and the task often arrives after entry. [evidence: briefs/2026-11-01_context_report.md, briefs/2026-11-01_entry_report.md]
+Both investigations reported. Context: what decides reuse lives in a contribution's conditions, evidence and limits, which index rows and kits drop; three identical copies were one origin, not three successes; all ten admission standards are now identical. Entry: nothing runs when a project opens [superseded by Leg 5: opening VS Code in the folder is an event]; knowledge can enter only where something executes — entry files followed by agents, session commands, launchers — and the task often arrives after entry. [evidence: briefs/2026-11-01_context_report.md, briefs/2026-11-01_entry_report.md]
 
 For the intent: we know what must travel and where it can enter; the design pairs a light discovery at entry with full context at selection.
 
@@ -163,3 +163,5 @@ For the intent: the capability is published and works empty; know-how reaches it
 2026-11-03 (BRIEF.md part 6, “Method edition 2026-11-03b”): brief valid; Leg 13 continues, no list of projects yet. Edition 2026-11-03b (significant) told to the CEO; taken in the next instance unless the CEO says otherwise. Developing capability source passes on Python 3.11 and 3.13; 3.9 and Windows unrun.
 
 2026-11-03: 2026-11-03b taken (BRIEF.md part 6, “Taken, 2026-11-03”). Leg 13 continues.
+
+2026-11-03 (BRIEF.md part 6, “Method edition 2026-11-03c and the published review”): brief valid; Leg 13 continues. Toolusage publishes, but no list of projects yet. Edition 2026-11-03c (significant) told to the CEO; taken in the next instance unless the CEO says otherwise. Position's commit line updated to the CEO's 2026-11-02 direction. Offers can also arrive if a published part is given to the curator directly.

@@ -8,7 +8,7 @@ Established 2026-11-01 from the CEO's brief, `intent.md`, under method edition 2
 > You decide what is admitted, merged, or retired, on evidence, logging each decision with its reason, without asking me.
 > If you find a better way to achieve the intent than these measures imply, take it, and tell me why.
 
-Limits on them, `intent.md`, Backbrief: “Before building, state my intent in your own words, and describe how you plan to achieve it and why. For each need your next step touches, compare 2–3 different solutions, including existing techniques and software and at least one that challenges your own preferred choice, against the measures. If anything you discover later changes what I’d want, stop and tell me before continuing.” and “I read only your backbriefs. Anything you need me to decide must be stated in the backbrief itself, not only referred to in your files.”; plus the Constraints quoted in part 5, including “how the book applies to agents is directed_opportunism’s to decide”. Commits: the CEO, 2026-10-25, “When a step is complete, say so in your report and I commit it” (part 6); unchanged though .git is now writable [interp].
+Limits on them, `intent.md`, Backbrief: “Before building, state my intent in your own words, and describe how you plan to achieve it and why. For each need your next step touches, compare 2–3 different solutions, including existing techniques and software and at least one that challenges your own preferred choice, against the measures. If anything you discover later changes what I’d want, stop and tell me before continuing.” and “I read only your backbriefs. Anything you need me to decide must be stated in the backbrief itself, not only referred to in your files.”; plus the Constraints quoted in part 5, including “how the book applies to agents is directed_opportunism’s to decide”. Commits: the CEO, 2026-11-02, “Commit your own work locally yourself. Pushing to GitHub stays with me.” (part 6) [updated 2026-11-03 to that direction, after the published review of 2026-11-03 found this line stale; earlier: the CEO's 2026-10-25 “When a step is complete, say so in your report and I commit it”].
 
 **Superior**: the CEO, by assignment (`intent.md`; the CEO holds command of the organization now). Unclear intent goes to the CEO. Method questions go through the CEO and are published for directed_opportunism in this project's published part (`published/INDEX.md`; edition 2026-11-02b `ENTRY.md`) [updated 2026-11-02 on taking 2026-11-02b; earlier: sent to directed_opportunism under the delivered `ENTRY.md`]. Method edition applied: 2026-11-03b (`directed_opportunism/LOCAL.md`) [updated 2026-11-03; earlier 2026-11-02b].
 
@@ -505,3 +505,38 @@ Unless you say otherwise, I take 2026-11-03b in the next instance. That means: r
 Resources used: this executive instance (Claude); local reads of my records and of directed_opportunism's `published/` (index, three update messages, manifests with hash verification, the AGENTS template); two scratch test runs; no subordinates.
 
 **Taken, 2026-11-03** [evidence: this session]. The CEO's word after the backbrief above was “continue”, with no objection. 2026-11-03b taken: `directed_opportunism/source` → `../../project_management/directed_opportunism/published/2026-11-03b`; `LOCAL.md` records the edition and manifest SHA-256 `3c18a6ce…7d161`, verified with all 17 file hashes. `AGENTS.md` and `CLAUDE.md` come from the edition's templates; they held no project-owned content beyond the route. `published/INDEX.md` declares 2026-11-03b. I read the new `ENTRY.md` whole. START_TEXT I compared line by line with 2026-11-02b, which I read whole last session; there are three changes: model choice, means left out of briefs, and the instance's model. I also read the changed lexicon and briefing text. Position rechecked: unchanged, except that the Subordinates paragraph now carries model choice and routine briefs. [interp] Taking supplies no task; Leg 13 continues.
+
+## 2026-11-03 — Has the situation changed? Method edition 2026-11-03c and the published review
+
+[evidence: directed_opportunism `published/INDEX.md`, read 2026-11-03] Current edition: 2026-11-03c (manifest SHA-256 `911a276d…0bae`, verified with all 17 listed file hashes). Its update message says: **“Significant change: yes.”** I tell you before taking; this is a duty to tell, not a request to decide. The same index publishes a review of Central's application, called by you (`reviews/2026-11-03_central_innovations_folder.md`); it gives findings, not direction.
+
+What 2026-11-03c changes, in its words:
+- “when the superior's direction changes a part of the executive's position, the executive updates that part of its recorded position from the changed direction.” Its evidence is Central: my recorded decision rights still said you commit, after you had said “Commit your own work locally yourself.”
+- Operational needs: reviews need evidence that can be told apart from a role's own account (attributable records, served model, usage and cost). These are outcomes for toolusage's means, “not additional narrative reporting duties for acting roles.”
+
+**The brief is valid** (p.250): what we are trying to achieve and the tasks are unchanged. Leg 13 continues. Toolusage now has a published part (its `published/INDEX.md`: method edition and the `receipt` means for tracking runs). It does not yet carry the organization's list of projects.
+
+**Done now, from your direction rather than the edition** [evidence: BRIEF.md head]: the decision-rights line now quotes your 2026-11-02 words on commits; the old 2026-10-25 rule is kept as “earlier”. That fix needed no new edition. Your direction already required it.
+
+**The review's other points, adjusted in my own application:**
+- *“No offer can arrive” claimed more than the evidence showed.* Corrected reading [interp]: a missing list of projects means I have no way to discover offers. It does not show that none exist or that none could be given to me. No published part I know of carries a know-how offer. I looked only at names under `new_projects/` and `project_management/`, plus the published indexes of directed_opportunism and toolusage.
+- *My rule “If I name a solution, I name it as one candidate among others” predates edition 2026-11-03.* Revised: in a subordinate's brief I leave my preferred means out wherever the subordinate can determine them. I name candidates only where it cannot, and then several, mine among them.
+- *Stale claims in the map without a marker saying which governs.* Leg 3's “nothing runs when a project opens” now carries “[superseded by Leg 5]”. Other history stays as written. The latest In progress entry governs.
+
+**Next step: take 2026-11-03c.** The need it touches is keeping the recorded position current, so that each instance enters through the direction actually in force (main effort through continuity; M10).
+1. *Update the affected part when direction changes it* [preferred; the edition's rule]: the head stays one place, with “earlier” wording kept inline. Cost: I must notice which part a direction changes.
+2. *Re-derive the whole position at every instance from `intent.md` and part 6* (challenges my choice): nothing is ever stale. But every instance re-reads all of part 6, which costs tokens (M10), and the edition says the position “belongs to the role, rather than being inferred afresh”.
+3. *Existing practice: recheck only when an edition is taken.* That is what missed the commit line. Rejected.
+I take 1, and I add a step to my own check: at each CEO answer, compare it with the four parts of the position.
+
+The need for offers to reach me without the list (M1, M3), for your awareness:
+1. *Wait for toolusage's list* [current]: no project is read outside an index it gives.
+2. *You or a project's executive give me a published part's path directly*: the curator reads a published part it is given, and the capability already supports that. This needs no new means.
+3. *Central scans the projects folder for `published/INDEX.md`*: this would find offers without the list. But discovery belongs to the command level, and it would rebuild the gathering you removed. Rejected.
+2 is open now alongside 1. No decision is needed. If you name a project, I ingest it.
+
+Unless you say otherwise, I take 2026-11-03c in the next instance: re-point `directed_opportunism/source`, record the edition and hash in `LOCAL.md`, declare it in `published/INDEX.md`, and publish a review set. `AGENTS.md` needs no change, because the template's route is unchanged.
+
+**Decisions I need from you:** none.
+
+Resources used: this executive instance (Claude); local reads of my records, directed_opportunism's `published/` (index, update message, manifest and 17 file hashes, START_TEXT diff against 2026-11-03b, the review), and toolusage's `published/INDEX.md`; directory names only elsewhere; no subordinates.
