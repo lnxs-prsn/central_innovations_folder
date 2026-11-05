@@ -173,3 +173,7 @@ For the intent: the capability is published and works empty; know-how reaches it
 2026-11-05 (BRIEF.md part 6, “Re-brief, line 62”): tasks change, intent holds, on the working reading that no project reads another's folder, `published/` included. [~] HELD by the executive: intake, reading directed_opportunism's and toolusage's published parts, capability edition with the corrected line. Waiting on the CEO: line 62's meaning; if stricter, who provides the exchange. Responsibility: executive; timing: the CEO's answer. Supersedes “rerun intake at each instance's entry” above.
 
 2026-11-05 (BRIEF.md part 6, “Second re-brief, line 62 restored”): brief valid; the hold above is lifted and “Waiting on the CEO” is superseded. Leg 13 continues: intake at each instance's entry (11 listed, 0 published). [~] Next: brief one subordinate for capability-002 (existing know-how on taking; line through the index; validation fix). Responsibility: executive.
+
+2026-11-05: subordinate 4 briefed for capability-002 (`briefs/2026-11-05_capability-002.md`); intake on entry unchanged: 11 listed, 0 published; publisher's index still names 2026-11-05. [~] Backbrief awaited at its tracked run's end (`briefs/sessions.md`), then the executive's check and GO. Responsibility: executive.
+
+2026-11-05: subordinate 4's backbrief received and checked; GO with four adjustments (`briefs/2026-11-05_capability-002.md`). [~] Build running; report awaited at its tracked run's end, then the executive's check and publishing capability-002. Responsibility: executive.
