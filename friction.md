@@ -83,3 +83,9 @@ Outcome, 2026-11-01: the tracked Codex runs held. Both backbriefs and both repor
 ## 2026-11-05: Backbrief quote stale past my own check
 
 [evidence: BRIEF.md part 5 lacked `intent.md`'s “Say also where my intent or measures seem unrealistic …” sentence until today] My 2026-11-01 adjustment says to check every quote against `intent.md` at each re-brief; part of the Backbrief direction had already slipped. Who caught it: the executive, by mechanical comparison at this re-brief. Gap: knowledge (plans and outcomes, p.45). Likely cause [hyp]: earlier checks by eye. When it came in is unknown here. Adjustment: at each re-brief, compare by script, not by reading.
+
+Outcome of “an edition's own tests fail in a copy of the edition” (2026-11-03), 2026-11-05: adjusted in capability-002 and confirmed by the executive on Python 3.13.5 and 3.11.15. Closed.
+
+## 2026-11-05: a backbrief's plausible route, tested only by running it
+
+[evidence: `briefs/2026-11-05_capability-002.md`, “Supervisor's check and GO”] The draft had a clone user pack an edition and publish an empty catalogue; my brief's measure, “only a clone and an empty catalogue”, invited it. Reading alone would have passed it. Running a clone showed neither step was needed, and exposed the raw `{"error":"'catalogue'"}`, which 33 tests had not. Who caught it: the executive. Gap: knowledge (plans and outcomes, p.45). Likely cause [hyp]: my measure named a state in place of what that person needs, and no test took an index with no catalogue. Adjustment: in a backbrief check, exercise any route the draft tells a user to follow, briefly, on a temporary copy. Whether agents follow `EXISTING.md` as written stays unknown until a first offer; responsibility: executive, at that offer's admission.

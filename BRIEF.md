@@ -12,7 +12,7 @@ Limits on them, `intent.md`, Backbrief: “Before building, state my intent in y
 
 **Superior**: the CEO, by assignment (`intent.md`; the CEO holds command of the organization now). Unclear intent goes to the CEO. Method questions go through the CEO and are published for directed_opportunism in this project's published part (`published/INDEX.md`; edition 2026-11-02b `ENTRY.md`) [updated 2026-11-02 on taking 2026-11-02b; earlier: sent to directed_opportunism under the delivered `ENTRY.md`]. Method edition applied: 2026-11-05 (`directed_opportunism/LOCAL.md`) [updated 2026-11-05; earlier 2026-11-03b].
 
-**Subordinates**: none live. The context subordinate (`briefs/2026-10-25_context.md`) and the entry subordinate (`briefs/2026-10-25_entry.md`) completed their investigations; their reports were received at their runs' ends (`briefs/sessions.md`). Three build subordinates completed their work (standard, access, publication; their briefs and reports in `briefs/`); none is planned until offers can arrive (MAP.md, Leg 13) [updated 2026-11-03; earlier: “Build subordinates are briefed after the CEO answers the backbrief”]. Each instance is a run with closed input, started by this executive and tracked to its end. I choose its model for the work's competence and record why; a routine brief carries the method meanings it needs, so its subordinate reads only that brief (edition 2026-11-03b, ENTRY; START_TEXT, management) [updated 2026-11-03; earlier: “on whichever agent is available”]. No provider is required (`intent.md`: “Nothing may depend on any one agent, model, or provider”). Identifiers in `briefs/sessions.md` are historical.
+**Subordinates**: none live. The context subordinate (`briefs/2026-10-25_context.md`) and the entry subordinate (`briefs/2026-10-25_entry.md`) completed their investigations; their reports were received at their runs' ends (`briefs/sessions.md`). Four build subordinates completed their work (standard, access, publication, capability-002; their briefs and reports in `briefs/`); none is planned until offers can arrive (MAP.md, Leg 13) [updated 2026-11-05; earlier 2026-11-03: earlier: “Build subordinates are briefed after the CEO answers the backbrief”]. Each instance is a run with closed input, started by this executive and tracked to its end. I choose its model for the work's competence and record why; a routine brief carries the method meanings it needs, so its subordinate reads only that brief (edition 2026-11-03b, ENTRY; START_TEXT, management) [updated 2026-11-03; earlier: “on whichever agent is available”]. No provider is required (`intent.md`: “Nothing may depend on any one agent, model, or provider”). Identifiers in `briefs/sessions.md` are historical.
 
 ---
 
@@ -638,3 +638,24 @@ Preference held as provisional: I leave means to the subordinate, whose backbrie
 **Asked of the CEO:** nothing.
 
 Resources used: this executive instance; local reads; directed_opportunism's and toolusage's published indexes; one ingest; no subordinates.
+
+## 2026-11-05 — capability-002 published: has the situation changed?
+
+**The brief is valid** (p.250). Leg 13 continues. Nothing has been offered: 11 listed, 0 published (intake, this session).
+
+Done, on the decision rights in the position; subordinate 4's brief, backbrief, GO and report are in `briefs/2026-11-05_capability-002*`. `capability-002` is published at `published/capability/capability-002/`, manifest `f66f1577…bdfb`.
+- **What a project already holds.** New optional `EXISTING.md`: the executive decides piece by piece, and keeping something local is a complete choice. Most of what projects hold is a copy with prose and no context record. Completing one creates a new identity, so two holders can make two identities of one technique. A holder states only what it knows; if the developer or evidence is unknown, the piece stays unoffered.
+- **Listing line**, first line of `USE.md`: “Before drawing on shared know-how or offering yours, read INDEX.md at the listed location, or USE.md in a clone.” The location is the CEO's to supply, `intent.md` line 11. A clone runs directly, with no packing or catalogue, and has nothing to ask until it is given a curator's index.
+- **Asking an index with no catalogue** now says what to do and exits nonzero, in place of `{"error":"'catalogue'"}`. Found by my own exercise, not by the tests or the backbrief.
+- **Validation from an edition holds** (friction.md, 2026-11-03).
+- Its `UPDATE.md` says `Significant change: no`; standard 1.0 and publication formats are unchanged.
+
+[evidence: executive's own check] External hash, 20 listed files, none unlisted, bytes equal to source; from a copy of the stage, on Python 3.13.5 and 3.11.15: tests OK with the one intended skip, render check passes; from source on 3.13.5: OK. Unknown: Windows and Python 3.9 not run; how much effort a real project needs to complete a record; whether agents judge provenance as the guide asks. Only a first offer shows the last two.
+
+Needs and alternatives compared: the subordinate's backbrief, against the measures. Rejected there: an inventory or conversion command, a machine-readable pointer with a resolver, narrowing validation to source. Rejected by me in the GO: packing and an empty catalogue for a clone.
+
+**Limit, for the CEO's awareness** [interp]: know-how reaches other projects only after a project takes the capability and offers; with the guide in place, the capability has no further part to play until then. This is M1's limit stated on 2026-11-05, unchanged. The listing needs only the line above and, on this machine, the location `/home/mr/Desktop/python/new_projects/central_innovations_folder/published/`. GitHub: `capability/` has one new local commit, for the CEO to push.
+
+**Asked of the CEO:** nothing.
+
+Resources used: this executive instance (Claude Opus 5.5); one subordinate (Codex `gpt-6.1-sol`, medium; reasons in `briefs/sessions.md`), two runs: backbrief 349,721 input tokens (305,536 cached), 4,560 output; build 1,304,390 input (1,243,520 cached), 14,190 output, as the runtime reported them.

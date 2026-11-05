@@ -177,3 +177,5 @@ For the intent: the capability is published and works empty; know-how reaches it
 2026-11-05: subordinate 4 briefed for capability-002 (`briefs/2026-11-05_capability-002.md`); intake on entry unchanged: 11 listed, 0 published; publisher's index still names 2026-11-05. [~] Backbrief awaited at its tracked run's end (`briefs/sessions.md`), then the executive's check and GO. Responsibility: executive.
 
 2026-11-05: subordinate 4's backbrief received and checked; GO with four adjustments (`briefs/2026-11-05_capability-002.md`). [~] Build running; report awaited at its tracked run's end, then the executive's check and publishing capability-002. Responsibility: executive.
+
+2026-11-05: capability-002 published (BRIEF.md part 6, “capability-002 published”). For the intent: a project that takes the capability can now judge what it already holds, and reach the capability from one line in the CEO's listing. Leg 13 continues. [~] Intake at each instance's entry, now with `published/capability/capability-002/`; on an offer, decide and publish catalogue-002. Responsibility: executive. No subordinate planned. Supersedes “Next: brief one subordinate” above.

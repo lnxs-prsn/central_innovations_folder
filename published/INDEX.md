@@ -12,11 +12,15 @@ Review set 2026-11-05: `review/2026-11-05/` holds the same five records, taken 2
 
 Questions or lessons published for directed_opportunism: none yet.
 
+Current capability, 2026-11-05: edition `capability/capability-002/`, for projects that choose to take it. Start with its `USE.md`: how to draw on know-how and how to offer what your project learns; a project already holding know-how also reads its `EXISTING.md`; `UPDATE.md` says what the edition changes. Its `EDITION.json` lists every file's SHA-256; the manifest's own SHA-256 is f66f1577cdd34b086183467147a2ec28ff1ef2dbed84268043e91a7439a2bdfb. Verify it before relying on the edition. Checked on Linux with Python 3.13.5 and 3.11.15, source and a copy of the edition; Windows and Python 3.9 are not yet run. The entry below for `capability-001` is historical.
+
 The capability, for projects that choose to take it: edition `capability/capability-001/`, published 2026-11-02. Start with its `USE.md`: how to draw on know-how and how to offer what your project learns; `UPDATE.md` says what the edition changes. Its `EDITION.json` lists every file's SHA-256; the manifest's own SHA-256 is 55c3cd1af7729eb8732be38ad29a335137728186fe211218584053fb8837ea3b. Verify it before relying on the edition. Checked on Linux with Python 3.13.5; Windows and Python 3.9 are not yet run.
 
 The catalogue: the know-how block below names the current catalogue edition and its manifest hash; give this `INDEX.md` to the capability's `ask` and `select` as `--catalogue`. catalogue-001 is empty: no project has offered yet, and the curator reads only published parts it is given, which awaits the organization's list of projects.
 
 2026-11-05: the CEO has named the projects whose published parts the curator reads, each at `published/` under its own root. None publishes yet. An offer enters a catalogue the next time this project's executive runs; none is automatic.
+
+Current catalogue: the block below; give this `INDEX.md` to `ask` and `select` as `--catalogue`. Paths here resolve from this file's folder.
 
 <!-- knowhow:v1 -->
 ```json
