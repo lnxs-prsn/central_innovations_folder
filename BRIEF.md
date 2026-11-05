@@ -2,7 +2,7 @@
 
 Established 2026-11-01 from the CEO's brief, `intent.md`, under method edition 2026-11-01, rechecked under editions 2026-11-01b and 2026-11-01c the same day and under 2026-11-02b on 2026-11-02 and under 2026-11-03b on 2026-11-03 and under 2026-11-05 on 2026-11-05 (START_TEXT, “Establishing the executive position”). Each later instance enters through this position with `intent.md`, this brief, `MAP.md` and `friction.md`.
 
-**Area of responsibility** [interp of `intent.md`, Intent and Measures]: the capability by which the CEO's projects, in the folder that holds them on each machine, learn from each other — contribution, recognition, selective use, availability to every project (including unused and new ones), exclusion and decline, and empty recovery, working from a clone for anyone, on Linux or Windows, given an agent and Python [updated 2026-11-01 to the CEO's third re-brief; earlier: “on the Pi and the Windows laptop”, before that “reach at opening and creation”] — with this folder holding the generic capability. Projects reach it through the CEO's arrangement and take it by their own choice; it writes nothing into them and does not look into them: it uses only what they publish [updated 2026-11-02 to the CEO's publication re-brief]. Central publishes what it offers, complete and fixed, and which method edition it applies. Not the projects' own work or their innovations' substance.
+**Area of responsibility** [interp of `intent.md`, Intent and Measures]: the capability by which the CEO's projects, in the folder that holds them on each machine, learn from each other — contribution, recognition, selective use, availability to every project (including unused and new ones), exclusion and decline, and empty recovery, working from a clone for anyone, on Linux or Windows, given an agent and Python [updated 2026-11-01 to the CEO's third re-brief; earlier: “on the Pi and the Windows laptop”, before that “reach at opening and creation”] — with this folder holding the generic capability. Projects reach it through the CEO's arrangement and take it by their own choice; it writes nothing into them and does not look into them: it uses only what they publish [updated 2026-11-02 to the CEO's publication re-brief]. Working boundary from 2026-11-05 [interp of `intent.md` line 62, part 6, “Re-brief, line 62”]: no read of any other project's folder, its `published/` included, until the CEO settles the reading. Central publishes what it offers, complete and fixed, and which method edition it applies. Not the projects' own work or their innovations' substance.
 
 **Decision rights**, quoted from `intent.md`, Boundaries, Freedoms (restructured by the CEO 2026-11-01; the search freedom was removed 2026-11-02; earlier wording preserved in git):
 > You decide what is admitted, merged, or retired, on evidence, logging each decision with its reason, without asking me.
@@ -67,7 +67,7 @@ Measures: the CEO's measures remain in intent.md; none has yet been assessed aga
 Inherited from `intent.md`, Boundaries (restructured 2026-11-01; search freedom and search constraint removed, publication constraints added 2026-11-02; organization constraint added in the CEO's replacing re-brief the same day). Freedoms: as quoted in the Executive position. Constraints:
 
 > Do not write into my other projects; how their agents learn of this capability is my arrangement.
-> Each project writes only in its own folder. What a project offers to others it publishes, complete and fixed; other projects use only what is published, by their own choice, and never read or write the rest of each other’s folders, except in a review by reading that I call.
+> Each project writes only in its own folder. What a project offers to others it publishes, complete and fixed; other projects use only what is published, by their own choice, and never read or write of each other’s folders, except in a review by reading that I call.
 > An organization is everything under one command; a project is a unit within it. The organization’s shared operational state, such as capacity across projects, and the means to pause or stop any project or the whole organization, belong to the level that holds command over the organization: me now, or an AI executive I assign. toolusage provides them outside every project folder; no project writes that state.
 > You take the editions of the method directed_opportunism publishes: one when it does not interfere with your current work; before taking one whose update message says it changes something significant, tell me. Publish which edition of the method you apply, and what a review of your application needs.
 > GitHub holds only the generic project: the capabilities, usable by anyone, containing none of my innovations; I push what goes there.
@@ -78,7 +78,7 @@ Inherited from `intent.md`, Boundaries (restructured 2026-11-01; search freedom 
 CEO's backbrief direction, `intent.md`, Backbrief:
 
 > First, has the situation changed? Say which of the three holds: the brief is valid; some tasks must change but what we’re trying to achieve still holds; or what we’re trying to achieve must change, which is mine to decide (p. 250).
-> Before building, state my intent in your own words, and describe how you plan to achieve it and why. For each need your next step touches, compare 2–3 different solutions, including existing techniques and software and at least one that challenges your own preferred choice, against the measures. If anything you discover later changes what I’d want, stop and tell me before continuing.
+> Before building, state my intent in your own words, and describe how you plan to achieve it and why. For each need your next step touches, compare 2–3 different solutions, including existing techniques and software and at least one that challenges your own preferred choice, against the measures. Say also where my intent or measures seem unrealistic, do not serve the intent, or leave part of it unmeasured (p. 173); telling me is not asking me to decide. If anything you discover later changes what I’d want, stop and tell me before continuing.
 > I read only your backbriefs. Anything you need me to decide must be stated in the backbrief itself, not only referred to in your files.
 
 [2026-11-02: the CEO added the sentence “For each need your next step touches, compare 2–3 different solutions…”, applying from the next backbrief.]
@@ -591,3 +591,32 @@ Need touched, intake from the list (M1, M2, M10): 1. *A saved list, rerun when t
 Next [~]: when any listed project publishes, ingest, decide on its full context, publish catalogue-002. Responsibility: executive; timing: the instance after an offer appears. capability-001's validation failure (friction.md, 2026-11-03) stays for the next capability edition.
 
 Resources used: this executive instance (Claude Opus 5.5); local reads; two ingests (one scratch); no subordinates.
+
+## 2026-11-05 — Re-brief, line 62: has the situation changed?
+
+CEO, 2026-11-05 session [evidence: conversation; `git diff intent.md`]: “this is re-brief”, “I changed the intent.md”. The one change, `intent.md` line 62: “never read or write the rest of each other’s folders” became “never read or write of each other’s folders”. All else is unchanged; quotes in part 5 rechecked (line 62 updated; the Backbrief quote was also stale since the CEO's “Say also” sentence and is updated).
+
+**Some tasks must change; what we are trying to achieve holds** (p.250), on the reading below.
+
+[interp] Reading taken as the working boundary: no project reads another project's folder at all, `published/` included; what is published must be usable without that. Basis: the CEO cut exactly the words that left `published/` open, straight after asking how reading a file in my directory is aligned. Rejected as the working boundary, not ruled out: an edit that tightens wording only, with `published/` still read in place, since the sentence still says “use only what is published”, its “of” is left over, and the method's convention is `published/` at each root. I hold the stricter reading until told, because crossing a boundary is the worse error (edition 2026-11-05, UPDATE). Meaning is the CEO's: `intent.md` line 74, “where the book does not define a word I use, its meaning is mine”.
+
+What the working boundary stops [evidence: my records; nothing read in another folder since the change]:
+- intake from `.knowhow/parts.json`: not rerun on entry;
+- capability and catalogue read by others from `central_innovations_folder/published/`; the listing line's path;
+- reading directed_opportunism's index and editions, including this project's `directed_opportunism/source`, and toolusage's published part. Line 66 still requires taking editions, so the two lines now need a means between them. Edition 2026-11-05 stays applied; what I have read this session stays in this instance only.
+
+Not stopped: `~/.local/share/toolusage-organization/projects.txt`, outside every folder (line 64); my own folder and `capability/`.
+
+**Need: published material reaches other projects with no project reading another's folder and each writing only in its own (M1, M2, M3, M10, line 62).**
+1. *A shared exchange outside every project folder, filled and served by an operational means* [preferred]: as with a package index or mirror. Projects keep publishing in their own `published/`; the means carries fixed copies out; readers read only the exchange. Available while the source sits unopened. Costs: a means that does not yet exist; line 64 names toolusage for shared state and pause or stop, not for this.
+2. *Git as carrier* (existing software): each project's published material in a local bare repository; others clone it. Good integrity and history, no new tool. But a push writes outside the project's own folder, breaking line 62's first sentence, unless those repositories count as its own.
+3. *`published/` read in place* (existing practice; challenges the change): works today, nothing to build. Only if the CEO's meaning is the rejected reading.
+I take 1 if the stricter reading stands. No build until then.
+
+The capability itself needs no exchange [interp of `intent.md` lines 10–11]: a clone outside every project folder, named on that machine by the CEO's listing. So agents need not read a file in my directory. Only know-how (offers, catalogues) and method editions need the means.
+
+Measures [interp]: M1 and M3 can no longer be met by anything Central alone can do. Each needs carriage that the brief does not assign to Central.
+
+**Asked of the CEO:** line 62's meaning (source above). If stricter, who provides the exchange: line 64 does not name it.
+
+Resources used: this executive instance; `git diff`, my own records; no other project's folder; no subordinates.

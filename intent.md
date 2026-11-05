@@ -59,7 +59,7 @@ Constraints:
 
 Do not write into my other projects; how their agents learn of this capability is my arrangement.
 
-Each project writes only in its own folder. What a project offers to others it publishes, complete and fixed; other projects use only what is published, by their own choice, and never read or write the rest of each other’s folders, except in a review by reading that I call.
+Each project writes only in its own folder. What a project offers to others it publishes, complete and fixed; other projects use only what is published, by their own choice, and never read or write of each other’s folders, except in a review by reading that I call.
 
 An organization is everything under one command; a project is a unit within it. The organization’s shared operational state, such as capacity across projects, and the means to pause or stop any project or the whole organization, belong to the level that holds command over the organization: me now, or an AI executive I assign. toolusage provides them outside every project folder; no project writes that state.
 
