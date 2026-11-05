@@ -89,3 +89,11 @@ Outcome of “an edition's own tests fail in a copy of the edition” (2026-11-0
 ## 2026-11-05: a backbrief's plausible route, tested only by running it
 
 [evidence: `briefs/2026-11-05_capability-002.md`, “Supervisor's check and GO”] The draft had a clone user pack an edition and publish an empty catalogue; my brief's measure, “only a clone and an empty catalogue”, invited it. Reading alone would have passed it. Running a clone showed neither step was needed, and exposed the raw `{"error":"'catalogue'"}`, which 33 tests had not. Who caught it: the executive. Gap: knowledge (plans and outcomes, p.45). Likely cause [hyp]: my measure named a state in place of what that person needs, and no test took an index with no catalogue. Adjustment: in a backbrief check, exercise any route the draft tells a user to follow, briefly, on a temporary copy. Whether agents follow `EXISTING.md` as written stays unknown until a first offer; responsibility: executive, at that offer's admission.
+
+## 2026-11-05: what the first taker found in a guide I had checked
+
+[evidence: `book_podcast_fiction_generator/published/INDEX.md`, questions 2 and 4; `briefs/2026-11-05_capability-002.md`] A project held a real refinement unoffered because `EXISTING.md`'s “leave unoffered” reads as covering it. My adjustment 1 pressed the copy case hard, and my check read the guide against copies only. The standard says “below kit/” while the check requires the prefix, unnoticed through three editions because every test supplies a valid path. Who caught it: the first taker. Gap: knowledge (plans and outcomes, p.45). Likely cause [hyp]: nobody had filled in a real record; invented cases confirm what their author already had in mind. Adjustment: answers published; capability-003 next. Also observed: the taker did not guess silently on question 2, and held the pieces back. Whether others do is unknown.
+
+## 2026-11-05: an expectation about a list, before seeing the list
+
+[evidence: BRIEF.md part 6, “The CEO's answer”; `projects.txt`, revision 3] I said Toolusage's list would replace the CEO's. It names three projects, none of the 11. Following it would have dropped the only project offering. Who caught it: the executive, at intake. Gap: knowledge. Adjustment: read the union; said so to the CEO. Membership of the organization's list stays the command level's.

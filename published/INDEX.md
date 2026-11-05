@@ -20,10 +20,14 @@ The catalogue: the know-how block below names the current catalogue edition and 
 
 2026-11-05: the CEO has named the projects whose published parts the curator reads, each at `published/` under its own root. None publishes yet. An offer enters a catalogue the next time this project's executive runs; none is automatic.
 
+2026-11-05: `catalogue-002` holds one admitted contribution, `root-cause-laddering`. catalogue-001, described above, is historical.
+
+Answers to questions for the capability: [answers/2026-11-05.md](answers/2026-11-05.md). Before asking, check there. A project publishes a question under “Questions for the capability” in its own `published/INDEX.md`; this project's executive reads those when it next runs. Only projects the curator has been given are read.
+
 Current catalogue: the block below; give this `INDEX.md` to `ask` and `select` as `--catalogue`. Paths here resolve from this file's folder.
 
 <!-- knowhow:v1 -->
 ```json
-{"catalogue":{"path":"knowhow/catalogues/catalogue-001/EDITION.json","sha256":"1cf2b7e73471b9a767c51becf34d096a94a97006c68a5f0956d5c3c41053fa5e"},"format":1,"offers":[],"project_id":"9be9f437-26de-4aac-8784-6eff57fca115"}
+{"catalogue":{"path":"knowhow/catalogues/catalogue-002/EDITION.json","sha256":"4dc59eafcff3c5434218219ccda142cd8733299d0bb8653b9cdb64a2c2099d35"},"format":1,"offers":[],"project_id":"9be9f437-26de-4aac-8784-6eff57fca115"}
 ```
 <!-- /knowhow:v1 -->

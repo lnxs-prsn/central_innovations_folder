@@ -659,3 +659,32 @@ Needs and alternatives compared: the subordinate's backbrief, against the measur
 **Asked of the CEO:** nothing.
 
 Resources used: this executive instance (Claude Opus 5.5); one subordinate (Codex `gpt-6.1-sol`, medium; reasons in `briefs/sessions.md`), two runs: backbrief 349,721 input tokens (305,536 cached), 4,560 output; build 1,304,390 input (1,243,520 cached), 14,190 output, as the runtime reported them.
+
+## 2026-11-05 — First offers and first questions: has the situation changed?
+
+CEO, 2026-11-05 session [evidence: conversation]: “continue”, after giving projects the prompt.
+
+**The brief is valid** (p.250). Leg 13's waiting has ended for one project.
+
+[evidence: intake with `capability-002`, this session] `book_podcast_fiction_generator` published two offers and five questions. `algorith_curriculum_brainstorming` publishes for directed_opportunism only: no offers, no question for the capability, and its questions are not mine to answer. The other nine listed have no published part.
+
+**Decisions, on “You decide what is admitted, merged, or retired, on evidence, logging each decision with its reason, without asking me.”**
+- `root-cause-laddering` (`c12e9a99…`) **admitted**; `catalogue-002` published, manifest `4dc59eaf…9d35`. Reason in the curator's log, shown to takers on selection: real, dated uses, its own failure and correction kept; its kit states more than its record supports, which the reason tells takers. Limit [evidence: boundary]: I read its record, not its locators; verification is the project's own.
+- `situation-personification` (`7c8dd8e8…`) **not admitted**; pending for a replacement. Its `PATTERN.md` withdraws the Q1 claim as unfounded; its kit, the part a project copies in, still asserts it. Context wins over reach.
+Rejected: admitting both with a note (a false claim would travel in the deployable file); holding both over the laddering kit's wording (its record states the limits, and takers read them on selection).
+
+**The five questions answered** in `published/answers/2026-11-05.md`. Two exposed gaps of mine: `EXISTING.md`'s “leave unoffered” read as covering refinements, and the standard's “below kit/” contradicts the check.
+
+**A correction.** I said of Toolusage's list (2026-11-05): “If the CEO writes Toolusage's list … it replaces this one.” It now exists [evidence: `~/.local/share/toolusage-organization/projects.txt`, revision 3] and names three projects: Central, directed_opportunism, toolusage; none of the 11. Replacing would drop the only project offering. [interp] I read the union: `.knowhow/parts.json` now adds directed_opportunism and toolusage. Neither advertises offers.
+
+Need: when to make `capability-003` from these gaps (M10, M6, main effort).
+1. *At the next entry, with whatever other projects ask meanwhile* [preferred]: the CEO is giving the prompt out now, and answers are already published, so waiting costs little and one edition covers more.
+2. *Now*: guides are right sooner, but the run is about 1.6M input tokens by the last one, and further questions would need another.
+3. *Only when a project is misled despite the answers* (challenges it): cheapest, but it leaves known contradictions in the published guide, which the standard's measure M6 depends on.
+I take 1.
+
+**For the CEO's awareness:** the prompt's route worked at first use. The answers wait for that project's agent, and the CEO's next visit to it, to be read: nothing tells a project that an answer exists.
+
+**Asked of the CEO:** nothing.
+
+Resources used: this executive instance (Claude Opus 5.5); local reads; two ingests; no subordinates.
