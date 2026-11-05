@@ -2,7 +2,7 @@
 
 Established 2026-11-01 from the CEO's brief, `intent.md`, under method edition 2026-11-01, rechecked under editions 2026-11-01b and 2026-11-01c the same day and under 2026-11-02b on 2026-11-02 and under 2026-11-03b on 2026-11-03 and under 2026-11-05 on 2026-11-05 (START_TEXT, “Establishing the executive position”). Each later instance enters through this position with `intent.md`, this brief, `MAP.md` and `friction.md`.
 
-**Area of responsibility** [interp of `intent.md`, Intent and Measures]: the capability by which the CEO's projects, in the folder that holds them on each machine, learn from each other — contribution, recognition, selective use, availability to every project (including unused and new ones), exclusion and decline, and empty recovery, working from a clone for anyone, on Linux or Windows, given an agent and Python [updated 2026-11-01 to the CEO's third re-brief; earlier: “on the Pi and the Windows laptop”, before that “reach at opening and creation”] — with this folder holding the generic capability. Projects reach it through the CEO's arrangement and take it by their own choice; it writes nothing into them and does not look into them: it uses only what they publish [updated 2026-11-02 to the CEO's publication re-brief]. Working boundary from 2026-11-05 [interp of `intent.md` line 62, part 6, “Re-brief, line 62”]: no read of any other project's folder, its `published/` included, until the CEO settles the reading. Central publishes what it offers, complete and fixed, and which method edition it applies. Not the projects' own work or their innovations' substance.
+**Area of responsibility** [interp of `intent.md`, Intent and Measures]: the capability by which the CEO's projects, in the folder that holds them on each machine, learn from each other — contribution, recognition, selective use, availability to every project (including unused and new ones), exclusion and decline, and empty recovery, working from a clone for anyone, on Linux or Windows, given an agent and Python [updated 2026-11-01 to the CEO's third re-brief; earlier: “on the Pi and the Windows laptop”, before that “reach at opening and creation”] — with this folder holding the generic capability. Projects reach it through the CEO's arrangement and take it by their own choice; it writes nothing into them and does not look into them: it uses only what they publish [updated 2026-11-02 to the CEO's publication re-brief]. Central publishes what it offers, complete and fixed, and which method edition it applies. Not the projects' own work or their innovations' substance.
 
 **Decision rights**, quoted from `intent.md`, Boundaries, Freedoms (restructured by the CEO 2026-11-01; the search freedom was removed 2026-11-02; earlier wording preserved in git):
 > You decide what is admitted, merged, or retired, on evidence, logging each decision with its reason, without asking me.
@@ -67,7 +67,7 @@ Measures: the CEO's measures remain in intent.md; none has yet been assessed aga
 Inherited from `intent.md`, Boundaries (restructured 2026-11-01; search freedom and search constraint removed, publication constraints added 2026-11-02; organization constraint added in the CEO's replacing re-brief the same day). Freedoms: as quoted in the Executive position. Constraints:
 
 > Do not write into my other projects; how their agents learn of this capability is my arrangement.
-> Each project writes only in its own folder. What a project offers to others it publishes, complete and fixed; other projects use only what is published, by their own choice, and never read or write of each other’s folders, except in a review by reading that I call.
+> Each project writes only in its own folder. What a project offers to others it publishes, complete and fixed; other projects use only what is published, by their own choice, and never read or write the rest of each other’s folders, except in a review by reading that I call.
 > An organization is everything under one command; a project is a unit within it. The organization’s shared operational state, such as capacity across projects, and the means to pause or stop any project or the whole organization, belong to the level that holds command over the organization: me now, or an AI executive I assign. toolusage provides them outside every project folder; no project writes that state.
 > You take the editions of the method directed_opportunism publishes: one when it does not interfere with your current work; before taking one whose update message says it changes something significant, tell me. Publish which edition of the method you apply, and what a review of your application needs.
 > GitHub holds only the generic project: the capabilities, usable by anyone, containing none of my innovations; I push what goes there.
@@ -620,3 +620,21 @@ Measures [interp]: M1 and M3 can no longer be met by anything Central alone can 
 **Asked of the CEO:** line 62's meaning (source above). If stricter, who provides the exchange: line 64 does not name it.
 
 Resources used: this executive instance; `git diff`, my own records; no other project's folder; no subordinates.
+
+## 2026-11-05 — Second re-brief, line 62 restored: has the situation changed?
+
+CEO, 2026-11-05 session [evidence: conversation; `git diff intent.md`]: “this is re-brief”, “I changed intent.md”. The one change: line 62 again reads “never read or write the rest of each other’s folders”. `intent.md` is byte-for-byte as before the first change. Quotes in part 5 compared by script; the position's working boundary removed.
+
+**The brief is valid** (p.250). [interp] This answers both questions of the previous section: another project's `published/` is read in place; no exchange is needed for this boundary. My hold is lifted. Options 1 and 2 of that section fall away; a shared exchange remains Toolusage's means if it ever chooses to build one.
+
+Reruns the hold stopped [evidence: this session]: publisher's index still names 2026-11-05, as applied. Intake from `.knowhow/parts.json`: 0 offers, 11 parts missing, exit 1 as expected. The organization's list is still absent.
+
+**Need: a project that takes the capability can reach it and can judge what it already holds (M1, M3, M10; `intent.md` lines 11–12).** The gaps are mine, found this session: `USE.md` does not say what a project considers about know-how it already holds; the listing line skips `published/INDEX.md` and assumes one machine's path; the validation failure (friction.md, 2026-11-03).
+1. *A new capability edition whose guide covers existing know-how and gives a line through the index, machine path left to the listing* [preferred]: no new mechanism; the project's executive still chooses.
+2. *A command listing a project's own unoffered contributions*: less for agents to work out, but more code to carry and it nudges offering that should be a choice.
+3. *Leave the edition as is* (challenges changing it): nothing spent. But what projects already hold stays unconsidered unless someone sends them, which is what the CEO questioned today.
+Preference held as provisional: I leave means to the subordinate, whose backbrief compares them. Next: one subordinate, brief in `briefs/`; I check its backbrief, then capability-002. Responsibility: executive; timing: next working step.
+
+**Asked of the CEO:** nothing.
+
+Resources used: this executive instance; local reads; directed_opportunism's and toolusage's published indexes; one ingest; no subordinates.
