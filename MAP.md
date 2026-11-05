@@ -165,3 +165,5 @@ For the intent: the capability is published and works empty; know-how reaches it
 2026-11-03: 2026-11-03b taken (BRIEF.md part 6, “Taken, 2026-11-03”). Leg 13 continues.
 
 2026-11-03 (BRIEF.md part 6, “Method edition 2026-11-03c and the published review”): brief valid; Leg 13 continues. Toolusage publishes, but no list of projects yet. Edition 2026-11-03c (significant) told to the CEO; taken in the next instance unless the CEO says otherwise. Position's commit line updated to the CEO's 2026-11-02 direction. Offers can also arrive if a published part is given to the curator directly.
+
+2026-11-05 (BRIEF.md part 6, “The CEO's project list and method edition 2026-11-05”): brief valid on the reading that the CEO names projects to reach. None of the 11 has a published part; nothing ingested. Toolusage now fixes the list's place; the file is absent. Edition 2026-11-05 (significant) told to the CEO; taken directly in the next instance unless the CEO says otherwise. [~] Waiting on the CEO: the reading, a first project to offer, the list's membership. Responsibility: executive; timing: the CEO's answer.

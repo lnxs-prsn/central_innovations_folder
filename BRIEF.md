@@ -540,3 +540,33 @@ Unless you say otherwise, I take 2026-11-03c in the next instance: re-point `dir
 **Decisions I need from you:** none.
 
 Resources used: this executive instance (Claude); local reads of my records, directed_opportunism's `published/` (index, update message, manifest and 17 file hashes, START_TEXT diff against 2026-11-03b, the review), and toolusage's `published/INDEX.md`; directory names only elsewhere; no subordinates.
+
+## 2026-11-05 — Has the situation changed? The CEO's project list and method edition 2026-11-05
+
+CEO, 2026-11-05 session [evidence: conversation]: “I have provided project_list.txt”. The file, whole in its words [evidence: `project_list.txt`, left untracked as the CEO placed it]: “all these projects have innovations/ folder”, then a listing of `~/Desktop/python/github_clones_working_on` (book_podcast_fiction_generator, dev_trainer_tool_full_project, dev_trainer_tool_studio_specs, experimental_advanced_dev_learning_loop, experimental_ai_handoff, experimental_vcode_curriculum_polya_method, experimental_vscode_curriculum_sql, heurestic_loop_research, innovations, learning_agentic_loops), “and”, “/Desktop/python/learning/curriculums/algorith_curriculum_brainstorming”.
+
+**The brief is valid** (p.250), on the reading below. If the CEO meant the other reading, a constraint must change, and that is the CEO's to decide.
+
+[interp] Reading taken: the CEO names the projects Central's work should reach, answering “If you name a project, I ingest it” (2026-11-03). Rejected: permission to read those `innovations/` folders. Source of the boundary: `intent.md`, Constraints, “other projects use only what is published … and never read or write the rest of each other’s folders, except in a review by reading that I call”; the CEO, 2026-11-02, “Those copies were taken from contributions their projects never offered”. The file calls no review and does not mention reading.
+
+[evidence: this session; directory names, file counts, and existence of `published/INDEX.md` only; no contribution's content read] None of the 11 has a `published/INDEX.md`, so there is nothing to ingest; ingest not run. `innovations/` directly under the project: book_podcast_fiction_generator (32 files), dev_trainer_tool_full_project (28), heurestic_loop_research (35), learning_agentic_loops (34). The project `innovations` is itself that folder. algorith_curriculum_brainstorming has one only at `brainstorm/codex/innovations`. None anywhere: dev_trainer_tool_studio_specs and the four `experimental_*`. Outside the list, with such a folder: `learning/curriculums/python_curriculum`, `python_curriculum2`; two project copies under `new_projects/job_getting_projects/project_assessment/projects/`. Last audit, before publication (`briefs/2026-11-02_access_report.md`): 20 distinct contributions, none with a valid context record.
+
+[evidence: toolusage `published/2026-11-05b/UPDATE.md`] The organization's list now has a fixed place, `~/.local/share/toolusage-organization/projects.txt`, each line a project name, a TAB and the absolute path of its published part, written by the CEO. The file is absent. So `project_list.txt` is not yet that list: it names project roots, and no published parts exist to name.
+
+**Need: what the listed projects already know becomes available with its context (main effort, M1, M3, M6, M10).**
+1. *Each project offers its own, starting with one* [preferred]. The CEO points one project's agent at the capability; the agent writes context records and runs `offer`; I ingest, decide, publish catalogue-002. Same model as a package index: publishers publish, an index curates, consumers pin. Context is completed where it is known; all boundaries hold. Cost: the CEO opens each project; reach grows slowly; effort per contribution unknown until the first.
+2. *Central gathers from `innovations/` and publishes on the projects' behalf, the prose as context* (challenges my choice). Reach at once for one pass by me, no project opened. But it reverses the CEO's 2026-11-02 decision, puts context from outside the project behind it, and context wins over reach. Only the CEO can lift that constraint.
+3. *Keep copying `innovations/`* (existing practice). No cost today; the CEO's Context already rejects it.
+I take 1, starting with learning_agentic_loops: most recently changed of the 11 [evidence: directory date 2026-10-19], so its context is likeliest still known [hyp].
+
+**Need: the method edition (2026-11-05 is current, 2026-11-03b applied).** Its update message says “Significant change: yes.” I tell the CEO before taking. In its words: “A claim that a decision belongs to a superior carries its source”; “Relate the proposed act to the position when deciding”; “A project publishing requirements explains what each serves.”
+1. *Take 2026-11-05 directly in the next instance* [preferred]: its message says “no intermediate edition needs to be taken”; one taking, one review set.
+2. *Take 2026-11-03c now, as said on 2026-11-03, then 2026-11-05*: keeps the letter of what I said; two takings for one result (M10).
+3. *Stay on 2026-11-03b until offers arrive* (challenges taking at all): no cost now; the first admissions would run under a method two editions behind.
+I take 1. This changes what I said on 2026-11-03, because 2026-11-05 appeared since. Not taken this session.
+
+Where the measures do not fit [interp]: M1 says “whether or not the project it came from is being worked on”. What a project holds before it offers needs that project opened once. The main effort settles it for context; M1 holds only from the moment of offering.
+
+**Decisions asked of the CEO:** (1) confirm the reading: projects offer, Central does not read `innovations/` (option 1), or call for option 2; (2) start one project's offering, with `learning_agentic_loops` unless the CEO names another; (3) what the list should hold: the five projects with no `innovations/`, and python_curriculum and python_curriculum2.
+
+Resources used: this executive instance (Claude Opus 5.5); local reads of my records, edition 2026-11-03b, directed_opportunism's and toolusage's published parts; names and counts elsewhere; no subordinates; no ingest; no curator state changed.
