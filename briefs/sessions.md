@@ -37,3 +37,7 @@ Codex `exec` run started by the executive as a tracked background process with i
 Codex `exec` run started by the executive as a tracked background process with input closed; a run's ending is the arrival of its backbrief or report. Model `gpt-6.1-sol`, effort `medium`, requested by the executive: the same runtime built this repository's three earlier tasks with reports that held under my checks (evidence of competence in this context); the guide's wording is non-routine judgment, which the backbrief's draft text lets me check before building. Toolusage's receipt was not taken for this run: its `codex-app-server` adapter is pinned to Codex 0.165.0 (0.166.0 is installed) and its threads cannot resume, while this brief's loop resumes the run after GO. Codex is the available means, not a requirement.
 
 - 01a1ac3e-6960-79e3-94c6-5eae17d4c6e6: capability-002 (subordinate 4); brief 2026-11-05_capability-002.md; backbrief received 2026-11-05 at run end; GO with adjustments recorded in the brief; build run resumed 2026-11-05; report received 2026-11-05 at run end; task complete, run ended.
+
+## 2026-11-06 — capability-003
+
+Codex `exec` run started by the executive as a tracked background process with input closed; one run, no backbrief: the work is specified by answers already published, and the executive checks its result before publishing. Model `gpt-6.1-sol`, effort `medium`, as this task's competence evidence is at that setting; the saving comes from a self-contained brief with no doctrine reading (M10). Codex is the available means, not a requirement.
