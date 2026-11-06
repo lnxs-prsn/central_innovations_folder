@@ -12,7 +12,7 @@ Limits on them, `intent.md`, Backbrief: “Before building, state my intent in y
 
 **Superior**: the CEO, by assignment (`intent.md`; the CEO holds command of the organization now). Unclear intent goes to the CEO. Method questions go through the CEO and are published for directed_opportunism in this project's published part (`published/INDEX.md`; edition 2026-11-02b `ENTRY.md`) [updated 2026-11-02 on taking 2026-11-02b; earlier: sent to directed_opportunism under the delivered `ENTRY.md`]. Method edition applied: 2026-11-05 (`directed_opportunism/LOCAL.md`) [updated 2026-11-05; earlier 2026-11-03b].
 
-**Subordinates**: none live. The context subordinate (`briefs/2026-10-25_context.md`) and the entry subordinate (`briefs/2026-10-25_entry.md`) completed their investigations; their reports were received at their runs' ends (`briefs/sessions.md`). Four build subordinates completed their work (standard, access, publication, capability-002; their briefs and reports in `briefs/`); none is planned until offers can arrive (MAP.md, Leg 13) [updated 2026-11-05; earlier 2026-11-03: earlier: “Build subordinates are briefed after the CEO answers the backbrief”]. Each instance is a run with closed input, started by this executive and tracked to its end. I choose its model for the work's competence and record why; a routine brief carries the method meanings it needs, so its subordinate reads only that brief (edition 2026-11-03b, ENTRY; START_TEXT, management) [updated 2026-11-03; earlier: “on whichever agent is available”]. No provider is required (`intent.md`: “Nothing may depend on any one agent, model, or provider”). Identifiers in `briefs/sessions.md` are historical.
+**Subordinates**: none live. The context subordinate (`briefs/2026-10-25_context.md`) and the entry subordinate (`briefs/2026-10-25_entry.md`) completed their investigations; their reports were received at their runs' ends (`briefs/sessions.md`). Five build subordinates completed their work (standard, access, publication, capability-002, capability-003; their briefs and reports in `briefs/`); none is planned until offers can arrive (MAP.md, Leg 13) [updated 2026-11-05; earlier 2026-11-03: earlier: “Build subordinates are briefed after the CEO answers the backbrief”]. Each instance is a run with closed input, started by this executive and tracked to its end. I choose its model for the work's competence and record why; a routine brief carries the method meanings it needs, so its subordinate reads only that brief (edition 2026-11-03b, ENTRY; START_TEXT, management) [updated 2026-11-03; earlier: “on whichever agent is available”]. No provider is required (`intent.md`: “Nothing may depend on any one agent, model, or provider”). Identifiers in `briefs/sessions.md` are historical.
 
 ---
 
@@ -688,3 +688,13 @@ I take 1.
 **Asked of the CEO:** nothing.
 
 Resources used: this executive instance (Claude Opus 5.5); local reads; two ingests; no subordinates.
+
+## 2026-11-06 — capability-003 published: has the situation changed?
+
+CEO, 2026-11-06 session [evidence: conversation]: “continue”. **The brief is valid** (p.250). Intake on entry: nothing new (13 parts read, 2 offers already held, 9 missing; no replacement, no new question).
+
+`capability-003` is published at `published/capability/capability-003/`, manifest `229794fb…9df3`, carrying the answers of 2026-11-05 into the guides and the standard's text. Formats, commands and what the check accepts are unchanged. [evidence: executive's own check] External hash, 20 files, none unlisted, bytes equal to source; diff read against the answers; from a copy of the stage on Python 3.13.5 and 3.11.15: tests OK with the one intended skip, render check passes; from source on 3.13.5: OK.
+
+Need touched, how to assign this edition (M10): 1. *Routine brief, self-contained, one run, no backbrief* [taken]: the answers already specified the content. 2. *As for capability-002: doctrine read, backbrief, GO, build* (existing practice): the check before building caught real errors then, but there was little left here to judge. 3. *Write it myself* (challenges both): least reading, but it takes over subordinate work (START_TEXT, pp.61, 162). Effect: 530,629 input tokens (493,440 cached), 5,559 output, against 1,654,111 and 18,750 for capability-002; the work differs, so this is one comparison, not a measured saving.
+
+Asked of the CEO: nothing. Push `capability/` when wanted: two local commits. Resources used: this executive instance (Claude Opus 5.5); one subordinate run (Codex `gpt-6.1-sol`, medium).

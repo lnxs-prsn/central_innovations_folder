@@ -189,3 +189,5 @@ The first project offered and asked. One contribution is admitted and `catalogue
 For the intent: what one project learned is now available to all, whether or not it is being worked on. The check of a contribution's kit against its record is where context held.
 
 [~] At the next entry: intake (now 13 parts); read listed indexes for questions; decide any offer, including a replacement for `situation-personification`. Then brief one subordinate for capability-003: `EXISTING.md` on refinements; the standard's `kit/` wording; `.knowhow/` preservation; `-I`; the question route in `USE.md`; whatever else projects have asked. Responsibility: executive. Supersedes “No subordinate planned”.
+
+2026-11-06: capability-003 published (BRIEF.md part 6). For the intent: the next project need not ask what the first had to. [~] At each entry: intake with `published/capability/capability-003/`; read listed indexes for questions; decide any offer, including a replacement for `situation-personification`; publish answers and catalogues. Responsibility: executive. No subordinate planned. Supersedes “Then brief one subordinate for capability-003”.
