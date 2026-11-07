@@ -43,3 +43,7 @@ Codex `exec` run started by the executive as a tracked background process with i
 Codex `exec` run started by the executive as a tracked background process with input closed; one run, no backbrief: the work is specified by answers already published, and the executive checks its result before publishing. Model `gpt-6.1-sol`, effort `medium`, as this task's competence evidence is at that setting; the saving comes from a self-contained brief with no doctrine reading (M10). Codex is the available means, not a requirement.
 
 - 01a1af61-a4eb-70b0-a430-edfe2844e122: capability-003 (subordinate 5); brief 2026-11-06_capability-003.md; report received 2026-11-06 at run end; task complete, run ended.
+
+## 2026-11-07 — independent read
+
+Codex `exec` run started by the executive as a tracked background process with input closed. Model `gpt-6.1-sol`, effort `medium`: a different provider's model from the deciding role's, for independence as far as available; reading and judging two short bundles needs no more. Its brief withholds the curator's reasons.
