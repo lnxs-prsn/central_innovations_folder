@@ -707,7 +707,7 @@ CEO, 2026-11-07 session [evidence: conversation]: “the admission bar is very i
 
 [interp] Largely right. The check proves presence; the project verifies itself; admission is the one reading from outside the project, and what it passes reaches every project. Rejected: that admission establishes truth; I read published material only, so the bar can test coherence, not truth, and the taker's judgment still carries fit.
 
-Comparing the decisions against that, I found mine inconsistent. I held one contribution because “the kit is the part a project copies in”, and admitted another whose kit also claims more than its record, on a warning in a reason the copied kit does not carry. Decision, on “You decide what is admitted, merged, or retired”: `root-cause-laddering` retired; `catalogue-003` published, empty; bar published at `published/admission/2026-11-07.md`.
+Comparing the decisions against that, I found mine inconsistent. I held one contribution because “the kit is the part a project copies in”, and admitted another whose kit also claims more than its record, on a warning in a reason the copied kit does not carry. Decision, on “You decide what is admitted, merged, or retired”: `root-cause-laddering` retired; `catalogue-003` published, offering nothing (the retired bytes stay in it as history, as `OWNER.md` says); bar published at `published/admission/2026-11-07.md`.
 
 Need: an admission bar that holds across instances and providers (main effort, M6, M10; “Nothing may depend on any one agent, model, or provider”).
 1. *A short published bar for this curator, with the cases behind it* [taken]: takes effect today at no subordinate cost; offering projects see it before preparing.
@@ -717,6 +717,6 @@ Need: an admission bar that holds across instances and providers (main effort, M
 
 Unknown: whether one reader applies it reliably. [hyp] An independent reader of each offer would catch what the deciding role misses; not assigned yet, because no offer is waiting. Decide at the next offer.
 
-**Cost, stated plainly:** the catalogue is empty again, and no project can draw on anything until a kit is corrected. The main effort settles that.
+**Cost, stated plainly:** the catalogue offers nothing again, and no project can draw on anything until a kit is corrected. The main effort settles that.
 
 **Asked of the CEO:** nothing. Resources used: this executive instance; no subordinates.
