@@ -24,9 +24,9 @@ The catalogue: the know-how block below names the current catalogue edition and 
 
 2026-11-05: `catalogue-002` holds one admitted contribution, `root-cause-laddering`. catalogue-001, described above, is historical.
 
-Answers to questions for the capability: [answers/2026-11-05.md](answers/2026-11-05.md). Before asking, check there. A project publishes a question under “Questions for the capability” in its own `published/INDEX.md`; this project's executive reads those when it next runs. Only projects the curator has been given are read.
+Answers to questions for the capability: [answers/2026-11-05.md](answers/2026-11-05.md), corrected by [answers/2026-11-07.md](answers/2026-11-07.md), which also says what the two held offers need. Before asking, check there. A project publishes a question under “Questions for the capability” in its own `published/INDEX.md`; this project's executive reads those when it next runs. Only projects the curator has been given are read.
 
-2026-11-07: [what this curator admits](admission/2026-11-07.md). Under it `root-cause-laddering` is retired: `catalogue-003` is the current catalogue; it offers nothing, and keeps the retired contribution's bytes and reason as history; the entry for catalogue-002 above is historical. A replacement with a kit that agrees with its record gets a fresh decision, as does one for `situation-personification`.
+2026-11-07: what this curator admits: [admission/2026-11-07b.md](admission/2026-11-07b.md), which replaces [2026-11-07](admission/2026-11-07.md). Under it `root-cause-laddering` is retired: `catalogue-003` is the current catalogue; it offers nothing, and keeps the retired contribution's bytes and reason as history; the entry for catalogue-002 above is historical. A replacement with a kit that agrees with its record gets a fresh decision, as does one for `situation-personification`.
 
 Current catalogue: the block below; give this `INDEX.md` to `ask` and `select` as `--catalogue`. Paths here resolve from this file's folder.
 

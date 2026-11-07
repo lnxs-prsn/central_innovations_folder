@@ -720,3 +720,26 @@ Unknown: whether one reader applies it reliably. [hyp] An independent reader of 
 **Cost, stated plainly:** the catalogue offers nothing again, and no project can draw on anything until a kit is corrected. The main effort settles that.
 
 **Asked of the CEO:** nothing. Resources used: this executive instance; no subordinates.
+
+## 2026-11-07 — An independent read: has the situation changed?
+
+CEO, 2026-11-07 session [evidence: conversation]: “if so how did this happen”, of my “I'll decide at the next offer whether to assign an independent reader.” **The brief is valid** (p.250).
+
+[interp, my own account] Admission is where the main effort is protected; the book gives it resourcing priority and says other things wait when problems arise there (pp.115, 122). I deferred it anyway, without reason. And “as this mistake showed” was false: I saw the kit's overclaim and admitted anyway. That was judgment, not a missed reading.
+
+Assigned at once: `briefs/2026-11-07_independent_read.md`; report in `briefs/2026-11-07_independent_read_report.md`. It withheld my reasons. [evidence: the run's command list] It read only what was named.
+
+**Compared.** Same outcome on both: not admissible as they stand, test 4. Differences:
+- *It found what I had not.* On situation-personification: the missing “not the only review” limit, the uncompared “faster and sharper”, and the babysitter rule's unstated condition. On root-cause-laddering: “highest reachable” is not the causal layer; “Yes → the right rung” is a prediction. Both offers rest on one case, the same component retired; I missed that. So my published “Everything else read well” was wrong; corrected in `published/answers/2026-11-07.md`.
+- *It says hold where I retired.* Same effect: an admitted item can only leave by retirement.
+- *So a second reader does add something*, beyond what I said on the same day, when I doubted it would have prevented the error. One case.
+
+**Decisions.** The bar is replaced by `published/admission/2026-11-07b.md`: which unit each test applies to; application is not effectiveness; shared evidence is not corroboration; a kit says to check dependents before removing. Comparative benefit was not adopted as a test: no offer yet shows how to judge it.
+
+Need: how to read offers from now on (main effort, M10).
+1. *An independent reader before every admission decision* [taken]: this run was 156,598 input tokens (143,360 cached), 5,356 output.
+2. *Only on doubtful offers* (saves cost): but doubt is the deciding role's own, which is what failed.
+3. *One reader and the bar* (existing practice; challenges the cost): cheapest, and it is what missed these.
+Limit: the reader applied tests I wrote, so its agreement does not validate them.
+
+The catalogue is unchanged: `catalogue-003` offers nothing. **Asked of the CEO:** nothing. Resources used: this executive instance; one subordinate run (Codex `gpt-6.1-sol`, medium).
