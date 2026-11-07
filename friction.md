@@ -97,3 +97,7 @@ Outcome of “an edition's own tests fail in a copy of the edition” (2026-11-0
 ## 2026-11-05: an expectation about a list, before seeing the list
 
 [evidence: BRIEF.md part 6, “The CEO's answer”; `projects.txt`, revision 3] I said Toolusage's list would replace the CEO's. It names three projects, none of the 11. Following it would have dropped the only project offering. Who caught it: the executive, at intake. Gap: knowledge. Adjustment: read the union; said so to the CEO. Membership of the organization's list stays the command level's.
+
+## 2026-11-07: two decisions, one reason, opposite outcomes
+
+[evidence: published/answers/2026-11-05.md; curator log] I held one contribution because its kit outran its record, and admitted another with the same fault on a warning that a copied kit does not carry. The same session I told the CEO the missing bar “matters little today”. Who caught it: the CEO's question prompted the comparison; the executive found the inconsistency. Gap: alignment (plans and actions, p.45): the main effort said context wins, and my action preferred reach. Likely cause [hyp]: wanting a first admission, once the catalogue had waited so long; I treated the two kits' faults as different in kind. Adjustment: bar published; admission withdrawn. Outcome shown at the next decision.

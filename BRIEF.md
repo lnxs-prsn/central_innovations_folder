@@ -698,3 +698,25 @@ CEO, 2026-11-06 session [evidence: conversation]: “continue”. **The brief is
 Need touched, how to assign this edition (M10): 1. *Routine brief, self-contained, one run, no backbrief* [taken]: the answers already specified the content. 2. *As for capability-002: doctrine read, backbrief, GO, build* (existing practice): the check before building caught real errors then, but there was little left here to judge. 3. *Write it myself* (challenges both): least reading, but it takes over subordinate work (START_TEXT, pp.61, 162). Effect: 530,629 input tokens (493,440 cached), 5,559 output, against 1,654,111 and 18,750 for capability-002; the work differs, so this is one comparison, not a measured saving.
 
 Asked of the CEO: nothing. Push `capability/` when wanted: two local commits. Resources used: this executive instance (Claude Opus 5.5); one subordinate run (Codex `gpt-6.1-sol`, medium).
+
+## 2026-11-07 — The admission bar: has the situation changed?
+
+CEO, 2026-11-07 session [evidence: conversation]: “the admission bar is very important as our capability is build to lean strongly on admission bar or am I wrong ?”
+
+**The brief is valid** (p.250); a task changes: the bar is written now, not at a later edition. This supersedes the timing in MAP.md, 2026-11-07, and my reply that it “matters little today”.
+
+[interp] Largely right. The check proves presence; the project verifies itself; admission is the one reading from outside the project, and what it passes reaches every project. Rejected: that admission establishes truth; I read published material only, so the bar can test coherence, not truth, and the taker's judgment still carries fit.
+
+Comparing the decisions against that, I found mine inconsistent. I held one contribution because “the kit is the part a project copies in”, and admitted another whose kit also claims more than its record, on a warning in a reason the copied kit does not carry. Decision, on “You decide what is admitted, merged, or retired”: `root-cause-laddering` retired; `catalogue-003` published, empty; bar published at `published/admission/2026-11-07.md`.
+
+Need: an admission bar that holds across instances and providers (main effort, M6, M10; “Nothing may depend on any one agent, model, or provider”).
+1. *A short published bar for this curator, with the cases behind it* [taken]: takes effect today at no subordinate cost; offering projects see it before preparing.
+2. *A threshold or score, built into the capability* (existing practice in package indexes and review checklists): consistent and cheap to apply. But it would be a reading optimized in place of the outcome (p.158), and most of the tests are judgment.
+3. *Case-by-case judgment with reasons* (existing practice here; challenges writing it): nothing to maintain. But that is what produced the inconsistency, and a later instance would inherit it.
+`OWNER.md` carries it in the next capability edition, as this curator's practice rather than a rule for others.
+
+Unknown: whether one reader applies it reliably. [hyp] An independent reader of each offer would catch what the deciding role misses; not assigned yet, because no offer is waiting. Decide at the next offer.
+
+**Cost, stated plainly:** the catalogue is empty again, and no project can draw on anything until a kit is corrected. The main effort settles that.
+
+**Asked of the CEO:** nothing. Resources used: this executive instance; no subordinates.

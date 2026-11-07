@@ -26,10 +26,12 @@ The catalogue: the know-how block below names the current catalogue edition and 
 
 Answers to questions for the capability: [answers/2026-11-05.md](answers/2026-11-05.md). Before asking, check there. A project publishes a question under “Questions for the capability” in its own `published/INDEX.md`; this project's executive reads those when it next runs. Only projects the curator has been given are read.
 
+2026-11-07: [what this curator admits](admission/2026-11-07.md). Under it `root-cause-laddering` is retired: `catalogue-003` is empty and is the current catalogue; the entry for catalogue-002 above is historical. A replacement with a kit that agrees with its record gets a fresh decision, as does one for `situation-personification`.
+
 Current catalogue: the block below; give this `INDEX.md` to `ask` and `select` as `--catalogue`. Paths here resolve from this file's folder.
 
 <!-- knowhow:v1 -->
 ```json
-{"catalogue":{"path":"knowhow/catalogues/catalogue-002/EDITION.json","sha256":"4dc59eafcff3c5434218219ccda142cd8733299d0bb8653b9cdb64a2c2099d35"},"format":1,"offers":[],"project_id":"9be9f437-26de-4aac-8784-6eff57fca115"}
+{"catalogue":{"path":"knowhow/catalogues/catalogue-003/EDITION.json","sha256":"1438b1cca252c97d755202ab09be84546062c31128387d8588663b586ed71e7d"},"format":1,"offers":[],"project_id":"9be9f437-26de-4aac-8784-6eff57fca115"}
 ```
 <!-- /knowhow:v1 -->
