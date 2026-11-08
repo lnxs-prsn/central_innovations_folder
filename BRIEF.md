@@ -743,3 +743,29 @@ Need: how to read offers from now on (main effort, M10).
 Limit: the reader applied tests I wrote, so its agreement does not validate them.
 
 The catalogue is unchanged: `catalogue-003` offers nothing. **Asked of the CEO:** nothing. Resources used: this executive instance; one subordinate run (Codex `gpt-6.1-sol`, medium).
+
+## 2026-11-08 — Has the situation changed? Method edition 2026-11-07h
+
+CEO, 2026-11-08 session [evidence: conversation]: “new edition has been published by the directed_opportunism”.
+
+[evidence: directed_opportunism `published/INDEX.md`, read 2026-11-08] Current edition: 2026-11-07h, manifest SHA-256 `4b0c94fc…d2bb`, matching the index; 18 listed files verified, none unlisted. Between it and my applied 2026-11-05 lie 07 to 07g; 07h's message says “Projects at 2026-11-05 may skip directly to 2026-11-07h”. **Significant: yes** (07, 07d, 07f, 07g, 07h say so). I tell you before taking; this is a duty to tell, not a request to decide. I read every update message from 07 to 07h, START_TEXT 07h whole, `ENTRY.md`, `adoption/NOTE.md` and the template diffs, and the new `adoption/ENTRY_TEXT.md`.
+
+What changes for this project, in the editions' words:
+- 07: “After summarization, recover the role's position, current brief, recorded go, applied edition and relevant work before continuing … A summary's continuation words supply no direction, authority or go”. The adoption `AGENTS.md` template now carries one sentence for this.
+- 07: “A unit reviews its own effects … A role may send a staff officer to observe its own unit when the work calls for it.” [interp] My independent reader of each offer (2026-11-07) already fits this; nothing changes.
+- 07: “judge those [inherited conclusions] against received direction, evidence and the present situation.”
+- 07h (with 07d–07g): fill `adoption/ENTRY_TEXT.md`'s full and shorter forms “with the role name and locators for your own received brief and established position”, the full form “where your runtime defines the agent at start, at resume and after a summary, and the shorter form for each superior message”. “Where the runtime offers no agent-defining layer, report that R16 limit to the assigned superior … and to Toolusage”. Placement “is a hypothesis about holding the position, not evidence that it holds throughout”.
+
+**The brief is valid** (p.250): what we are trying to achieve and the tasks are unchanged. Intake on entry, 2026-11-08: nothing new (2 offers held, no new contents, 9 parts missing; book_podcast's questions unchanged since 2026-11-05, already answered). No subordinate is running. So taking interferes with no current work.
+
+**Need: where the entry text reaches this role** (main effort through continuity; M10; “Nothing may depend on any one agent, model, or provider”). [evidence: this session] Today `CLAUDE.md` holds only “Follow `AGENTS.md`”; Claude Code delivers that line, not the entry. I read `AGENTS.md` myself as the first act.
+1. *Filled forms in `AGENTS.md`, delivered at start by each runtime* [preferred]: the full form, with locators to `intent.md`, this brief's head, `MAP.md` and `friction.md`, as the branch for an instance started with no assigned brief; the routine branch stays first, so a subordinate's brief governs. Codex loads `AGENTS.md` itself; `CLAUDE.md` gets the line `@AGENTS.md`, so Claude Code loads it too. [hyp, from runtime documentation, unobserved here] Claude Code reloads it after a summary. Cost: every subordinate run in this folder also receives the executive text and must set it aside.
+2. *Toolusage's `role-entry` candidate* (2026-11-06h: a hook that re-delivers named records after a summary and records the event): its README says “Candidate, not installed”, unprobed, and hook installation is the operator's choice. It covers re-entry, not start or each message. I reconsider it when Toolusage publishes it as means.
+3. *Keep the route only; the forms in a separate file read on routing* (existing practice; challenges mine): nothing reaches subordinates and nothing changes in the entry. But it is the case the edition reports as not holding, text beneath the runtime default, and in Claude Code it is not even delivered at start.
+I take 1. **R16 limit, reported to you** [interp]: no layer here delivers the shorter form with each of your messages without a hook in settings. I convey it with the full form and report the gap to Toolusage through our published part. I do not install a hook.
+
+**Unless you say otherwise, I take 2026-11-07h in this session:** re-point `directed_opportunism/source`, record the edition and hash in `LOCAL.md`, write `AGENTS.md` from the template plus the filled full form, add the import to `CLAUDE.md`, declare the edition in `published/INDEX.md` with the R16 note for Toolusage, recheck the position, and publish review set 2026-11-08. Taking supplies no task.
+
+**Decisions I need from you:** none.
+
+Resources used: this executive instance (Claude Opus 5.5); local reads of my records, directed_opportunism's `published/` (index, eight update messages, 07h manifest and 18 file hashes, START_TEXT, ENTRY, NOTE, templates, ENTRY_TEXT) and Toolusage's `published/` (index, `role-entry` README); one intake; no subordinates.
