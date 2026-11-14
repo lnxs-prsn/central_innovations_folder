@@ -1,8 +1,8 @@
 # Published material — central_innovations_folder
 
-Edition applied: directed_opportunism 2026-11-07h
+Edition applied: directed_opportunism 2026-11-14c
 
-Taken 2026-11-08, after telling the CEO; manifest SHA-256 4b0c94fcc9c752235d4f427b267fa211b76db2fed9f4ae237baeacafc158d2bb, all 18 listed files checked against it. Earlier: 2026-11-05 from 2026-11-05.
+Taken 2026-11-14, after telling the CEO; manifest SHA-256 6b1cac0784ca1f26bc79ae3064cffbb755604f32f0026baf8f31f7616a26b5f8, all 20 listed files checked against it. Earlier: 2026-11-07h, taken 2026-11-08; 2026-11-05, taken 2026-11-05.
 
 Everything listed here is complete and fixed; later material is added as new dated entries, and earlier entries do not change.
 
@@ -14,9 +14,13 @@ Review set 2026-11-05: `review/2026-11-05/` holds the same five records, taken 2
 
 Review set 2026-11-08: `review/2026-11-08/` holds the same five records, taken 2026-11-08 after taking edition 2026-11-07h, with the same limits. Its `MANIFEST.json` SHA-256 is 62ff18a827baea9c0a7a2e73926669c5b1c59a6ff2257087dcda6280813dba9c.
 
+Review set 2026-11-14: `review/2026-11-14/` holds the same five records, taken 2026-11-14 after taking edition 2026-11-14c, with the same limits. The strategy brief now opens with the executive's position and a fitted “Current brief”, the entry's required reading; the rest is the record of received direction. Its `MANIFEST.json` SHA-256 is 017594a84e98f78250edc3e7bf6d79fe65bd65582bd6d82e126bb5fa95c49663.
+
 Questions or lessons published for directed_opportunism: none yet.
 
 For Toolusage, 2026-11-08: an R16 limit (edition 2026-11-07h, `adoption/ENTRY_TEXT.md`). This project's executive entry, the full form, is placed in its root `AGENTS.md`, and `CLAUDE.md` imports it, so Codex and Claude Code deliver it at start. Re-delivery after a summary is expected from runtime documentation, not observed here. No means here delivers the shorter form with each superior message: that needs a per-message hook, which this project has not installed. Toolusage's `role-entry` candidate (2026-11-06h) is not installed here either. This adds no requirement and sets no priority.
+
+For Toolusage, 2026-11-14, under edition 2026-11-14c: the R16 limit above is unchanged; the executive entry in `AGENTS.md` is now the minimal arrival. On R18: the current situation is a hand-kept section of the executive's brief, refreshed by the executive at entry; no means here delivers it portably, and no exercise has been run. This adds no requirement and sets no priority.
 
 Current capability, 2026-11-06: edition `capability/capability-003/`, for projects that choose to take it. Start with its `USE.md`: how to draw on know-how, how to offer what your project learns, and how to ask when something is unclear; a project already holding know-how also reads its `EXISTING.md`; `UPDATE.md` says what the edition changes. Its `EDITION.json` lists every file's SHA-256; the manifest's own SHA-256 is 229794fbc843b14bfd2f4b01c2c4d5dd1ad37b9a1c4cf932b8ce4392b2fb9df3. Verify it before relying on the edition. Checked on Linux with Python 3.13.5 and 3.11.15, source and a copy of the edition; Windows and Python 3.9 are not yet run. The entries below for `capability-002` and `capability-001` are historical. A project already on `capability-002` has nothing to migrate; offers stay valid.
 

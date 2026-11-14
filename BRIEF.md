@@ -1,6 +1,6 @@
 # Executive position
 
-Established 2026-11-01 from the CEO's brief, `intent.md`, under method edition 2026-11-01, rechecked under editions 2026-11-01b and 2026-11-01c the same day and under 2026-11-02b on 2026-11-02 and under 2026-11-03b on 2026-11-03 and under 2026-11-05 on 2026-11-05 and under 2026-11-07h on 2026-11-08 (START_TEXT, “Establishing the executive position”). Each later instance enters through this position with `intent.md`, this brief, `MAP.md` and `friction.md`; the executive entry in `AGENTS.md` points here [added 2026-11-08 on taking 2026-11-07h].
+Established 2026-11-01 from the CEO's brief, `intent.md`, under method edition 2026-11-01, rechecked under editions 2026-11-01b and 2026-11-01c the same day and under 2026-11-02b on 2026-11-02 and under 2026-11-03b on 2026-11-03 and under 2026-11-05 on 2026-11-05 and under 2026-11-07h on 2026-11-08 and under 2026-11-14c on 2026-11-14 (knowledge/positions.md, “Establish responsibility before configuring means”). Each later instance enters through this position and the “Current brief” below, with `intent.md` read whole and the edition's `START_TEXT.md`; the rest of this file, `MAP.md` and `friction.md` are lookup. The executive entry in `AGENTS.md` points here [updated 2026-11-14 on taking 2026-11-14c; earlier, 2026-11-08: “with `intent.md`, this brief, `MAP.md` and `friction.md`”].
 
 **Area of responsibility** [interp of `intent.md`, Intent and Measures]: the capability by which the CEO's projects, in the folder that holds them on each machine, learn from each other — contribution, recognition, selective use, availability to every project (including unused and new ones), exclusion and decline, and empty recovery, working from a clone for anyone, on Linux or Windows, given an agent and Python [updated 2026-11-01 to the CEO's third re-brief; earlier: “on the Pi and the Windows laptop”, before that “reach at opening and creation”] — with this folder holding the generic capability. Projects reach it through the CEO's arrangement and take it by their own choice; it writes nothing into them and does not look into them: it uses only what they publish [updated 2026-11-02 to the CEO's publication re-brief]. Central publishes what it offers, complete and fixed, and which method edition it applies. Not the projects' own work or their innovations' substance.
 
@@ -10,9 +10,59 @@ Established 2026-11-01 from the CEO's brief, `intent.md`, under method edition 2
 
 Limits on them, `intent.md`, Backbrief: “Before building, state my intent in your own words, and describe how you plan to achieve it and why. For each need your next step touches, compare 2–3 different solutions, including existing techniques and software and at least one that challenges your own preferred choice, against the measures. If anything you discover later changes what I’d want, stop and tell me before continuing.” and “I read only your backbriefs. Anything you need me to decide must be stated in the backbrief itself, not only referred to in your files.”; plus the Constraints quoted in part 5, including “how the book applies to agents is directed_opportunism’s to decide”. Commits: the CEO, 2026-11-02, “Commit your own work locally yourself. Pushing to GitHub stays with me.” (part 6) [updated 2026-11-03 to that direction, after the published review of 2026-11-03 found this line stale; earlier: the CEO's 2026-10-25 “When a step is complete, say so in your report and I commit it”].
 
-**Superior**: the CEO, by assignment (`intent.md`; the CEO holds command of the organization now). Unclear intent goes to the CEO. Method questions go through the CEO and are published for directed_opportunism in this project's published part (`published/INDEX.md`; edition 2026-11-02b `ENTRY.md`) [updated 2026-11-02 on taking 2026-11-02b; earlier: sent to directed_opportunism under the delivered `ENTRY.md`]. Method edition applied: 2026-11-07h (`directed_opportunism/LOCAL.md`) [updated 2026-11-08; earlier 2026-11-05, before that 2026-11-03b].
+**Superior**: the CEO, by assignment (`intent.md`; the CEO holds command of the organization now). Unclear intent goes to the CEO. Method questions go through the CEO and are published for directed_opportunism in this project's published part (`published/INDEX.md`; edition 2026-11-02b `ENTRY.md`) [updated 2026-11-02 on taking 2026-11-02b; earlier: sent to directed_opportunism under the delivered `ENTRY.md`]. Method edition applied: 2026-11-14c (`directed_opportunism/LOCAL.md`) [updated 2026-11-14; earlier 2026-11-07h, before that 2026-11-05 and 2026-11-03b].
 
 **Subordinates**: none live. The context subordinate (`briefs/2026-10-25_context.md`) and the entry subordinate (`briefs/2026-10-25_entry.md`) completed their investigations; their reports were received at their runs' ends (`briefs/sessions.md`). Five build subordinates completed their work (standard, access, publication, capability-002, capability-003; their briefs and reports in `briefs/`); none is planned until offers can arrive (MAP.md, Leg 13) [updated 2026-11-05; earlier 2026-11-03: earlier: “Build subordinates are briefed after the CEO answers the backbrief”]. Each instance is a run with closed input, started by this executive and tracked to its end. I choose its model for the work's competence and record why; a routine brief carries the method meanings it needs, so its subordinate reads only that brief (edition 2026-11-03b, ENTRY; START_TEXT, management) [updated 2026-11-03; earlier: “on whichever agent is available”]. No provider is required (`intent.md`: “Nothing may depend on any one agent, model, or provider”). Identifiers in `briefs/sessions.md` are historical.
+
+# Current brief
+
+Maintained by the executive; refreshed at each entry and whenever direction or a fact below changes. Cutoff: 2026-11-14. Received direction is `intent.md`, read whole; it governs, and nothing here replaces it. Part 6 below records each re-brief and its effect.
+
+**Situation** [evidence, sources in brackets]
+- Capability: `capability-003` current, published 2026-11-06 [`published/INDEX.md`]. Run on Linux, Python 3.13.5 and 3.11.15; Windows and Python 3.9 never run.
+- Catalogue: `catalogue-003` offers nothing. `root-cause-laddering` retired, `situation-personification` held; what each needs is in `published/answers/2026-11-07.md`. Admission bar: `published/admission/2026-11-07b.md`.
+- Reach: `.knowhow/parts.json` lists 13 parts. Four publish an index (book_podcast_fiction_generator, algorith_curriculum_brainstorming, directed_opportunism, toolusage); nine have none. Only book_podcast offers: 2 offers, no new content since 2026-11-05. Its questions of 2026-11-05 are answered; no others.
+- Subordinates: none live [`briefs/sessions.md`; no run started since 2026-11-07].
+- Method: 2026-11-14c applied [`directed_opportunism/LOCAL.md`].
+- Unknown: whether any project draws on what is published (takers' use records are their own); whether this entry holds the position at resume or after a summary.
+
+**Facts that decide the next act**: refreshed by the executive at entry and before any stage decision; record changes above with the date.
+
+| Fact | Source and how |
+|---|---|
+| New offers or content | Intake, from this root: `python3 published/capability/capability-003/knowhow.py ingest --project . --published-parts .knowhow/parts.json` (running the source in `capability/` is refused) |
+| New questions | “Questions for the capability” in each listed part's `INDEX.md` that changed since the cutoff |
+| Method edition | The publisher's `published/INDEX.md`, against `directed_opportunism/LOCAL.md` |
+| Subordinate status | `briefs/sessions.md` and live processes |
+| The CEO's latest words | The message, placed against `intent.md` |
+
+**Purpose and main effort** [interp]: what one project learns reaches the others with the situation it came from, so a taker can judge fit before using it. Main effort: admission. What enters the catalogue agrees with its own record and context; where reach and context conflict, context wins (`intent.md`, Main effort). *Outputs I control*: capability editions, catalogues, answers, admission decisions. *Effect sought*: projects offer and draw on know-how with its context (M1–M5). I see it only through what projects publish: offers at intake, their questions, any use account they choose to publish. Today the effect is absent: nothing is admitted.
+
+**Done when, this stage (Leg 14)**: a contribution is admitted under the bar after an independent read, the catalogue offers it, and some project's published material shows it was taken or questioned.
+
+**Implied tasks**
+
+| Task | Holder | Trigger |
+|---|---|---|
+| Intake and question reading | Executive | Each entry |
+| Decide an offer: admit, merge, retire | Executive decides after an independent read by a subordinate run (pattern: `briefs/2026-11-07_independent_read.md`) | New offer or new content |
+| Answer questions; next capability edition, with the admission bar in `OWNER.md` | Executive answers; a build subordinate, briefed, builds | Next question or offer, or the third admission decision |
+| Run on Windows and Python 3.9 | Not held: no such means here | When the CEO provides a machine, or a taker reports |
+| Method editions | Executive | Publisher's index at entry |
+| Check this entry's arrival | The next executive instance | Its first acts: did it act from this brief without reading the lookup records? Record the answer in part 6 |
+
+**Boundaries**: `intent.md`, Boundaries, all of them (quoted in part 5, checked by script against `intent.md` at each re-brief). Commit locally; pushing is the CEO's. Read other projects only through their published parts.
+
+**Control loop**
+- The CEO reads only backbriefs. Report in part 6 and the reply at stage points: an offer decided, an edition taken, a capability or catalogue published, a limit met. Do not report each runtime event.
+- New direction from the CEO is a re-brief: backbrief as `intent.md` directs, and build on it only after the CEO's reply. Within recorded alignment and the freedoms, act without asking; ask only for decisions that are the CEO's by a quotable line. A significant edition is told and then taken in the same session (`friction.md`, 2026-11-08).
+- Stop and tell the CEO if anything found changes what the CEO would want.
+- Subordinates: a tracked run with closed input. For non-routine work, receive and check the backbrief before the go. Receive the report at the run's end and judge it against its brief.
+- At a stage end, leave: a part 6 entry, a `MAP.md` line with the next holder and trigger, and `friction.md` where a gap appeared.
+
+**Experience to consult before deciding** (`friction.md`): admission, both 2026-11-07 entries; telling versus waiting, 2026-11-08; checking a backbrief by running its route, 2026-11-05.
+
+*End of entry reading. Below: the original brief of 2026-10-25 (parts 1–5) and part 6, the record of received direction; lookup.*
 
 ---
 
@@ -771,3 +821,31 @@ I take 1. **R16 limit, reported to you** [interp]: no layer here delivers the sh
 Resources used: this executive instance (Claude Opus 5.5); local reads of my records, directed_opportunism's `published/` (index, eight update messages, 07h manifest and 18 file hashes, START_TEXT, ENTRY, NOTE, templates, ENTRY_TEXT) and Toolusage's `published/` (index, `role-entry` README); one intake; no subordinates.
 
 **Taken, 2026-11-08** [evidence: this session]. The CEO's word after the backbrief above: “proceed”. 2026-11-07h taken: `directed_opportunism/source` → `../../project_management/directed_opportunism/published/2026-11-07h`; `LOCAL.md` records the edition and manifest `4b0c94fc…d2bb`. `AGENTS.md` is the edition's template plus a project-owned “Executive entry”: the full form of `ENTRY_TEXT.md`, filled with locators only (`intent.md`, this head, `LOCAL.md`'s records, part 6 as the direction record), no copied direction. `CLAUDE.md` adds `@AGENTS.md`. `published/INDEX.md` declares 07h and states the R16 limit for Toolusage. Position rechecked against 07h: the four parts are unchanged; the edition line and entry pointer are updated. Review set `published/review/2026-11-08/` published. [hyp] Whether the entry holds the position is read from the next instances' acts, starting with whether one opened here reads `intent.md` and this head before acting. Taking supplies no task; Leg 14 continues.
+
+## 2026-11-14 — Has the situation changed? Method edition 2026-11-14c
+
+CEO, 2026-11-14 session [evidence: conversation]: “new edition is published”.
+
+[evidence: directed_opportunism `published/INDEX.md`, read 2026-11-14] Current edition: 2026-11-14c, manifest SHA-256 `6b1cac07…5f8`, matching the index; 20 listed files verified, none unlisted. Between it and my applied 07h lie 07i, 10b, 13d and 14b; 14c gives a direct route from 07h and says to install no intermediate edition. **Significant: yes.** I tell you before taking; this is a duty to tell, and I take it in this session (`friction.md`, 2026-11-08). I read 14c's `UPDATE.md`, `ENTRY.md`, `START_TEXT.md`, `adoption/NOTE.md`, `adoption/ENTRY_TEXT.md`, `knowledge/positions.md`, the template diffs, and the update messages from 07i to 14b.
+
+What changes for this project, in the edition's words:
+- Entry: “Replace long required doctrine at entry with the current position, a fitted current brief and the one-page principles in `START_TEXT.md`” (14b, carried by 14c); “Adding the principles page above the old required reading does not complete this move.”
+- Situation: “Name who refreshes decision-relevant facts, from which sources and before which next use.”
+- Order: “New direction needs the superior's understanding check before the go”, and “Apply reply-before-go order at the executive's level too.”
+- Rhythm: “Choose review/receipt points for the unit instead of reporting upward at every runtime event”; “State outputs separately from effects and who can observe them.”
+- R17 and R18 are requirements on Toolusage's means; they grant me nothing.
+
+**The brief is valid** (p.250): what we are trying to achieve and the tasks are unchanged. Intake on entry: nothing new (2 offers held, no new content, 9 parts missing; no new questions). No subordinate is running, so taking interferes with no current work.
+
+**Need: how this role arrives with what it needs and no more** (continuity of the main effort; M10; “Nothing may depend on any one agent, model, or provider”). [evidence: word counts, 2026-11-14] The 07h entry made every instance read `AGENTS.md`, `intent.md`, all of `BRIEF.md`, `MAP.md`, `friction.md`, `published/INDEX.md`, `LOCAL.md`, `ENTRY.md` and 07h's 5,221-word `START_TEXT.md`: about 35,200 words.
+1. *A fitted “Current brief” at the head of this file, under the position; `AGENTS.md` sends the executive to `intent.md`, that head and the 469-word principles page* [taken]: about 4,100 words; the rest is lookup. One record holds both, so nothing competes with this file.
+2. *A separate `CURRENT.md`*: a cleaner cut, but a second live record of my understanding beside this one. The edition says to keep equivalent records rather than create competing ones.
+3. *Keep the full form and whole-record reading* (existing practice; challenges mine): nothing to maintain. But the edition says lookup must stop being compulsory, and every entry spends about 31,000 extra words of reading (M10).
+
+Not copied into the current brief: `intent.md`'s words. The entry reads them from their source (`knowledge/positions.md`, rule 3: “Convey current intent from its source”).
+
+**Division of work** [interp]: I did the builder's and means holder's steps myself. The only position here is my own, and the brief it needs is the one I maintain. A builder subordinate would first have to read the whole record this change takes off the entry. Delivery is two files in this folder. Fresh reader: none run now. The test is the next real arrival, held by the next instance (current brief, Implied tasks). [hyp] Its first acts show whether this brief is enough without the lookup records.
+
+**Taken, 2026-11-14.** `directed_opportunism/source` → `../../project_management/directed_opportunism/published/2026-11-14c`; `LOCAL.md` records the edition and manifest. `AGENTS.md`: minimal arrival in place of the full form. This head: position rechecked (the four parts are unchanged; the edition line and entry pointer are updated) and “Current brief” added: situation with cutoff, facts that decide the next act and their refresh, purpose and main effort, outputs beside effects, done-when, implied tasks with holders and triggers, control loop with reply-before-go and stage-point reporting. `published/INDEX.md` declares 14c; review set `published/review/2026-11-14/`. Taking supplies no task; Leg 14 continues.
+
+**Decisions I need from you:** none. Resources used: this executive instance (Claude Opus 5.5); local reads of my records and directed_opportunism's `published/`; one intake; no subordinates.
