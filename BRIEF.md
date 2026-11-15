@@ -48,6 +48,7 @@ Maintained by the executive; refreshed at each entry and whenever direction or a
 **Control loop**
 - The CEO reads only backbriefs. Report in part 6 and the reply at stage points: an offer decided, an edition taken, a capability or catalogue published, a limit met. Do not report each runtime event.
 - New direction from the CEO is a re-brief: backbrief as `intent.md` directs, and build on it only after the CEO's reply. Within recorded alignment and the freedoms, act without asking; ask only for decisions that are the CEO's by a quotable line. A significant edition is told and then taken in the same session (`friction.md`, 2026-11-08).
+- Authority versus invocation [interp]: `intent.md`'s freedoms and the recorded alignment stand until the CEO changes them; a session ending, a summary or a new instance does not end them. A subordinate run's authorization is its brief's scope; its timeout, turn limit or failure ends that invocation, not the authorization. Where a grant's words leave scope or duration unclear, refer it rather than assume either way.
 - Stop and tell the CEO if anything found changes what the CEO would want.
 - Subordinates: a tracked run with closed input. For non-routine work, receive and check the backbrief before the go. Receive the report at the run's end and judge it against its brief.
 - At a stage end, leave: a part 6 entry, a `MAP.md` line with the next holder and trigger, and `friction.md` where a gap appeared.
@@ -849,3 +850,15 @@ CEO, 2026-11-15 session [evidence: conversation]: “if you dont need decisions 
 **The brief is valid** (p.250). These are questions about my conduct, placed against `intent.md`; they change no outcome. Answers, and what I did: `friction.md`, 2026-11-15. The capability-004 test run I had started to brief is dropped before issue: its two premises were false (3.9 ran here; M7 growth is already exercised). Means inventory added to the current brief. Python 3.9.25 run once on a copy of `capability-003`: OK. That makes the published “Python 3.9+” true, so it was not a test programme.
 
 **Asked of the CEO:** nothing. Resources used: this executive instance; one `uv` download of CPython 3.9.25 (once, not periodic); one suite run.
+
+## 2026-11-15 — Have all the edition's changes been made? Arrival checked
+
+CEO, 2026-11-15: “have you made all the changes the edition said to make ?”
+
+**The brief is valid** (p.250); a question, no outcome change. Checked against 14c's `UPDATE.md`, actions 1–5, not from memory. Done before: action 1, taking and identity; 4, the R16 limit and R18 reported to Toolusage; 5, situation, review points, reply-before-go and outputs versus effects. Three gaps found, closed now:
+- Action 2: the brief lacked authority scope and duration as distinct from invocation limits. Added to the control loop.
+- Action 3, superior-message route: no means delivered it with each message. Now a `UserPromptSubmit` hook (`tools/situation.py message`) does.
+- Action 3, “check an actual arrival”: the implied task fell to this instance. [evidence: this session's context] After the summary, the `SessionStart` hook delivered the live situation before any act: all facts present, nothing due. This instance acted from the brief and live report. It read the edition's `UPDATE.md`, `adoption/NOTE.md` and `adoption/ENTRY_TEXT.md` only because the question was about the edition. It did not reread `START_TEXT.md` after the summary; the arrival delivers a pointer to it, not its text.
+- `published/INDEX.md`: capability-003's 3.9.25 run recorded; the Toolusage note on R18 is replaced by the mechanism and its limits.
+
+**Asked of the CEO:** nothing. Resources used: this executive instance; local reads.

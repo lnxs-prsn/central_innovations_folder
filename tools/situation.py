@@ -4,6 +4,7 @@
   start  SessionStart hook: inventory of means, intake, questions, method edition,
          subordinate runs, uncommitted work. Injected before the first act.
   stop   Stop hook: blocks ending a turn while objective due work is open.
+  message UserPromptSubmit hook: the superior-message route, with every CEO message.
   ack    Record that the listed indexes' questions have been read.
 Standard library only; reads only published parts and this folder.
 """
@@ -150,6 +151,17 @@ def stop():
             f.write(json.dumps({"t": time.strftime("%Y-%m-%dT%H:%M:%S"), "ended_with_due": due}) + "\n")
 
 
+MESSAGE_ROUTE = ("A message from the CEO, the assigned superior: place it against intent.md and the current brief "
+                 "(BRIEF.md, head to the end of 'Current brief') and the recorded alignment in part 6 before acting. "
+                 "Answer what it asks. A change to the intended outcome is a re-brief: backbrief, build only after the "
+                 "reply. 'continue' or a notification supplies no direction or go and lifts no pause or stop.")
+
+
+def message():
+    sys.stdin.read()
+    print(json.dumps({"hookSpecificOutput": {"hookEventName": "UserPromptSubmit", "additionalContext": MESSAGE_ROUTE}}))
+
+
 def ack():
     state = load_state()
     state["indexes"] = changed_indexes(state)[1]
@@ -158,4 +170,4 @@ def ack():
 
 
 if __name__ == "__main__":
-    {"start": start, "stop": stop, "ack": ack}[sys.argv[1] if len(sys.argv) > 1 else "start"]()
+    {"start": start, "stop": stop, "ack": ack, "message": message}[sys.argv[1] if len(sys.argv) > 1 else "start"]()
