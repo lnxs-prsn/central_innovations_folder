@@ -85,12 +85,12 @@ def subordinates():
     return [l for l in out.splitlines() if str(os.getpid()) not in l][:5]
 
 
-IGNORED = (".knowhow/curator/catalog.sqlite",)  # rewritten by every intake; committed with decisions
+IGNORED = ("curator/catalog.sqlite",)  # rewritten by every intake; committed with decisions
 
 
 def uncommitted():
     return [l for l in run(["git", "status", "--porcelain"], 10)[1].splitlines()
-            if not l[3:].strip().endswith(IGNORED)]
+            if not l.strip().endswith(IGNORED)]
 
 
 def due_items(state, counts, changed, applied, current_ed, dirty):
