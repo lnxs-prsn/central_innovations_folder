@@ -1,3 +1,4 @@
 /capability/
-project_list.txt.knowhow/situation_state.json
+project_list.txt
+.knowhow/situation_state.json
 .knowhow/situation_log.jsonl
