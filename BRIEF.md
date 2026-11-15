@@ -20,22 +20,13 @@ Maintained by the executive; refreshed at each entry and whenever direction or a
 
 **Situation** [evidence, sources in brackets]
 - Capability: `capability-003` current, published 2026-11-06 [`published/INDEX.md`]. Run on Linux, Python 3.13.5, 3.11.15 and, from a copy of the edition, 3.9.25 (2026-11-15: 36 tests OK, one intended skip; render check OK, its synthetic growth from 10 to 100 contents keeps candidate output at about 3.3 KB). Windows never run.
-- Means available [executive's inventory, 2026-11-15; refresh at entry when a need depends on it]: `uv` (any CPython; 3.9, 3.11, 3.13 installed), `codex`, `claude`, `qodercli` (a third agent provider), `cao` (agent orchestrator), `unworldly` (agent activity recorder), `gitleaks` (secret scan), `tu-projects` (the organization's list, revision 3, three projects), Toolusage's published `receipt` and `role-entry` means, git, go, cargo; 4 cores, 15 GiB RAM. Not available: Windows (no VM, wine or Windows runner), docker (socket permission denied), `gh`.
 - Catalogue: `catalogue-003` offers nothing. `root-cause-laddering` retired, `situation-personification` held; what each needs is in `published/answers/2026-11-07.md`. Admission bar: `published/admission/2026-11-07b.md`.
 - Reach: `.knowhow/parts.json` lists 13 parts. Four publish an index (book_podcast_fiction_generator, algorith_curriculum_brainstorming, directed_opportunism, toolusage); nine have none. Only book_podcast offers: 2 offers, no new content since 2026-11-05. Its questions of 2026-11-05 are answered; no others.
 - Subordinates: none live [`briefs/sessions.md`; no run started since 2026-11-07].
 - Method: 2026-11-14c applied [`directed_opportunism/LOCAL.md`].
 - Unknown: whether any project draws on what is published (takers' use records are their own); whether this entry holds the position at resume or after a summary.
 
-**Facts that decide the next act**: refreshed by the executive at entry and before any stage decision; record changes above with the date.
-
-| Fact | Source and how |
-|---|---|
-| New offers or content | Intake, from this root: `python3 published/capability/capability-003/knowhow.py ingest --project . --published-parts .knowhow/parts.json` (running the source in `capability/` is refused) |
-| New questions | “Questions for the capability” in each listed part's `INDEX.md` that changed since the cutoff |
-| Method edition | The publisher's `published/INDEX.md`, against `directed_opportunism/LOCAL.md` |
-| Subordinate status | `briefs/sessions.md` and live processes |
-| The CEO's latest words | The message, placed against `intent.md` |
+**Live facts** (means, intake, questions, method edition, subordinate runs, uncommitted work) are gathered by `tools/situation.py` and delivered at every session start; a turn cannot end while it reports due work (`.claude/settings.json`). Facts above are dated; the live report governs where they differ.
 
 **Purpose and main effort** [interp]: what one project learns reaches the others with the situation it came from, so a taker can judge fit before using it. Main effort: admission. What enters the catalogue agrees with its own record and context; where reach and context conflict, context wins (`intent.md`, Main effort). *Outputs I control*: capability editions, catalogues, answers, admission decisions. *Effect sought*: projects offer and draw on know-how with its context (M1–M5). I see it only through what projects publish: offers at intake, their questions, any use account they choose to publish. Today the effect is absent: nothing is admitted.
 
@@ -45,11 +36,10 @@ Maintained by the executive; refreshed at each entry and whenever direction or a
 
 | Task | Holder | Trigger |
 |---|---|---|
-| Intake and question reading | Executive | Each entry |
+| Intake and question reading | Executive, from the live report | Each session start |
 | Decide an offer: admit, merge, retire | Executive decides after an independent read by a subordinate run (pattern: `briefs/2026-11-07_independent_read.md`) | New offer or new content |
 | Answer questions; next capability edition, with the admission bar in `OWNER.md` | Executive answers; a build subordinate, briefed, builds | Next question or offer, or the third admission decision |
 | Run on Windows | Not held: no Windows means here (inventory above) | When a Windows machine is reachable, or a taker reports |
-| Assess available means | Executive | At entry when a need depends on them; before writing that a means is absent |
 | Method editions | Executive | Publisher's index at entry |
 | Check this entry's arrival | The next executive instance | Its first acts: did it act from this brief without reading the lookup records? Record the answer in part 6 |
 
