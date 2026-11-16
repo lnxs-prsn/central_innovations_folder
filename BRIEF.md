@@ -24,7 +24,7 @@ Maintained by the executive; refreshed at each entry and whenever direction or a
 - Reach: `.knowhow/parts.json` lists 13 parts. Four publish an index (book_podcast_fiction_generator, algorith_curriculum_brainstorming, directed_opportunism, toolusage); nine have none. Only book_podcast offers: 2 offers, no new content since 2026-11-05. Its questions of 2026-11-05 are answered; no others.
 - Subordinates: none live [`briefs/sessions.md`; no run started since 2026-11-07].
 - Method: 2026-11-16f applied [`directed_opportunism/LOCAL.md`].
-- Map: `MAP.html`, the drawn campaign map the CEO reads (edition 16f form), filled 2026-11-16 from `MAP.md`, part 6, git log and transcripts; `MAP.md` stays the situation record.
+- Map: `maps/campaign_map_YYYY-MM-DD.html`, the drawn campaign map the CEO reads (edition 16f form), one dated file per report, earlier ones kept (the CEO, 2026-11-16: “it needs to be stored somewhere I can access it and it needs to have date in name”). Current: `maps/campaign_map_2026-11-16.html`, filled 2026-11-16 from `MAP.md`, part 6, git log and transcripts; `MAP.md` stays the situation record.
 - Unknown: whether any project draws on what is published (takers' use records are their own); whether this entry holds the position at resume or after a summary.
 
 **Live facts** (means, intake, questions, method edition, subordinate runs, uncommitted work) are gathered by `tools/situation.py` and delivered at every session start; a turn cannot end while it reports due work (`.claude/settings.json`). Facts above are dated; the live report governs where they differ.
@@ -56,7 +56,7 @@ Maintained by the executive; refreshed at each entry and whenever direction or a
 - Stop and tell the CEO if anything found changes what the CEO would want.
 - Subordinates: a tracked run with closed input. For non-routine work, receive and check the backbrief before the go. Receive the report at the run's end and judge it against its brief.
 - At a stage end, leave: a part 6 entry, a `MAP.md` line with the next holder and trigger, and `friction.md` where a gap appeared.
-- The map: refresh `MAP.html` (route, effort, battlefields, sections) and give the CEO that local file, without a separate request, at each stage point above; a web link may accompany it, never replace it. Timing proposed to the CEO 2026-11-16 (part 6); unchanged until the CEO corrects it.
+- The map: at each report, copy the latest map to `maps/campaign_map_<report date>.html`, refresh it (route, effort, battlefields, sections; a same-day refresh updates that day's file) and give the CEO that local file by its path, without a separate request, at each stage point above; a web link may accompany it, never replace it. Timing proposed to the CEO 2026-11-16 (part 6); unchanged until the CEO corrects it.
 
 **Experience to consult before deciding** (`friction.md`): admission, both 2026-11-07 entries; telling versus waiting, 2026-11-08; checking a backbrief by running its route, 2026-11-05.
 
@@ -932,3 +932,13 @@ What it showed: the procedure changed my decision on my own work, which the 11-0
 Capability-004 held, with reason, in the implied tasks. `MAP.html` refreshed at this stage point.
 
 **Asked of the CEO:** nothing. For your arrangement: the catalogue now offers something. Projects reach it only through the line you give them.
+
+## 2026-11-16 — The map: dated, in its own folder
+
+CEO, 2026-11-16 [evidence: conversation]: “I have seen MAP.html its good for now but it needs to be stored somewhere I can access it and it needs to have date in name”.
+
+**The brief is valid** (p.250): how the map is delivered changes; the outcome does not.
+
+[interp] “Somewhere I can access”, read within “Each project writes only in its own folder”: a dedicated folder in this project, `maps/`, one file per report named `campaign_map_<date>.html`, so earlier maps stay beside the current one. Not GitHub: GitHub holds only the generic capability. Done: `MAP.html` moved to `maps/campaign_map_2026-11-16.html`; the current brief and `MAP.md` point there, and the control loop says each report gets its own dated file. If you meant a place outside this folder, say where.
+
+**Asked of the CEO:** nothing, unless the reading above is wrong.

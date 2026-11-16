@@ -1,6 +1,6 @@
 [2026-11-02: `directed_opportunism/DELIVERY.md`/`.json` were removed on taking edition 2026-11-02b; they remain at commit `969aeb6`.] Method-provider update, 2026-10-30: the CEO’s stop remains in force until the CEO lifts it. The waiting backbrief predates current briefs. The method-provider migration/access notes below are historical, superseded by [the delivery notice](directed_opportunism/DELIVERY.md); they supply no task direction or go. The project’s original brief, evidence and recorded CEO words are preserved below.
 
-Drawn map for the CEO: [`MAP.html`](MAP.html) (edition 2026-11-16f form). This file is the record it is drawn from.
+Drawn maps for the CEO: [`maps/`](maps/), one dated file per report (`campaign_map_<date>.html`); current: [`maps/campaign_map_2026-11-16.html`](maps/campaign_map_2026-11-16.html). This file is the record they are drawn from.
 
 ---
 
@@ -209,3 +209,5 @@ For the intent: what one project learned is now available to all, whether or not
 2026-11-16 (BRIEF.md part 6, “Method edition 2026-11-16f”): edition 2026-11-16f taken after telling the CEO. The drawn campaign map is `MAP.html` in this folder; this file stays the record it is drawn from. For the intent: the CEO sees, without asking, where the effort went against the line. [~] Next offer: independent read, compare, decide. Refresh `MAP.html` and give it at each stage point. Responsibility: executive.
 
 2026-11-16 (BRIEF.md part 6, “Central's own offer”): `independent-read-before-admission` held, corrected, admitted after two independent reads; `catalogue-004` offers it. For the intent: the catalogue offers know-how again, read by someone without the author's reasons. [~] Next: a project takes or questions it (its own published material shows it); next offer: independent read, compare, decide. Responsibility: executive; reach is the CEO's arrangement.
+
+2026-11-16 (BRIEF.md part 6, “The map: dated, in its own folder”): the map moved to `maps/campaign_map_2026-11-16.html` at the CEO's direction; each later report gets its own dated file. Responsibility: executive.
