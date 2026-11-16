@@ -48,7 +48,7 @@ Current catalogue: the block below; give this `INDEX.md` to `ask` and `select` a
 
 <!-- knowhow:v1 -->
 ```json
-{"catalogue":{"path":"knowhow/catalogues/catalogue-003/EDITION.json","sha256":"1438b1cca252c97d755202ab09be84546062c31128387d8588663b586ed71e7d"},"format":1,"offers":[],"project_id":"9be9f437-26de-4aac-8784-6eff57fca115"}
+{"catalogue":{"path":"knowhow/catalogues/catalogue-003/EDITION.json","sha256":"1438b1cca252c97d755202ab09be84546062c31128387d8588663b586ed71e7d"},"format":1,"offers":[{"path":"knowhow/offers/1146b88bf2fe9ab20e098524968b68e7a41db330ae1ef3f95763d0cc556f1788/OFFER.json","sha256":"1146b88bf2fe9ab20e098524968b68e7a41db330ae1ef3f95763d0cc556f1788"}],"project_id":"9be9f437-26de-4aac-8784-6eff57fca115"}
 ```
 <!-- /knowhow:v1 -->
 
