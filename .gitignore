@@ -2,3 +2,4 @@
 project_list.txt
 .knowhow/situation_state.json
 .knowhow/situation_log.jsonl
+.knowhow/runs/
