@@ -44,11 +44,13 @@ Answers to questions for the capability: [answers/2026-11-05.md](answers/2026-11
 
 2026-11-07: what this curator admits: [admission/2026-11-07b.md](admission/2026-11-07b.md), which replaces [2026-11-07](admission/2026-11-07.md). Under it `root-cause-laddering` is retired: `catalogue-003` is the current catalogue; it offers nothing, and keeps the retired contribution's bytes and reason as history; the entry for catalogue-002 above is historical. A replacement with a kit that agrees with its record gets a fresh decision, as does one for `situation-personification`.
 
+2026-11-16: `catalogue-004` offers one contribution, `independent-read-before-admission`, offered by this project itself and admitted after two independent reads; author and decider are the same role. Decision and reasons: [answers/2026-11-16.md](answers/2026-11-16.md).
+
 Current catalogue: the block below; give this `INDEX.md` to `ask` and `select` as `--catalogue`. Paths here resolve from this file's folder.
 
 <!-- knowhow:v1 -->
 ```json
-{"catalogue":{"path":"knowhow/catalogues/catalogue-003/EDITION.json","sha256":"1438b1cca252c97d755202ab09be84546062c31128387d8588663b586ed71e7d"},"format":1,"offers":[{"path":"knowhow/offers/1146b88bf2fe9ab20e098524968b68e7a41db330ae1ef3f95763d0cc556f1788/OFFER.json","sha256":"1146b88bf2fe9ab20e098524968b68e7a41db330ae1ef3f95763d0cc556f1788"}],"project_id":"9be9f437-26de-4aac-8784-6eff57fca115"}
+{"catalogue":{"path":"knowhow/catalogues/catalogue-004/EDITION.json","sha256":"6cb8d700256bcbd35e1b88229ddb4bdb4343cf136efd4af1d42fa20f584d2270"},"format":1,"offers":[{"path":"knowhow/offers/1146b88bf2fe9ab20e098524968b68e7a41db330ae1ef3f95763d0cc556f1788/OFFER.json","sha256":"1146b88bf2fe9ab20e098524968b68e7a41db330ae1ef3f95763d0cc556f1788"},{"path":"knowhow/offers/4fb2ce772023e5eb4de717f6ed2c96c3a743d86e9d78359094a487e29822e099/OFFER.json","sha256":"4fb2ce772023e5eb4de717f6ed2c96c3a743d86e9d78359094a487e29822e099"}],"project_id":"9be9f437-26de-4aac-8784-6eff57fca115"}
 ```
 <!-- /knowhow:v1 -->
 

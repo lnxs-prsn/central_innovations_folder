@@ -11,12 +11,12 @@ A decider who reads alone inherits its own blind spots. On the day this was deve
 ## How to use it
 
 1. Write down the tests you decide by, saying which unit each applies to (the whole item, or the part a receiver copies alone).
-2. Record your own reading before you see the reader's.
+2. Record your own reading before you issue the brief, and do not revise it afterwards.
 3. Issue the brief in `kit/independent-read-brief.md` to one reader. Name only the material to read and withhold your records and reasons. The reader judges and recommends and decides nothing. If you can, run it as a tracked run that ends with a report.
 4. Compare item by item: same outcome or not, what each reader found that the other did not.
 5. Record the differences and what you change: the decision, the tests, any published statement now shown wrong. Then decide; the decision stays yours.
 
-Expected result: a list of differences you can act on. Do not expect a different outcome; in the one use the outcome did not change.
+Expected result: a list of differences you can act on. A different outcome may or may not follow: in the first use it did not, in the second it did.
 
 ## Fits projects like
 
@@ -24,9 +24,11 @@ Use it where one role's decision puts work in front of many receivers who cannot
 
 ## Proven in
 
-One use, in central_innovations_folder, on 2026-11-07, on two offers from one project. The deciding role (Claude Opus 5.5) had published an admission bar and decisions on both offers. A reader run on a different provider's model (Codex, gpt-6.1-sol, medium effort) read only the two offer bundles and the brief. Both readers reached the same outcome: neither offer is admissible as it stands, on the same test (the copied kit claims more than its record). The reader found five faults the decider had missed. On one offer, a missing "not the only review" limit, an uncompared "faster and sharper" claim and a rule's unstated condition. On the other, that "highest reachable" is not the causal layer, and that "Yes → the right rung" is a prediction. It also noticed that both offers rest on one case. The decider had published "Everything else read well"; that statement was corrected in public and the bar was replaced. The reader recommended holding one offer that the decider had retired; the effect is the same. Cost: about 156,600 input tokens (143,400 cached) and 5,400 output.
+First use, in central_innovations_folder, on 2026-11-07, on two offers from one project. The deciding role (Claude Opus 5.5) had published an admission bar and decisions on both offers. A reader run on a different provider's model (Codex, gpt-6.1-sol, medium effort) read only the two offer bundles and the brief. Both readers reached the same outcome: neither offer is admissible as it stands, on the same test (the copied kit claims more than its record). The reader found five faults the decider had missed. On one offer, a missing "not the only review" limit, an uncompared "faster and sharper" claim and a rule's unstated condition. On the other, that "highest reachable" is not the causal layer, and that "Yes → the right rung" is a prediction. It also noticed that both offers rest on one case. The decider had published "Everything else read well"; that statement was corrected in public and the bar was replaced. The reader recommended holding one offer that the decider had retired; the effect is the same. Cost: about 156,600 input tokens (143,400 cached) and 5,400 output.
 
-What this does not show: it is one use. Both readers applied tests the decider wrote, so their agreement does not validate the tests. Whether a reader on the same model would add as much is unknown. It has not yet been used on a later offer, because none has arrived.
+A second use, on 2026-11-16: the same project offered this technique itself, so the author was also the decider. The decider recorded its reading first: admit. A reader on the same different-provider model, given only the offer and its cited published evidence, recommended hold. It found that the kit did not say its evidence was self-verified (the bar's test 4), and that it told receivers to remove and replace parts without checking what depends on them (test 6). The decider agreed, had missed both, and held the offer. This time the outcome changed. The reader's run reported 13,752 tokens.
+
+What this does not show: these are two uses, both in one project, both with tests that project wrote. Both readers applied tests the decider wrote, so their agreement does not validate the tests. Whether a reader on the same model would add as much is unknown. Both uses were checked only by the deciding role itself. Closed input withholds reasons, but it does not make a reader independent in judgment; where the author is also the decider, the same role still frames the brief and interprets the differences.
 
 ## Kit (deployable files in `kit/`)
 
@@ -64,7 +66,7 @@ What this does not show: it is one use. Both readers applied tests the decider w
     "adaptations": [
       "Replace the example tests with your own",
       "Name your own decider role, material paths and report path",
-      "Choose the reader's model; the one use used a different provider's model from the decider's"
+      "Choose the reader's model; both uses used a different provider's model from the decider's"
     ]
   },
   "evidence": [
@@ -87,14 +89,34 @@ What this does not show: it is one use. Both readers applied tests the decider w
         "result": "The records agree with the claim. The check was made by the deciding role, not by an independent party.",
         "reason": null
       }
+    },
+    {
+      "claim": "With author and decider the same, an independent reader found two faults the decider had missed, and the decision changed from the decider's recorded 'admit' to 'hold'",
+      "outcome": "success",
+      "project": "central_innovations_folder",
+      "situation": "The project offered this technique to its own catalogue; the decider recorded its reading before issuing the brief; the reader saw only the offer and its cited published evidence.",
+      "occurred_on": "2026-11-16",
+      "locators": [
+        "central_innovations_folder published/answers/2026-11-16.md"
+      ],
+      "verification": {
+        "status": "checked",
+        "checked_on": "2026-11-16",
+        "checked_by": "central_innovations_folder executive (Claude Opus 5.5), the deciding role itself",
+        "scope": "The published decision exists and names both faults and the change from admit to hold.",
+        "result": "The record agrees with the claim. Checked by the deciding role, not by an independent party.",
+        "reason": null
+      }
     }
   ],
   "limits": [
-    "One use, on two offers from one project; no later offer has been read this way",
+    "Two uses, both in one project, both with tests that project wrote; no other project has used it",
     "Both readers applied tests the decider wrote; their agreement does not validate the tests",
     "The reader ran on a different provider's model; whether a same-model reader adds as much is unknown",
-    "The outcome did not change in the one use; the gain was in faults found and a corrected public statement",
-    "The evidence was verified by the deciding role itself"
+    "The outcome did not change in the first use; the gain was in faults found and a corrected public statement",
+    "The evidence was verified by the deciding role itself",
+    "Closed input withholds the decider's reasons but does not make the reader independent in judgment",
+    "Where author and decider are the same role, that role still frames the brief and interprets the differences"
   ],
   "evolution": {
     "origin_state": "aligned",
@@ -111,7 +133,8 @@ What this does not show: it is one use. Both readers applied tests the decider w
       "kind": "template",
       "purpose": "Brief for the independent reader, with its evidence, limits and cost stated, and the decider's comparison steps",
       "adaptations": [
-        "Fill the bracketed parts with your intent, roles, paths and tests"
+        "Fill the bracketed parts with your intent, roles, paths and tests",
+        "Before replacing or removing any part, check what depends on it; keep the preface's limits with your records and with any copy passed on"
       ],
       "dependencies": [
         "Written decision tests",

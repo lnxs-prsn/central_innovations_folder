@@ -20,7 +20,7 @@ Maintained by the executive; refreshed at each entry and whenever direction or a
 
 **Situation** [evidence, sources in brackets]
 - Capability: `capability-003` current, published 2026-11-06 [`published/INDEX.md`]. Run on Linux, Python 3.13.5, 3.11.15 and, from a copy of the edition, 3.9.25 (2026-11-15: 36 tests OK, one intended skip; render check OK, its synthetic growth from 10 to 100 contents keeps candidate output at about 3.3 KB). Windows never run.
-- Catalogue: `catalogue-003` offers nothing. `root-cause-laddering` retired, `situation-personification` held; what each needs is in `published/answers/2026-11-07.md`. Admission bar: `published/admission/2026-11-07b.md`.
+- Catalogue: `catalogue-004` (2026-11-16) offers one: `independent-read-before-admission`, Central's own, admitted after two independent reads [`published/answers/2026-11-16.md`]. Before it, `catalogue-003` offered nothing. `root-cause-laddering` retired, `situation-personification` held; what each needs is in `published/answers/2026-11-07.md`. Admission bar: `published/admission/2026-11-07b.md`.
 - Reach: `.knowhow/parts.json` lists 13 parts. Four publish an index (book_podcast_fiction_generator, algorith_curriculum_brainstorming, directed_opportunism, toolusage); nine have none. Only book_podcast offers: 2 offers, no new content since 2026-11-05. Its questions of 2026-11-05 are answered; no others.
 - Subordinates: none live [`briefs/sessions.md`; no run started since 2026-11-07].
 - Method: 2026-11-16f applied [`directed_opportunism/LOCAL.md`].
@@ -42,8 +42,8 @@ Maintained by the executive; refreshed at each entry and whenever direction or a
 | Answer questions; next capability edition, with the admission bar in `OWNER.md` | Executive answers; a build subordinate, briefed, builds | Next question or offer, or the third admission decision |
 | Run on Windows | Not held: no Windows means here (inventory above) | When a Windows machine is reachable, or a taker reports |
 | Method editions | Executive | Publisher's index at entry |
-| Offer Central's own know-how: admission with an independent reader, as a contribution under the standard; independent read; decide; publish catalogue-004 | Executive writes and decides; a subordinate run reads independently | Now |
-| Capability-004: the admission bar in `OWNER.md` | Executive briefs a build subordinate | After Central's offer is decided, with any questions then open |
+| Offer Central's own know-how | Done 2026-11-16: held, corrected, admitted; `catalogue-004` | — |
+| Capability-004: the admission bar in `OWNER.md` | Executive briefs a build subordinate | Held 2026-11-16 [interp]: no other curator exists to use it, and one build run costs about 0.5M tokens (M10); trigger: a taker's question, a second curator, or the next capability change |
 | Check this entry's arrival | The next executive instance | Its first acts: did it act from this brief without reading the lookup records? Record the answer in part 6 |
 
 **Boundaries**: `intent.md`, Boundaries, all of them (quoted in part 5, checked by script against `intent.md` at each re-brief). Commit locally; pushing is the CEO's. Read other projects only through their published parts.
@@ -920,3 +920,15 @@ Answer: nothing in `intent.md` or the brief requires you to say continue. The st
 Changed: implied tasks that need no outside event carry the trigger `Now`, and `tools/situation.py` reports each as due. The control loop says a report is not the end of the work. Acted the same session: Central offered `independent-read-before-admission`; its own published part was added to intake; an independent reader was started (`briefs/2026-11-16_independent_read.md`), with my own reading recorded first.
 
 **Asked of the CEO:** nothing.
+
+## 2026-11-16 — Central's own offer: held, corrected, admitted
+
+**The brief is valid** (p.250). Leg 14's done-when, first two parts met: a contribution is admitted under the bar after an independent read, and `catalogue-004` offers it. The third part (some project's published material shows it was taken or questioned) is not met.
+
+Central offered `independent-read-before-admission`. My own reading, recorded before each brief: admit. The first reader (Codex `gpt-6.1-sol`, closed input, 13,752 tokens) recommended hold on tests 4 and 6. I had missed both and agreed; the offer was held, with the decision published. The corrected offer got a fresh read (26,369 tokens): admit, all seven tests. Admitted; `catalogue-004` published; a test project's `ask` finds it. [evidence: `published/answers/2026-11-16.md`; `briefs/2026-11-16*_independent_read_report.md`; `briefs/2026-11-16*_own_reading.md`]
+
+What it showed: the procedure changed my decision on my own work, which the 11-07 use had not done. Author and decider are one role; the record and the reason say so.
+
+Capability-004 held, with reason, in the implied tasks. `MAP.html` refreshed at this stage point.
+
+**Asked of the CEO:** nothing. For your arrangement: the catalogue now offers something. Projects reach it only through the line you give them.

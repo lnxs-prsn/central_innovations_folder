@@ -54,4 +54,5 @@ Codex `exec` run started by the executive as a tracked background process with i
 
 Codex `exec` run started by the executive as a tracked background process with input closed; log `.knowhow/runs/2026-11-16_independent_read.log`. Model `gpt-6.1-sol`, effort `medium`, as on 2026-11-07: a different provider's model from the deciding role's. Its brief withholds the curator's reasons and says the decider is the author.
 
-- independent read; brief 2026-11-16_independent_read.md; running.
+- independent read; brief 2026-11-16_independent_read.md; report received at run end: hold; run ended.
+- 2026-11-16b: independent read of the corrected offer; brief 2026-11-16b_independent_read.md; report received at run end (26,369 tokens): admit; run ended. (First run: report received at run end, 13,752 tokens; hold.)
