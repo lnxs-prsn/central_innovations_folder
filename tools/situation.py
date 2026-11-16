@@ -159,7 +159,14 @@ MESSAGE_ROUTE = ("A message from the CEO, the assigned superior: place it agains
 
 def message():
     sys.stdin.read()
-    print(json.dumps({"hookSpecificOutput": {"hookEventName": "UserPromptSubmit", "additionalContext": MESSAGE_ROUTE}}))
+    text = MESSAGE_ROUTE
+    try:  # cheap local read: an edition published since session start is seen before the reply, not only at Stop
+        applied, current_ed = edition()
+        if current_ed not in (applied, "unreadable"):
+            text += f" METHOD: edition {current_ed} published, {applied} applied: read its UPDATE.md, tell the CEO if significant, take it."
+    except Exception:
+        pass
+    print(json.dumps({"hookSpecificOutput": {"hookEventName": "UserPromptSubmit", "additionalContext": text}}))
 
 
 def ack():

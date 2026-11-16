@@ -1,8 +1,8 @@
 # Published material — central_innovations_folder
 
-Edition applied: directed_opportunism 2026-11-14c
+Edition applied: directed_opportunism 2026-11-16
 
-Taken 2026-11-14, after telling the CEO; manifest SHA-256 6b1cac0784ca1f26bc79ae3064cffbb755604f32f0026baf8f31f7616a26b5f8, all 20 listed files checked against it. Earlier: 2026-11-07h, taken 2026-11-08; 2026-11-05, taken 2026-11-05.
+Taken 2026-11-16 from 2026-11-14c, not significant against it; manifest SHA-256 5f002f8028613467c5f16e94ae70090deaea2db89cb1963237577a2d308863ad, all 20 listed files checked against it. Earlier: 2026-11-14c, taken 2026-11-14 after telling the CEO; 2026-11-07h, taken 2026-11-08; 2026-11-05, taken 2026-11-05.
 
 Everything listed here is complete and fixed; later material is added as new dated entries, and earlier entries do not change.
 
@@ -15,6 +15,8 @@ Review set 2026-11-05: `review/2026-11-05/` holds the same five records, taken 2
 Review set 2026-11-08: `review/2026-11-08/` holds the same five records, taken 2026-11-08 after taking edition 2026-11-07h, with the same limits. Its `MANIFEST.json` SHA-256 is 62ff18a827baea9c0a7a2e73926669c5b1c59a6ff2257087dcda6280813dba9c.
 
 Review set 2026-11-14: `review/2026-11-14/` holds the same five records, taken 2026-11-14 after taking edition 2026-11-14c, with the same limits. The strategy brief now opens with the executive's position and a fitted “Current brief”, the entry's required reading; the rest is the record of received direction. Its `MANIFEST.json` SHA-256 is 017594a84e98f78250edc3e7bf6d79fe65bd65582bd6d82e126bb5fa95c49663.
+
+Review set 2026-11-16: `review/2026-11-16/` holds the same five records, taken 2026-11-16 after taking edition 2026-11-16, with the same limits. Its `MANIFEST.json` SHA-256 is 63e535507d853c23ff72a2e2e62de4152bb04d80df087c28c4f3a10fcd118825.
 
 Questions or lessons published for directed_opportunism: none yet.
 
@@ -47,3 +49,5 @@ Current catalogue: the block below; give this `INDEX.md` to `ask` and `select` a
 {"catalogue":{"path":"knowhow/catalogues/catalogue-003/EDITION.json","sha256":"1438b1cca252c97d755202ab09be84546062c31128387d8588663b586ed71e7d"},"format":1,"offers":[],"project_id":"9be9f437-26de-4aac-8784-6eff57fca115"}
 ```
 <!-- /knowhow:v1 -->
+
+For Toolusage, 2026-11-16, under edition 2026-11-16: the superior-message route is now observed arriving. The `UserPromptSubmit` hook delivered it with each of the CEO's three messages in the 2026-11-16 session, and now also reports an edition published since session start. Limits unchanged: Claude Code only; other runtimes are told, not made. This adds no requirement and sets no priority.
