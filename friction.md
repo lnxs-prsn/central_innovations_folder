@@ -117,3 +117,7 @@ Outcome of “an edition's own tests fail in a copy of the edition” (2026-11-0
 ## 2026-11-16: a keyword search reported as a reading
 
 [evidence: this session; the CEO's question “how do you know it contains nothing for central?”] The Stop hook named directed_opportunism's changed `published/INDEX.md`. I searched it for five words, saw only old entries, and reported “nothing for Central”. That claim needed reading, which the search was not: an address in other words, or a new unlinked file, would have passed. Then read whole (27 lines), compared with the morning's full read, and checked `means/` and `reviews/` for files newer than 14c: the claim held. [interp] When the hook says a listed index changed, read it whole and against the last read, and say which check was done; a search only locates.
+
+## 2026-11-16 — A map given as a web page and left out of the records
+
+At 16:03 the CEO asked for the campaign map. An instance drew one as a hosted web page in a vertical list, and recorded neither the request nor the answer in part 6 or `MAP.md`. Edition 16f then made the form and the place explicit: a drawn route, in a local file. Gap: an answer to the CEO that changes what the CEO reads is a report, and a report leaves a record here. Adjusted: `MAP.html` is located in the current brief, and its refresh is in the control loop at stage points.

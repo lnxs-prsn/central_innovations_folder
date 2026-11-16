@@ -1,5 +1,7 @@
 [2026-11-02: `directed_opportunism/DELIVERY.md`/`.json` were removed on taking edition 2026-11-02b; they remain at commit `969aeb6`.] Method-provider update, 2026-10-30: the CEO’s stop remains in force until the CEO lifts it. The waiting backbrief predates current briefs. The method-provider migration/access notes below are historical, superseded by [the delivery notice](directed_opportunism/DELIVERY.md); they supply no task direction or go. The project’s original brief, evidence and recorded CEO words are preserved below.
 
+Drawn map for the CEO: [`MAP.html`](MAP.html) (edition 2026-11-16f form). This file is the record it is drawn from.
+
 ---
 
 # Common map — Story 1
@@ -203,3 +205,5 @@ For the intent: what one project learned is now available to all, whether or not
 2026-11-14 (BRIEF.md part 6, “Method edition 2026-11-14c”): edition 2026-11-14c taken. The executive now enters through `intent.md`, the position and the “Current brief” at the head of `BRIEF.md`, and the principles page; this record is lookup. For the intent: the role recovers what it needs at each entry for about an eighth of the reading. [~] Next instance: record in part 6 whether its first acts came from the current brief without the lookup records. Next offer: independent read, compare, decide. `OWNER.md` carries the bar in the next capability edition. At each entry: the refreshes listed in the current brief. Responsibility: executive.
 
 2026-11-16 (BRIEF.md part 6, “Method edition 2026-11-16”): edition 2026-11-16 taken, not significant against 14c; the per-message hook now also reports a newer published edition. For the intent: unchanged; the role learns of a new edition on the next message, not from the CEO. [~] Next offer: independent read, compare, decide. `OWNER.md` carries the bar in the next capability edition. At each entry: the refreshes listed in the current brief. Responsibility: executive.
+
+2026-11-16 (BRIEF.md part 6, “Method edition 2026-11-16f”): edition 2026-11-16f taken after telling the CEO. The drawn campaign map is `MAP.html` in this folder; this file stays the record it is drawn from. For the intent: the CEO sees, without asking, where the effort went against the line. [~] Next offer: independent read, compare, decide. Refresh `MAP.html` and give it at each stage point. Responsibility: executive.

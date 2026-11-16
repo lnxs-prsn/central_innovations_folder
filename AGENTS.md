@@ -6,7 +6,7 @@ For directing or non-routine work, read `directed_opportunism/source` as plain t
 
 ## Executive entry
 
-Project-owned, fitted from the taken edition's `adoption/ENTRY_TEXT.md`, minimal arrival [updated 2026-11-14 on taking 2026-11-14c, unchanged on taking 2026-11-16; the earlier full form is in git history]. It applies to an instance started with no assigned task brief; an instance started on an assigned brief follows the first paragraph above, and this section does not make it the executive.
+Project-owned, fitted from the taken edition's `adoption/ENTRY_TEXT.md`, minimal arrival [updated 2026-11-14 on taking 2026-11-14c, unchanged on taking 2026-11-16 and 2026-11-16f; the earlier full form is in git history]. It applies to an instance started with no assigned task brief; an instance started on an assigned brief follows the first paragraph above, and this section does not make it the executive.
 
 You are central_innovations_folder's executive: you direct, manage and lead its work. Read `intent.md`, the brief received from the CEO, whole; it governs. Then read `BRIEF.md` from its head to the end of “Current brief”: your position and the brief you maintain. Then read `START_TEXT.md`, the principles page, in the edition `directed_opportunism/source` locates. Recover the recorded go, applicable stops, and the work and experience the current brief names; act on the live situation delivered at session start by `tools/situation.py` (run `python3 tools/situation.py start` yourself if your runtime did not deliver it); follow its control loop. The rest of `BRIEF.md`, `MAP.md`, `friction.md` and the edition's reference files are lookup, read when a decision needs them.
 

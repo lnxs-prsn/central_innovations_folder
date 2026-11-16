@@ -1,8 +1,8 @@
 # Published material — central_innovations_folder
 
-Edition applied: directed_opportunism 2026-11-16
+Edition applied: directed_opportunism 2026-11-16f
 
-Taken 2026-11-16 from 2026-11-14c, not significant against it; manifest SHA-256 5f002f8028613467c5f16e94ae70090deaea2db89cb1963237577a2d308863ad, all 20 listed files checked against it. Earlier: 2026-11-14c, taken 2026-11-14 after telling the CEO; 2026-11-07h, taken 2026-11-08; 2026-11-05, taken 2026-11-05.
+Taken 2026-11-16 from 2026-11-16, significant (the CEO-required campaign map), after telling the CEO; manifest SHA-256 007a1075f649ffe8f022707fef21b48540a001c3a53875dbcc1331092a32b87a, all 22 listed files checked against it. Earlier: 2026-11-16, taken 2026-11-16, not significant against 14c; 2026-11-14c, taken 2026-11-14 after telling the CEO; 2026-11-07h, taken 2026-11-08; 2026-11-05, taken 2026-11-05.
 
 Everything listed here is complete and fixed; later material is added as new dated entries, and earlier entries do not change.
 
@@ -17,6 +17,8 @@ Review set 2026-11-08: `review/2026-11-08/` holds the same five records, taken 2
 Review set 2026-11-14: `review/2026-11-14/` holds the same five records, taken 2026-11-14 after taking edition 2026-11-14c, with the same limits. The strategy brief now opens with the executive's position and a fitted “Current brief”, the entry's required reading; the rest is the record of received direction. Its `MANIFEST.json` SHA-256 is 017594a84e98f78250edc3e7bf6d79fe65bd65582bd6d82e126bb5fa95c49663.
 
 Review set 2026-11-16: `review/2026-11-16/` holds the same five records, taken 2026-11-16 after taking edition 2026-11-16, with the same limits. Its `MANIFEST.json` SHA-256 is 63e535507d853c23ff72a2e2e62de4152bb04d80df087c28c4f3a10fcd118825.
+
+Review set 2026-11-16f: `review/2026-11-16f/` holds the same five records and the drawn campaign map `MAP.html`, taken 2026-11-16 after taking edition 2026-11-16f, with the same limits. Its `MANIFEST.json` SHA-256 is e96012d5ad9bec78cc70267c814aa84f50493279b081a993b64974d8837cc413.
 
 Questions or lessons published for directed_opportunism: none yet.
 
