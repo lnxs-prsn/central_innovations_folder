@@ -121,3 +121,7 @@ Outcome of “an edition's own tests fail in a copy of the edition” (2026-11-0
 ## 2026-11-16 — A map given as a web page and left out of the records
 
 At 16:03 the CEO asked for the campaign map. An instance drew one as a hosted web page in a vertical list, and recorded neither the request nor the answer in part 6 or `MAP.md`. Edition 16f then made the form and the place explicit: a drawn route, in a local file. Gap: an answer to the CEO that changes what the CEO reads is a report, and a report leaves a record here. Adjusted: `MAP.html` is located in the current brief, and its refresh is in the control loop at stage points.
+
+## 2026-11-16 — A brief made only of waits
+
+[evidence: BRIEF.md part 6, 2026-11-16, “why not continued”] The CEO asked a second time why I stop when no decision is needed. Who caught it: the CEO, twice (2026-11-15, 2026-11-16). Gap: plans and actions (p.45). I wrote every implied task with an outside trigger, and my due-work tooling counted only outside events, so “nothing due” was built in. The 11-15 adjustment fixed the mechanism but not what fed it. Adjustment: `Now` tasks in the brief are due work, and the work I can do without anyone (Central's own offer) is on the list. Check before ending a turn: is there a `Now` task, or work that advances a measure? If not, say why.
