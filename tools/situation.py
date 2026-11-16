@@ -105,7 +105,23 @@ def due_items(state, counts, changed, applied, current_ed, dirty):
                    + ". Read them, answer, then run: python3 tools/situation.py ack")
     if dirty:
         due.append(f"{len(dirty)} uncommitted change(s): judge and commit them.")
+    due.extend(now_tasks())
     return due
+
+
+def now_tasks():
+    """Self-initiated tasks: rows of the current brief's implied-task table whose trigger is `Now`."""
+    try:
+        text = (ROOT / "BRIEF.md").read_text()
+    except OSError:
+        return ["BRIEF.md unreadable: recover the current brief."]
+    head = text.split("# Strategy brief", 1)[0]
+    out = []
+    for line in head.splitlines():
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if line.startswith("|") and len(cells) >= 3 and cells[-1] == "Now":
+            out.append(f"Open Now-task in the current brief: {cells[0][:140]}. Do it, or mark it held with a reason.")
+    return out
 
 
 def gather():

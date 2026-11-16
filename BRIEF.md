@@ -42,6 +42,8 @@ Maintained by the executive; refreshed at each entry and whenever direction or a
 | Answer questions; next capability edition, with the admission bar in `OWNER.md` | Executive answers; a build subordinate, briefed, builds | Next question or offer, or the third admission decision |
 | Run on Windows | Not held: no Windows means here (inventory above) | When a Windows machine is reachable, or a taker reports |
 | Method editions | Executive | Publisher's index at entry |
+| Offer Central's own know-how: admission with an independent reader, as a contribution under the standard; independent read; decide; publish catalogue-004 | Executive writes and decides; a subordinate run reads independently | Now |
+| Capability-004: the admission bar in `OWNER.md` | Executive briefs a build subordinate | After Central's offer is decided, with any questions then open |
 | Check this entry's arrival | The next executive instance | Its first acts: did it act from this brief without reading the lookup records? Record the answer in part 6 |
 
 **Boundaries**: `intent.md`, Boundaries, all of them (quoted in part 5, checked by script against `intent.md` at each re-brief). Commit locally; pushing is the CEO's. Read other projects only through their published parts.
@@ -50,6 +52,7 @@ Maintained by the executive; refreshed at each entry and whenever direction or a
 - The CEO reads only backbriefs. Report in part 6 and the reply at stage points: an offer decided, an edition taken, a capability or catalogue published, a limit met. Do not report each runtime event.
 - New direction from the CEO is a re-brief: backbrief as `intent.md` directs, and build on it only after the CEO's reply. Within recorded alignment and the freedoms, act without asking; ask only for decisions that are the CEO's by a quotable line. A significant edition is told and then taken in the same session (`friction.md`, 2026-11-08).
 - Authority versus invocation [interp]: `intent.md`'s freedoms and the recorded alignment stand until the CEO changes them; a session ending, a summary or a new instance does not end them. A subordinate run's authorization is its brief's scope; its timeout, turn limit or failure ends that invocation, not the authorization. Where a grant's words leave scope or duration unclear, refer it rather than assume either way.
+- Self-initiated work [2026-11-16, after the CEO's second “why have you not continued”]: a task that needs no outside event carries the trigger `Now` above, and `tools/situation.py` reports each `Now` row as due, so a turn cannot end while one is open. A report at a stage point is not the end of the work; continue with open `Now` tasks in the same session. When none is open, look for work that advances a measure before stopping, and if there is none, say why in the reply.
 - Stop and tell the CEO if anything found changes what the CEO would want.
 - Subordinates: a tracked run with closed input. For non-routine work, receive and check the backbrief before the go. Receive the report at the run's end and judge it against its brief.
 - At a stage end, leave: a part 6 entry, a `MAP.md` line with the next holder and trigger, and `friction.md` where a gap appeared.
