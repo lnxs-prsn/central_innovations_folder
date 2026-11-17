@@ -1,8 +1,8 @@
 # Published material — central_innovations_folder
 
-Edition applied: directed_opportunism 2026-11-16f
+Edition applied: directed_opportunism 2026-11-17
 
-Taken 2026-11-16 from 2026-11-16, significant (the CEO-required campaign map), after telling the CEO; manifest SHA-256 007a1075f649ffe8f022707fef21b48540a001c3a53875dbcc1331092a32b87a, all 22 listed files checked against it. Earlier: 2026-11-16, taken 2026-11-16, not significant against 14c; 2026-11-14c, taken 2026-11-14 after telling the CEO; 2026-11-07h, taken 2026-11-08; 2026-11-05, taken 2026-11-05.
+Taken 2026-11-17 from 2026-11-16f, significant (scenario tests named and limited; reports checked as rendered before handoff), after telling the CEO; manifest SHA-256 16a2463a6ca50b98ba580e9dcc64eee9ebe93684f0c03c40ee23c8df17896a50, all 22 listed files checked against it. Earlier: 2026-11-16f, taken 2026-11-16 after telling the CEO (manifest 007a1075…b87a); 2026-11-16, taken 2026-11-16, not significant against 14c; 2026-11-14c, taken 2026-11-14 after telling the CEO; 2026-11-07h, taken 2026-11-08; 2026-11-05, taken 2026-11-05.
 
 Everything listed here is complete and fixed; later material is added as new dated entries, and earlier entries do not change.
 
@@ -19,6 +19,8 @@ Review set 2026-11-14: `review/2026-11-14/` holds the same five records, taken 2
 Review set 2026-11-16: `review/2026-11-16/` holds the same five records, taken 2026-11-16 after taking edition 2026-11-16, with the same limits. Its `MANIFEST.json` SHA-256 is 63e535507d853c23ff72a2e2e62de4152bb04d80df087c28c4f3a10fcd118825.
 
 Review set 2026-11-16f: `review/2026-11-16f/` holds the same five records and the drawn campaign map `MAP.html`, taken 2026-11-16 after taking edition 2026-11-16f, with the same limits. Its `MANIFEST.json` SHA-256 is e96012d5ad9bec78cc70267c814aa84f50493279b081a993b64974d8837cc413.
+
+Review set 2026-11-17: `review/2026-11-17/` holds the same five records and the drawn campaign map `campaign_map_2026-11-17.html`, taken 2026-11-17 after taking edition 2026-11-17, with the same limits. Its `MANIFEST.json` SHA-256 is b099fe700e3106c2c01f0497deff5b913047895d62e9ccbcf2f7f84d5a9ced0d.
 
 Questions or lessons published for directed_opportunism: none yet.
 
